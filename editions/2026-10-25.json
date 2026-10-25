@@ -1,0 +1,285 @@
+{
+ "date": "2026-10-25",
+ "edition": "Sunday 25 October 2026",
+ "lede": [
+  "Brazil picks its president today in a runoff between Lula and Flávio Bolsonaro that polls call a coin flip.",
+  "The US is moving forces into the Middle East amid planning for a possible new strike on Iran, which keeps oil, and therefore Aussie inflation, in play.",
+  "This week decides the next RBA move: September quarter CPI lands Thursday, with the cash rate already at 4.60% and the RBA meeting on Melbourne Cup day."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.60%",
+   "note": "Fourth hike of 2026, highest since 2011"
+  },
+  {
+   "label": "Unemployment",
+   "value": "4.7%",
+   "note": "Sept, after 39,300 jobs lost"
+  },
+  {
+   "label": "Trimmed mean CPI",
+   "value": "3.6%",
+   "note": "Aug, target band is 2 to 3%"
+  },
+  {
+   "label": "ASX 200",
+   "value": "~8,800",
+   "note": "Range through mid Oct"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Brazil votes in a knife edge runoff today",
+     "b": "President Lula, 80 and chasing a fourth term, faces Senator Flávio Bolsonaro, son of jailed former president Jair Bolsonaro. Flávio surprisingly topped the first round on 4 October, and the first Datafolha poll after it had him on 49% to Lula's 45%, which is still a statistical tie.",
+     "w": "Brazil is Latin America's biggest economy and a major commodity exporter competing with Australia in iron ore and beef. A Bolsonaro win would also add another Trump aligned leader to the G20.",
+     "s": {
+      "t": "Reuters via The Star",
+      "u": "https://www.thestar.com.my/news/world/2026/10/09/flavio-bolsonaro-slightly-ahead-of-lula-in-brazil-runoff-datafolha-poll-shows"
+     }
+    },
+    {
+     "h": "US and Israel weigh a fresh strike on Iran",
+     "b": "Military reinforcements are heading to the Middle East and the US has ordered nonessential diplomats out of Saudi Arabia after Houthi attacks. This follows a year of conflict that began with the 28 February US and Israeli strikes that killed Supreme Leader Khamenei and disrupted shipping through the Strait of Hormuz.",
+     "w": "Oil is the transmission line to your wallet. Brent hit about US$109 in September, and Australia imports most of its refined fuel, so Middle East escalation feeds straight into petrol prices, CPI and RBA decisions.",
+     "s": {
+      "t": "NPR World",
+      "u": "https://www.npr.org/sections/world/"
+     }
+    },
+    {
+     "h": "Trump turns on Ukraine again",
+     "b": "Trump waived the Russia sanctions in a bill Congress passed overwhelmingly, agreed a diesel deal with Moscow, and said it was time for someone else to negotiate for Ukraine. Kyiv also lost more than a week of normal Starlink service for its drones before speeds were restored on Friday.",
+     "w": "This is a sharp reversal from July, when Trump backed Ukraine's strikes on Russian refineries. Europe now carries more of the burden, which is why defence spending is rising almost everywhere.",
+     "s": {
+      "t": "AP via WPXI",
+      "u": "https://www.wpxi.com/news/politics/us-ties-with-ukraine/DVEEPYV7SQ32JMWU2JRT2UA5YI/"
+     }
+    },
+    {
+     "h": "Israel holds its first election since 7 October 2023",
+     "b": "Israelis vote on Tuesday 27 October. Tensions are high in the occupied West Bank, where Israel ordered a closure on Friday after soldiers killed two men accused of an attack near Hebron.",
+     "w": "The result could reset Israel's approach to Gaza, Iran and its relationships with Gulf states and the US.",
+     "s": {
+      "t": "NPR World",
+      "u": "https://www.npr.org/sections/world/"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Ebola has spread from Congo, with Nigeria and Kenya recording their first cases of the current outbreak.",
+     "t": "NPR News",
+     "u": "https://www.npr.org/sections/news/"
+    },
+    {
+     "x": "Bulgaria also holds a presidential election today, with a runoff on 1 November if needed.",
+     "t": "Control Risks",
+     "u": "https://www.controlrisks.com/our-thinking/geopolitical-calendar"
+    },
+    {
+     "x": "US midterms are on 3 November and millions of Americans have already voted early.",
+     "t": "NPR World",
+     "u": "https://www.npr.org/sections/world/"
+    },
+    {
+     "x": "New Zealand goes to the polls on 7 November, with Labour and National tied in recent polling.",
+     "t": "Wikipedia: NZ election polling",
+     "u": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "AI found a bug that exposes about 70% of websites",
+     "b": "Researchers at Calif and Google's Wiz used frontier AI models to find PHP2Shell, a set of flaws in the PHP language that let attackers run code on a server. Some of the bugs had been hidden for over a decade. Patches dropped on 21 October and the NSA told organisations to patch immediately or go offline. Exploit attempts are already climbing.",
+     "w": "It is being compared to Heartbleed. The bigger story is that AI now finds and weaponises old bugs in days, which helps defenders and attackers equally.",
+     "s": {
+      "t": "Wiz Research",
+      "u": "https://wiz.io/blog/php2shell-php-rce"
+     }
+    },
+    {
+     "h": "The AI money keeps flowing",
+     "b": "China's DeepSeek is reportedly close to a US$15 billion funding round, and Meta posted US$64.6 billion in quarterly revenue. Meta also now charges Facebook Pages to post more than two links a month, a sign platforms want to keep you inside the app.",
+     "w": "AI investment is a large reason global interest rates and borrowing costs are staying high, according to BlackRock's risk tracking.",
+     "s": {
+      "t": "Tech Startups",
+      "u": "https://techstartups.com/2026/10/22/tech-news-today-october-22-2026-barclays-deepseek-ibm-meta-nokia-palantir-tesla-more/"
+     }
+    },
+    {
+     "h": "AI is starting to show up in layoffs",
+     "b": "A Reuters tally counts 31 companies that have linked 102,800 job cuts to AI since October 2025, with banks making up 39% of them.",
+     "w": "NAB's 2,500 job cuts this week (see Business) fit the same pattern of banks automating back office work.",
+     "s": {
+      "t": "AI Weekly",
+      "u": "https://aiweekly.co/ai-news-today"
+     }
+    },
+    {
+     "h": "Military AI is causing friction inside Big Tech",
+     "b": "Google DeepMind researchers have resigned over contracts with US and Israeli forces, and a US congressional watchdog found the Pentagon does not always follow its own responsible AI rules.",
+     "w": "Expect AI in defence to become a bigger political issue, including for Australia under AUKUS.",
+     "s": {
+      "t": "Tech Startups",
+      "u": "https://techstartups.com/2026/10/22/tech-news-today-october-22-2026-barclays-deepseek-ibm-meta-nokia-palantir-tesla-more/"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Nvidia chips have started switching on in Kazakhstan's US$10 billion national AI cluster, part of the global push for sovereign AI.",
+     "t": "AI Weekly",
+     "u": "https://aiweekly.co/ai-news-today"
+    },
+    {
+     "x": "A former OpenAI engineer has been detained over an alleged hidden recording device in a company meeting room.",
+     "t": "Bill's Home Tech",
+     "u": "https://billshometech.com/tech-news/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Independent MP Helen Haines badly hurt in deliberate attack",
+     "b": "The member for Indi was struck twice by a LandCruiser outside her Wangaratta electorate office last Monday after the driver did a U turn. She lost a leg and remains in a critical condition at The Alfred. A local barber made a citizen's arrest and police have charged a 43 year old man. The motive is unknown.",
+     "w": "Leaders across every party condemned it. Haines helped create the National Anti Corruption Commission, and the attack will force a rethink of security for MPs at their electorate offices.",
+     "s": {
+      "t": "AAP via St George Leader",
+      "u": "https://www.theleader.com.au/story/9371653/what-we-know-so-far-mp-fighting-for-life-after-attack/"
+     }
+    },
+    {
+     "h": "One Nation is now leading some national polls",
+     "b": "The latest YouGov has One Nation on 27%, Labor 24% and the Coalition 23%. Newspoll from early October had Labor narrowly ahead on 29% to One Nation's 28%, with the Coalition on 20%. Albanese still leads Pauline Hanson as preferred PM, 31% to 26%.",
+     "w": "Australia has effectively become a three party contest on primary votes, which is historic. Chalmers has warned progressives not to mock One Nation voters, a sign Labor takes the threat seriously.",
+     "s": {
+      "t": "One News Australia",
+      "u": "https://www.onenewsaustralia.com/australian-poll-tracker/"
+     }
+    },
+    {
+     "h": "Coalition reshuffles under Angus Taylor",
+     "b": "Nationals MP Michelle Landry is retiring, opening a lower house seat that Nationals leader Matt Canavan could move into from the Senate. Earlier in the month Taylor, deputy Jane Hume and Canavan announced a migration cutting plan.",
+     "w": "Immigration is the main battleground with One Nation, and the Coalition is trying to win back voters on the right.",
+     "s": {
+      "t": "The Conversation",
+      "u": "https://theconversation.com/topics/australian-politics-32"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Who's who: PM Anthony Albanese, Treasurer Jim Chalmers, Opposition Leader Angus Taylor, Nationals leader Matt Canavan, RBA Governor Michele Bullock.",
+     "t": "The Conversation",
+     "u": "https://theconversation.com/topics/australian-politics-32"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "Inflation data this week decides the RBA's next move",
+     "b": "The RBA lifted the cash rate to 4.60% in September, its fourth hike this year. Since then the jobs market has turned: September lost 39,300 jobs and unemployment rose to 4.7%. September quarter CPI comes out Thursday 29 October and the RBA meets on 3 November.",
+     "w": "A hot CPI print with oil still high could mean a fifth hike. A soft one plus weak jobs makes a pause likely. Either way it moves mortgages, the dollar and the ASX.",
+     "s": {
+      "t": "OrbitRemit",
+      "u": "https://blog.orbitremit.com/australia-employment-september-2026-job-losses/"
+     }
+    },
+    {
+     "h": "NextDC crashes 40% and AI data centres lose their shine",
+     "b": "Data centre operator NextDC plunged about 40% on Wednesday after returning from a trading halt linked to a dispute over power infrastructure in suburban Melbourne. Earlier, AI data centre company Firmus pulled its float after a weak investor response, and ASIC is now making inquiries.",
+     "w": "Investors are getting pickier about AI infrastructure that needs huge amounts of power. Grid access is becoming the bottleneck, which ties into renewables and transmission build out.",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-21-2026/107290728"
+     }
+    },
+    {
+     "h": "NAB to cut up to 2,500 jobs",
+     "b": "National Australia Bank will shed about 6% of its workforce by mid 2027, and its shares fell on the news.",
+     "w": "Bank margins are under pressure and technology is replacing roles, a trend likely to spread across the big four.",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924"
+     }
+    },
+    {
+     "h": "ASX says it has turned the corner",
+     "b": "At its annual meeting the ASX chair said the exchange had reached a turning point after years of outages and a failed tech overhaul. The regulator ordered it to hold an extra A$150 million in capital, so it cut its dividend payout to 75% of profit.",
+     "w": "The ASX runs the market everyone else depends on, so its reliability is a systemic issue, not just a company one.",
+     "s": {
+      "t": "Reuters via US News",
+      "u": "https://money.usnews.com/investing/news/articles/2026-10-21/australias-asx-says-turning-point-reached-after-trading-outages"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Japan's Daiichi Life bid $11.80 a share for wealth manager Challenger, a premium of almost 20%.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
+    },
+    {
+     "x": "Ampol's refining margins more than doubled with oil near US$110 a barrel.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
+    },
+    {
+     "x": "ASIC warned of cracks in private credit after property developer Bathla Group collapsed.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924"
+    },
+    {
+     "x": "OpenAI's Australian arm booked $3.87 million in revenue over seven months and paid $88,000 in tax.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-21-2026/107290728"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Trimmed mean inflation",
+  "body": "Headline CPI can be thrown around by a few volatile items like petrol or holiday prices. The trimmed mean ranks every price change in the basket, throws out the most extreme 15% at each end, and averages the middle 70%. That gives a cleaner read on underlying inflation, which is why it is the RBA's favourite number. Watch for it in Thursday's CPI release."
+ },
+ "ahead": [
+  {
+   "d": "Sun 25 Oct",
+   "e": "Brazil presidential runoff. Bulgaria presidential election."
+  },
+  {
+   "d": "Tue 27 Oct",
+   "e": "Israel national election."
+  },
+  {
+   "d": "Wed 28 Oct",
+   "e": "US Federal Reserve rate decision (Thursday morning Aus time)."
+  },
+  {
+   "d": "Thu 29 Oct",
+   "e": "Australian September quarter CPI. ECB rate decision."
+  },
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA decision on Melbourne Cup day. US midterm elections."
+  },
+  {
+   "d": "Sat 7 Nov",
+   "e": "New Zealand general election."
+  }
+ ]
+}

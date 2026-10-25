@@ -1,0 +1,570 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="A ten minute daily briefing on world affairs, tech, and Australian politics and business.">
+<title>Daily Scoop</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0}
+img{max-width:100%}
+
+/* Layout: one reading column, masthead with edition navigation, numbers strip, four desks, explainer, week ahead */
+:root{
+  --bg:#F2F5F7; --surface:#FFFFFF; --ink:#14202E; --muted:#596777; --rule:#D5DCE3;
+  --accent:#2C6B5A; --accent-soft:#E2EFEA; --warn:#8A5D14; --warn-soft:#F6ECD9;
+  --display:"Archivo","Arial Narrow",system-ui,sans-serif;
+  --body:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0E151C; --surface:#151F29; --ink:#E5EBF0; --muted:#92A1AF; --rule:#25323E;
+  --accent:#72BDA5; --accent-soft:#18302A; --warn:#E0B36A; --warn-soft:#2E2414; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0E151C; --surface:#151F29; --ink:#E5EBF0; --muted:#92A1AF; --rule:#25323E;
+  --accent:#72BDA5; --accent-soft:#18302A; --warn:#E0B36A; --warn-soft:#2E2414; color-scheme:dark}
+
+body{background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:700px;margin:0 auto;padding-block:28px 64px;display:flex;flex-direction:column;gap:36px}
+a{color:var(--accent)}
+a:focus-visible,button:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.mast{display:flex;flex-direction:column;gap:10px;border-bottom:3px solid var(--ink);padding-bottom:16px}
+.mast .meta{font-family:var(--mono);font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);display:flex;flex-wrap:wrap;gap:6px 18px}
+.mast h1{font-family:var(--display);font-stretch:75%;font-weight:800;font-size:clamp(44px,11vw,76px);line-height:.92;margin:0;letter-spacing:-.01em;text-transform:uppercase}
+.mast h1 span{color:var(--accent)}
+.mast .date{font-family:var(--display);font-stretch:90%;font-weight:600;font-size:20px;margin:0}
+
+/* edition navigation */
+.ednav{display:flex;flex-wrap:wrap;align-items:center;gap:8px;position:relative}
+.btn{font-family:var(--mono);font-size:12.5px;color:var(--ink);background:var(--surface);border:1px solid var(--rule);
+  padding:6px 11px;border-radius:4px;cursor:pointer;line-height:1.3}
+.btn:hover:not(:disabled){border-color:var(--accent);color:var(--accent)}
+.btn:disabled{opacity:.45;cursor:default}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--bg)}
+details.archive{position:relative}
+details.archive summary{list-style:none}
+details.archive summary::-webkit-details-marker{display:none}
+details.archive[open] summary{border-color:var(--accent);color:var(--accent)}
+.archive-panel{position:absolute;z-index:5;top:calc(100% + 6px);left:0;width:min(360px,calc(100vw - 32px));max-height:60vh;overflow-y:auto;
+  background:var(--surface);border:1px solid var(--rule);border-radius:6px;box-shadow:0 10px 30px rgba(10,20,30,.18);padding:6px}
+.archive-panel button{display:flex;flex-direction:column;gap:2px;width:100%;text-align:left;background:none;border:0;border-radius:4px;padding:9px 10px;cursor:pointer;color:var(--ink);font:inherit}
+.archive-panel button:hover{background:var(--accent-soft)}
+.archive-panel button[aria-current="true"]{background:var(--accent-soft)}
+.archive-panel .ad{font-family:var(--display);font-weight:700;font-size:15px}
+.archive-panel .at{font-size:13.5px;color:var(--muted);line-height:1.35}
+.archive-panel .empty{font-size:14px;color:var(--muted);padding:10px}
+.oldbanner{background:var(--warn-soft);color:var(--warn);border-radius:6px;padding:10px 14px;font-family:var(--mono);font-size:13px;display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;justify-content:space-between}
+.oldbanner .btn{border-color:var(--warn);color:var(--warn);background:transparent}
+
+nav.desks{display:flex;flex-wrap:wrap;gap:8px}
+nav.desks a{font-family:var(--mono);font-size:12.5px;text-decoration:none;color:var(--ink);border:1px solid var(--rule);background:var(--surface);padding:5px 10px;border-radius:999px}
+nav.desks a:hover{border-color:var(--accent);color:var(--accent)}
+
+.lede{background:var(--accent-soft);border-radius:6px;padding:18px 20px}
+.lede h2,.label{font-family:var(--mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin:0 0 8px;font-weight:500}
+.lede ol{margin:0;padding-left:1.2em;display:flex;flex-direction:column;gap:8px}
+.lede li::marker{font-family:var(--display);font-weight:700;color:var(--accent)}
+
+.numbers{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:1px;background:var(--rule);border:1px solid var(--rule);border-radius:6px;overflow:hidden}
+.num{background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
+.num .v{font-family:var(--display);font-weight:700;font-size:26px;font-variant-numeric:tabular-nums;line-height:1.1}
+.num .l{font-family:var(--mono);font-size:11.5px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.num .n{font-size:13px;color:var(--muted);line-height:1.35}
+
+section.desk{display:flex;flex-direction:column;gap:22px;scroll-margin-top:16px}
+.desk-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;border-bottom:1px solid var(--ink);padding-bottom:6px}
+.desk-head h2{font-family:var(--display);font-stretch:80%;font-weight:800;font-size:30px;text-transform:uppercase;margin:0;line-height:1}
+.desk-head .mins{font-family:var(--mono);font-size:12px;color:var(--muted);white-space:nowrap}
+article{display:flex;flex-direction:column;gap:6px}
+article h3{font-family:var(--display);font-stretch:95%;font-weight:700;font-size:21px;line-height:1.2;margin:0;text-wrap:balance}
+article p{margin:0}
+.src{font-family:var(--mono);font-size:12px;color:var(--muted);margin-top:-2px}
+.src a{color:var(--accent);text-decoration-thickness:1px;text-underline-offset:2px}
+.quick .src{margin:0}
+.why{font-size:15.5px;color:var(--muted);border-left:2px solid var(--accent);padding-left:12px}
+.why b{font-family:var(--mono);font-weight:500;font-size:11.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--accent);margin-right:6px}
+.quick{border-top:1px dashed var(--rule);padding-top:12px}
+.quick ul{margin:0;padding-left:1.1em;display:flex;flex-direction:column;gap:5px;font-size:15.5px}
+
+.explain{background:var(--surface);border:1px solid var(--rule);border-radius:6px;padding:18px 20px;display:flex;flex-direction:column;gap:6px}
+.explain h3{font-family:var(--display);font-weight:700;font-size:22px;margin:0}
+.ahead table{width:100%;border-collapse:collapse;font-size:15.5px}
+.ahead td{padding:8px 0;border-bottom:1px solid var(--rule);vertical-align:top}
+.ahead td:first-child{font-family:var(--mono);font-size:13px;color:var(--accent);white-space:nowrap;padding-right:16px;width:1%}
+footer{font-family:var(--mono);font-size:12px;color:var(--muted);border-top:1px solid var(--rule);padding-top:14px}
+@media (prefers-reduced-motion: no-preference){html{scroll-behavior:smooth}}
+</style>
+</head>
+<body>
+
+
+<div class="wrap" id="app"></div>
+
+<script type="application/json" id="brief">
+{
+ "date": "2026-10-25",
+ "edition": "Sunday 25 October 2026",
+ "lede": [
+  "Brazil picks its president today in a runoff between Lula and Flávio Bolsonaro that polls call a coin flip.",
+  "The US is moving forces into the Middle East amid planning for a possible new strike on Iran, which keeps oil, and therefore Aussie inflation, in play.",
+  "This week decides the next RBA move: September quarter CPI lands Thursday, with the cash rate already at 4.60% and the RBA meeting on Melbourne Cup day."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.60%",
+   "note": "Fourth hike of 2026, highest since 2011"
+  },
+  {
+   "label": "Unemployment",
+   "value": "4.7%",
+   "note": "Sept, after 39,300 jobs lost"
+  },
+  {
+   "label": "Trimmed mean CPI",
+   "value": "3.6%",
+   "note": "Aug, target band is 2 to 3%"
+  },
+  {
+   "label": "ASX 200",
+   "value": "~8,800",
+   "note": "Range through mid Oct"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Brazil votes in a knife edge runoff today",
+     "b": "President Lula, 80 and chasing a fourth term, faces Senator Flávio Bolsonaro, son of jailed former president Jair Bolsonaro. Flávio surprisingly topped the first round on 4 October, and the first Datafolha poll after it had him on 49% to Lula's 45%, which is still a statistical tie.",
+     "w": "Brazil is Latin America's biggest economy and a major commodity exporter competing with Australia in iron ore and beef. A Bolsonaro win would also add another Trump aligned leader to the G20.",
+     "s": {
+      "t": "Reuters via The Star",
+      "u": "https://www.thestar.com.my/news/world/2026/10/09/flavio-bolsonaro-slightly-ahead-of-lula-in-brazil-runoff-datafolha-poll-shows"
+     }
+    },
+    {
+     "h": "US and Israel weigh a fresh strike on Iran",
+     "b": "Military reinforcements are heading to the Middle East and the US has ordered nonessential diplomats out of Saudi Arabia after Houthi attacks. This follows a year of conflict that began with the 28 February US and Israeli strikes that killed Supreme Leader Khamenei and disrupted shipping through the Strait of Hormuz.",
+     "w": "Oil is the transmission line to your wallet. Brent hit about US$109 in September, and Australia imports most of its refined fuel, so Middle East escalation feeds straight into petrol prices, CPI and RBA decisions.",
+     "s": {
+      "t": "NPR World",
+      "u": "https://www.npr.org/sections/world/"
+     }
+    },
+    {
+     "h": "Trump turns on Ukraine again",
+     "b": "Trump waived the Russia sanctions in a bill Congress passed overwhelmingly, agreed a diesel deal with Moscow, and said it was time for someone else to negotiate for Ukraine. Kyiv also lost more than a week of normal Starlink service for its drones before speeds were restored on Friday.",
+     "w": "This is a sharp reversal from July, when Trump backed Ukraine's strikes on Russian refineries. Europe now carries more of the burden, which is why defence spending is rising almost everywhere.",
+     "s": {
+      "t": "AP via WPXI",
+      "u": "https://www.wpxi.com/news/politics/us-ties-with-ukraine/DVEEPYV7SQ32JMWU2JRT2UA5YI/"
+     }
+    },
+    {
+     "h": "Israel holds its first election since 7 October 2023",
+     "b": "Israelis vote on Tuesday 27 October. Tensions are high in the occupied West Bank, where Israel ordered a closure on Friday after soldiers killed two men accused of an attack near Hebron.",
+     "w": "The result could reset Israel's approach to Gaza, Iran and its relationships with Gulf states and the US.",
+     "s": {
+      "t": "NPR World",
+      "u": "https://www.npr.org/sections/world/"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Ebola has spread from Congo, with Nigeria and Kenya recording their first cases of the current outbreak.",
+     "t": "NPR News",
+     "u": "https://www.npr.org/sections/news/"
+    },
+    {
+     "x": "Bulgaria also holds a presidential election today, with a runoff on 1 November if needed.",
+     "t": "Control Risks",
+     "u": "https://www.controlrisks.com/our-thinking/geopolitical-calendar"
+    },
+    {
+     "x": "US midterms are on 3 November and millions of Americans have already voted early.",
+     "t": "NPR World",
+     "u": "https://www.npr.org/sections/world/"
+    },
+    {
+     "x": "New Zealand goes to the polls on 7 November, with Labour and National tied in recent polling.",
+     "t": "Wikipedia: NZ election polling",
+     "u": "https://en.wikipedia.org/wiki/Opinion_polling_for_the_2026_New_Zealand_general_election"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "AI found a bug that exposes about 70% of websites",
+     "b": "Researchers at Calif and Google's Wiz used frontier AI models to find PHP2Shell, a set of flaws in the PHP language that let attackers run code on a server. Some of the bugs had been hidden for over a decade. Patches dropped on 21 October and the NSA told organisations to patch immediately or go offline. Exploit attempts are already climbing.",
+     "w": "It is being compared to Heartbleed. The bigger story is that AI now finds and weaponises old bugs in days, which helps defenders and attackers equally.",
+     "s": {
+      "t": "Wiz Research",
+      "u": "https://wiz.io/blog/php2shell-php-rce"
+     }
+    },
+    {
+     "h": "The AI money keeps flowing",
+     "b": "China's DeepSeek is reportedly close to a US$15 billion funding round, and Meta posted US$64.6 billion in quarterly revenue. Meta also now charges Facebook Pages to post more than two links a month, a sign platforms want to keep you inside the app.",
+     "w": "AI investment is a large reason global interest rates and borrowing costs are staying high, according to BlackRock's risk tracking.",
+     "s": {
+      "t": "Tech Startups",
+      "u": "https://techstartups.com/2026/10/22/tech-news-today-october-22-2026-barclays-deepseek-ibm-meta-nokia-palantir-tesla-more/"
+     }
+    },
+    {
+     "h": "AI is starting to show up in layoffs",
+     "b": "A Reuters tally counts 31 companies that have linked 102,800 job cuts to AI since October 2025, with banks making up 39% of them.",
+     "w": "NAB's 2,500 job cuts this week (see Business) fit the same pattern of banks automating back office work.",
+     "s": {
+      "t": "AI Weekly",
+      "u": "https://aiweekly.co/ai-news-today"
+     }
+    },
+    {
+     "h": "Military AI is causing friction inside Big Tech",
+     "b": "Google DeepMind researchers have resigned over contracts with US and Israeli forces, and a US congressional watchdog found the Pentagon does not always follow its own responsible AI rules.",
+     "w": "Expect AI in defence to become a bigger political issue, including for Australia under AUKUS.",
+     "s": {
+      "t": "Tech Startups",
+      "u": "https://techstartups.com/2026/10/22/tech-news-today-october-22-2026-barclays-deepseek-ibm-meta-nokia-palantir-tesla-more/"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Nvidia chips have started switching on in Kazakhstan's US$10 billion national AI cluster, part of the global push for sovereign AI.",
+     "t": "AI Weekly",
+     "u": "https://aiweekly.co/ai-news-today"
+    },
+    {
+     "x": "A former OpenAI engineer has been detained over an alleged hidden recording device in a company meeting room.",
+     "t": "Bill's Home Tech",
+     "u": "https://billshometech.com/tech-news/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Independent MP Helen Haines badly hurt in deliberate attack",
+     "b": "The member for Indi was struck twice by a LandCruiser outside her Wangaratta electorate office last Monday after the driver did a U turn. She lost a leg and remains in a critical condition at The Alfred. A local barber made a citizen's arrest and police have charged a 43 year old man. The motive is unknown.",
+     "w": "Leaders across every party condemned it. Haines helped create the National Anti Corruption Commission, and the attack will force a rethink of security for MPs at their electorate offices.",
+     "s": {
+      "t": "AAP via St George Leader",
+      "u": "https://www.theleader.com.au/story/9371653/what-we-know-so-far-mp-fighting-for-life-after-attack/"
+     }
+    },
+    {
+     "h": "One Nation is now leading some national polls",
+     "b": "The latest YouGov has One Nation on 27%, Labor 24% and the Coalition 23%. Newspoll from early October had Labor narrowly ahead on 29% to One Nation's 28%, with the Coalition on 20%. Albanese still leads Pauline Hanson as preferred PM, 31% to 26%.",
+     "w": "Australia has effectively become a three party contest on primary votes, which is historic. Chalmers has warned progressives not to mock One Nation voters, a sign Labor takes the threat seriously.",
+     "s": {
+      "t": "One News Australia",
+      "u": "https://www.onenewsaustralia.com/australian-poll-tracker/"
+     }
+    },
+    {
+     "h": "Coalition reshuffles under Angus Taylor",
+     "b": "Nationals MP Michelle Landry is retiring, opening a lower house seat that Nationals leader Matt Canavan could move into from the Senate. Earlier in the month Taylor, deputy Jane Hume and Canavan announced a migration cutting plan.",
+     "w": "Immigration is the main battleground with One Nation, and the Coalition is trying to win back voters on the right.",
+     "s": {
+      "t": "The Conversation",
+      "u": "https://theconversation.com/topics/australian-politics-32"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Who's who: PM Anthony Albanese, Treasurer Jim Chalmers, Opposition Leader Angus Taylor, Nationals leader Matt Canavan, RBA Governor Michele Bullock.",
+     "t": "The Conversation",
+     "u": "https://theconversation.com/topics/australian-politics-32"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "Inflation data this week decides the RBA's next move",
+     "b": "The RBA lifted the cash rate to 4.60% in September, its fourth hike this year. Since then the jobs market has turned: September lost 39,300 jobs and unemployment rose to 4.7%. September quarter CPI comes out Thursday 29 October and the RBA meets on 3 November.",
+     "w": "A hot CPI print with oil still high could mean a fifth hike. A soft one plus weak jobs makes a pause likely. Either way it moves mortgages, the dollar and the ASX.",
+     "s": {
+      "t": "OrbitRemit",
+      "u": "https://blog.orbitremit.com/australia-employment-september-2026-job-losses/"
+     }
+    },
+    {
+     "h": "NextDC crashes 40% and AI data centres lose their shine",
+     "b": "Data centre operator NextDC plunged about 40% on Wednesday after returning from a trading halt linked to a dispute over power infrastructure in suburban Melbourne. Earlier, AI data centre company Firmus pulled its float after a weak investor response, and ASIC is now making inquiries.",
+     "w": "Investors are getting pickier about AI infrastructure that needs huge amounts of power. Grid access is becoming the bottleneck, which ties into renewables and transmission build out.",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-21-2026/107290728"
+     }
+    },
+    {
+     "h": "NAB to cut up to 2,500 jobs",
+     "b": "National Australia Bank will shed about 6% of its workforce by mid 2027, and its shares fell on the news.",
+     "w": "Bank margins are under pressure and technology is replacing roles, a trend likely to spread across the big four.",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924"
+     }
+    },
+    {
+     "h": "ASX says it has turned the corner",
+     "b": "At its annual meeting the ASX chair said the exchange had reached a turning point after years of outages and a failed tech overhaul. The regulator ordered it to hold an extra A$150 million in capital, so it cut its dividend payout to 75% of profit.",
+     "w": "The ASX runs the market everyone else depends on, so its reliability is a systemic issue, not just a company one.",
+     "s": {
+      "t": "Reuters via US News",
+      "u": "https://money.usnews.com/investing/news/articles/2026-10-21/australias-asx-says-turning-point-reached-after-trading-outages"
+     }
+    }
+   ],
+   "quick": [
+    {
+     "x": "Japan's Daiichi Life bid $11.80 a share for wealth manager Challenger, a premium of almost 20%.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
+    },
+    {
+     "x": "Ampol's refining margins more than doubled with oil near US$110 a barrel.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-19/asx-markets-business-live-news/107280976"
+    },
+    {
+     "x": "ASIC warned of cracks in private credit after property developer Bathla Group collapsed.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-20/asx-markets-business-live-news-october-20-2026/107283924"
+    },
+    {
+     "x": "OpenAI's Australian arm booked $3.87 million in revenue over seven months and paid $88,000 in tax.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-21/asx-markets-business-live-news-oct-21-2026/107290728"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Trimmed mean inflation",
+  "body": "Headline CPI can be thrown around by a few volatile items like petrol or holiday prices. The trimmed mean ranks every price change in the basket, throws out the most extreme 15% at each end, and averages the middle 70%. That gives a cleaner read on underlying inflation, which is why it is the RBA's favourite number. Watch for it in Thursday's CPI release."
+ },
+ "ahead": [
+  {
+   "d": "Sun 25 Oct",
+   "e": "Brazil presidential runoff. Bulgaria presidential election."
+  },
+  {
+   "d": "Tue 27 Oct",
+   "e": "Israel national election."
+  },
+  {
+   "d": "Wed 28 Oct",
+   "e": "US Federal Reserve rate decision (Thursday morning Aus time)."
+  },
+  {
+   "d": "Thu 29 Oct",
+   "e": "Australian September quarter CPI. ECB rate decision."
+  },
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA decision on Melbourne Cup day. US midterm elections."
+  },
+  {
+   "d": "Sat 7 Nov",
+   "e": "New Zealand general election."
+  }
+ ]
+}
+</script>
+
+<script>
+(function(){
+  var CURRENT = JSON.parse(document.getElementById('brief').textContent);
+  var app = document.getElementById('app');
+  var index = null;          // list of {date, edition, top}, newest first
+  var indexState = 'loading';
+  var shown = CURRENT;
+
+  function el(tag, cls, html){var e=document.createElement(tag); if(cls) e.className=cls; if(html!=null) e.innerHTML=html; return e;}
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function link(x){return '<a href="'+esc(x.u)+'" target="_blank" rel="noopener">'+esc(x.t)+'</a>';}
+  function words(s){return String(s||'').split(/\s+/).filter(Boolean).length;}
+  function qtext(q){return typeof q==='string'?q:q.x;}
+
+  function neighbours(date){
+    if(!index) return {prev:null,next:null};
+    var i = index.findIndex(function(e){return e.date===date});
+    if(i<0) return {prev:null,next:null};
+    return {prev:index[i+1]||null, next:index[i-1]||null};
+  }
+
+  function render(d){
+    shown = d;
+    app.innerHTML = '';
+    var isCurrent = d.date === CURRENT.date;
+
+    var total = 0;
+    (d.lede||[]).forEach(function(x){total+=words(x)});
+    if(d.explainer) total+=words(d.explainer.body);
+    var secMins = d.sections.map(function(s){
+      var w=0; s.stories.forEach(function(t){w+=words(t.h)+words(t.b)+words(t.w)}); (s.quick||[]).forEach(function(q){w+=words(qtext(q))});
+      total+=w; return Math.max(1,Math.round(w/230));
+    });
+    var mins = Math.max(1,Math.round(total/230));
+
+    var mast = el('header','mast');
+    mast.appendChild(el('div','meta','<span>Geopolitics · Tech · Australia</span><span>'+mins+' min read</span>'));
+    mast.appendChild(el('h1',null,'Daily <span>Scoop</span>'));
+    mast.appendChild(el('p','date',esc(d.edition)));
+
+    // edition navigation
+    var nb = neighbours(d.date);
+    var nav = el('div','ednav');
+    var prev = el('button','btn','‹ Previous day'); prev.type='button'; prev.id='prev-day';
+    prev.disabled = !nb.prev; if(nb.prev){prev.title=nb.prev.edition; prev.onclick=function(){go(nb.prev.date)};}
+    var next = el('button','btn','Next day ›'); next.type='button'; next.id='next-day';
+    next.disabled = !nb.next; if(nb.next){next.title=nb.next.edition; next.onclick=function(){go(nb.next.date)};}
+
+    var det = el('details','archive');
+    var sum = el('summary','btn','Past editions ▾'); det.appendChild(sum);
+    var panel = el('div','archive-panel');
+    if(indexState==='loading') panel.appendChild(el('div','empty','Loading editions…'));
+    else if(indexState==='error' || !index || !index.length) panel.appendChild(el('div','empty','The archive could not be loaded right now. Today\'s edition is still below.'));
+    else {
+      if(index.length===1) panel.appendChild(el('div','empty','This is the first edition. Past days will build up here from tomorrow.'));
+      index.forEach(function(e){
+        var b = el('button'); b.type='button';
+        if(e.date===d.date) b.setAttribute('aria-current','true');
+        b.appendChild(el('span','ad',esc(e.edition)+(e.date===CURRENT.date?' · Latest':'')));
+        if(e.top) b.appendChild(el('span','at',esc(e.top)));
+        b.onclick=function(){det.open=false; go(e.date)};
+        panel.appendChild(b);
+      });
+    }
+    det.appendChild(panel);
+
+    nav.appendChild(prev); nav.appendChild(det); nav.appendChild(next);
+    if(!isCurrent){var t=el('button','btn primary','Latest edition'); t.type='button'; t.onclick=function(){go(CURRENT.date)}; nav.appendChild(t);}
+    mast.appendChild(nav);
+    app.appendChild(mast);
+
+    if(!isCurrent){
+      var ob = el('div','oldbanner','<span>You\'re reading an older edition from '+esc(d.edition)+'.</span>');
+      var back = el('button','btn','Back to latest'); back.type='button'; back.onclick=function(){go(CURRENT.date)};
+      ob.appendChild(back); app.appendChild(ob);
+    }
+
+    var dn = el('nav','desks'); dn.setAttribute('aria-label','Sections');
+    d.sections.forEach(function(s){var a=el('a',null,esc(s.name)); a.href='#'+s.id; dn.appendChild(a);});
+    if(d.ahead && d.ahead.length){var a2=el('a',null,'Week ahead'); a2.href='#ahead'; dn.appendChild(a2);}
+    app.appendChild(dn);
+
+    var lede = el('div','lede');
+    lede.appendChild(el('h2',null,'Three things to know'));
+    var ol = el('ol'); (d.lede||[]).forEach(function(x){ol.appendChild(el('li',null,esc(x)))});
+    lede.appendChild(ol); app.appendChild(lede);
+
+    if(d.numbers && d.numbers.length){
+      var nums = el('div','numbers');
+      d.numbers.forEach(function(n){
+        var c=el('div','num');
+        c.appendChild(el('span','l',esc(n.label)));
+        c.appendChild(el('span','v',esc(n.value)));
+        c.appendChild(el('span','n',esc(n.note)));
+        nums.appendChild(c);
+      });
+      app.appendChild(nums);
+    }
+
+    d.sections.forEach(function(s,i){
+      var sec = el('section','desk'); sec.id = s.id;
+      var head = el('div','desk-head');
+      head.appendChild(el('h2',null,esc(s.name)));
+      head.appendChild(el('span','mins',secMins[i]+' min'));
+      sec.appendChild(head);
+      s.stories.forEach(function(t){
+        var a = el('article');
+        a.appendChild(el('h3',null,esc(t.h)));
+        if(t.s) a.appendChild(el('div','src','Source: '+link(t.s)));
+        a.appendChild(el('p',null,esc(t.b)));
+        a.appendChild(el('p','why','<b>Why it matters</b>'+esc(t.w)));
+        sec.appendChild(a);
+      });
+      if(s.quick && s.quick.length){
+        var q = el('div','quick'); q.appendChild(el('div','label','Quick hits'));
+        var ul = el('ul'); s.quick.forEach(function(x){
+          ul.appendChild(el('li',null, typeof x==='string' ? esc(x) : esc(x.x)+' <span class="src">('+link(x)+')</span>'));
+        });
+        q.appendChild(ul); sec.appendChild(q);
+      }
+      app.appendChild(sec);
+    });
+
+    if(d.explainer){
+      var ex = el('div','explain');
+      ex.appendChild(el('div','label','Explainer of the day'));
+      ex.appendChild(el('h3',null,esc(d.explainer.term)));
+      ex.appendChild(el('p',null,esc(d.explainer.body)));
+      app.appendChild(ex);
+    }
+
+    if(d.ahead && d.ahead.length){
+      var ah = el('section','desk ahead'); ah.id='ahead';
+      var hh = el('div','desk-head'); hh.appendChild(el('h2',null,'Week ahead')); ah.appendChild(hh);
+      var tb = el('table'); d.ahead.forEach(function(r){
+        var tr=el('tr'); tr.appendChild(el('td',null,esc(r.d))); tr.appendChild(el('td',null,esc(r.e))); tb.appendChild(tr);
+      });
+      var wrap = el('div'); wrap.style.overflowX='auto'; wrap.appendChild(tb); ah.appendChild(wrap);
+      app.appendChild(ah);
+    }
+
+    app.appendChild(el('footer',null,'Updated each morning around 9:30am Canberra time. Edition dated '+esc(d.date)+'.'));
+  }
+
+  function go(date){
+    if(date===CURRENT.date){ render(CURRENT); setHash(''); window.scrollTo(0,0); return; }
+    fetch('editions/'+date+'.json',{cache:'no-store'})
+      .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+      .then(function(d){ render(d); setHash(date); window.scrollTo(0,0); })
+      .catch(function(){ alertBanner('That edition could not be loaded. Try again in a moment.'); });
+  }
+  function setHash(h){ try{ history.replaceState(null,'',h?('#'+h):location.pathname+location.search); }catch(e){} }
+  function alertBanner(msg){ var b=el('div','oldbanner','<span>'+esc(msg)+'</span>'); app.insertBefore(b, app.children[1]||null); setTimeout(function(){b.remove()},5000); }
+
+  render(CURRENT);
+
+  fetch('editions/index.json',{cache:'no-store'})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(list){
+      index = list.slice().sort(function(a,b){return a.date<b.date?1:-1});
+      indexState='ok';
+      var h = location.hash.slice(1);
+      if(/^\d{4}-\d{2}-\d{2}$/.test(h) && h!==CURRENT.date && index.some(function(e){return e.date===h})) go(h);
+      else render(shown);
+    })
+    .catch(function(){ indexState='error'; render(shown); });
+
+  var h0 = location.hash.slice(1);
+  if(h0 && !/^\d/.test(h0)){ var t=document.getElementById(h0); if(t) t.scrollIntoView(); }
+})();
+</script>
+
+</body>
+</html>
