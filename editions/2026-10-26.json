@@ -2,7 +2,7 @@
  "date": "2026-10-26",
  "edition": "Monday 26 October 2026",
  "lede": [
-  "Brazil's runoff between Lula and Flávio Bolsonaro is still being counted after a court extended voting by two hours, with the winner due around midday our time.",
+  "Lula has won a record fourth term as Brazil's president, but Flávio Bolsonaro is refusing to concede and plans to challenge the result.",
   "Washington is openly weighing a fresh strike on Iran, pushing Brent crude to about US$117 and putting Labor MPs on edge about Australia's support for the war.",
   "Wednesday's inflation figures are the last big test before the RBA meets on Melbourne Cup day, with markets now leaning toward another rate rise."
  ],
@@ -34,13 +34,13 @@
    "name": "World",
    "stories": [
     {
-     "h": "Brazil's knife edge runoff goes into extra time",
+     "h": "Lula beats Bolsonaro in Brazil runoff, who won't concede",
      "s": {
-      "t": "Latin Times",
-      "u": "https://www.latintimes.com/brazil-election-polling-extended-count-halted-600549"
+      "t": "CBS News",
+      "u": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
      },
-     "b": "Supreme Court Justice Cristiano Zanin ordered polls to stay open two extra hours nationwide, to 7pm Brasília time, after both camps complained: Lula's side about bus shortages in big cities, Bolsonaro's about heavy rain in the south. The electoral court paused counting while the late booths closed. Very early returns had Lula ahead, but that sample was tiny and final polls had Flávio Bolsonaro on 51% to Lula's 49%, a statistical tie.",
-     "w": "Brazil is the biggest economy in Latin America and a major competitor to Australia in iron ore, beef and soybeans. A Bolsonaro win would hand a close Trump ally the presidency and swing the region further right."
+     "b": "Lula won the runoff with about 51.8% of the vote, a lead of nearly 4.4 million votes over Flávio Bolsonaro, after the electoral court counted 100% of ballots. He is the first candidate since 1989 to lose the first round and still win the runoff. Voting was extended by two hours after complaints from both camps, and Bolsonaro reportedly refused to concede and said he would seek to annul the result.",
+     "w": "Brazil is the biggest economy in Latin America and competes with Australia in iron ore, beef and soybeans. A contested handover could mean legal fights and political tension, though Lula's win keeps a Trump aligned leader out of the region's largest country."
     },
     {
      "h": "US military lines up options for another round on Iran",
