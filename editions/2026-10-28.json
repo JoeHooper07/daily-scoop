@@ -1,0 +1,231 @@
+{
+ "date": "2026-10-28",
+ "edition": "Wednesday 28 October 2026",
+ "lede": [
+  "Israel's election has ended without a clear winner, with exit polls showing neither Netanyahu's bloc nor the opposition reaching a 61 seat majority.",
+  "Australia gets its September quarter inflation numbers today, and a hot result would push the RBA towards another rate rise on 3 November.",
+  "A flaw found with AI in the PHP web language has forced governments and websites around the world to patch or go offline."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.60%",
+   "note": "Next decision Tuesday 3 November; markets priced about a 60% chance of a hike as at 26 Oct"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,850.1",
+   "note": "Closed up 0.46% on Tuesday 27 Oct"
+  },
+  {
+   "label": "Brent crude",
+   "value": "about US$114",
+   "note": "Down roughly US$2 on the day, as at 27 Oct"
+  },
+  {
+   "label": "Trimmed mean forecast",
+   "value": "about 1.0%",
+   "note": "Bank forecasts for the September quarter, against the RBA's 0.8%; released today"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Israel's election ends in deadlock, exit polls say",
+     "s": {
+      "t": "CNN",
+      "u": "https://www.cnn.com/2026/10/27/world/live-news/israel-elections-live-results-latest-votes-intl"
+     },
+     "b": "Exit polls on all three main Israeli channels showed neither Prime Minister Netanyahu's bloc nor the opposition led by Gadi Eisenkot reaching the 61 seats needed to govern. Channel 12 had Netanyahu's bloc on about 50 seats, down from 68, and the opposition on about 52. Likud was projected as the biggest party on 24 to 25 seats, with Eisenkot's party on 21 to 23. Arab parties were projected at 17 to 18 seats, and final counts could still shift these numbers.",
+     "w": "Israel has never had a single party win a majority, so weeks of coalition bargaining now decide whether Netanyahu stays. The outcome shapes the war in Gaza and Israel's approach to Iran."
+    },
+    {
+     "h": "Oil eases as Iran talks continue, but Brent stays above US$110",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/10/27/oil-today-iran-us-crude-wti-brent-trump.html"
+     },
+     "b": "Brent fell about US$2 to near US$114 on Tuesday, while US crude settled near US$100. Iran's Supreme Leader Mojtaba Khamenei met his security chief about conditions for ending the war with the US, and called the current state of neither war nor peace something that must end. Iran has tied any deal to ending the US blockade and lifting oil sanctions. UBS expects Brent to sit near US$110 through to the end of the year.",
+     "w": "Oil at these levels feeds straight into Australian petrol and freight prices, and into the inflation numbers the RBA is watching."
+    },
+    {
+     "h": "Regional powers meet in Tehran to try to head off a return to war",
+     "s": {
+      "t": "The New Arab",
+      "u": "https://www.newarab.com/news/saudi-led-talks-tehran-seek-avert-renewed-iran-us-war"
+     },
+     "b": "Talks led by Saudi Arabia in Tehran aim to stop the US and Iran sliding back into open conflict. US Central Command says it has helped Gulf partners export more than 1.5 billion barrels of crude since the summer, with over 3,000 commercial ships passing through the Strait of Hormuz under US support.",
+     "w": "About a fifth of the world's oil normally moves through Hormuz, so any deal or breakdown moves energy prices everywhere."
+    },
+    {
+     "h": "A local ceasefire starts in Oleshky while Kyiv is hit again",
+     "s": {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/27/russia-halts-strikes-on-ukraines-kherson-as-oleshky-ceasefire-takes-effect"
+     },
+     "b": "A limited truce began in the Russian held town of Oleshky in southern Ukraine to let an aid mission in, and it is due to last through Saturday. It was brokered by the US first lady with the involvement of Pope Leo XIV. Elsewhere Russia kept up its attacks, with Zelenskyy saying overnight strikes used 16 ballistic missiles and more than 280 drones, and Kyiv's Southern Bridge and subway were hit.",
+     "w": "Small local pauses are the only ceasefires holding, which shows how far apart the two sides remain on a wider peace."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Russian missiles killed at least three civilians across Kyiv and Kharkiv in the same overnight window.",
+     "t": "NPR",
+     "u": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "AI found flaws in PHP force sites offline worldwide",
+     "s": {
+      "t": "Hackernoon",
+      "u": "https://hackernoon.com/nsa-says-patch-or-go-offline-as-ai-found-php2shell-flaws-reach-70percent-of-the-web"
+     },
+     "b": "The US National Security Agency told organisations to patch PHP straight away or take vulnerable systems offline. Two critical flaws, nicknamed PHP2Shell, could let attackers run code remotely on sites that host PHP themselves, and PHP runs about 70 per cent of websites. Security firm Calif found them in August using an OpenAI model, and details leaked a day before the planned release. Government services in Finland and the Netherlands were temporarily switched off.",
+     "w": "It is a live example of AI speeding up bug hunting for defenders and attackers alike, and any Australian organisation running older PHP needs to act."
+    },
+    {
+     "h": "China drafts export controls on its top AI models",
+     "s": {
+      "t": "Taipei Times",
+      "u": "https://www.taipeitimes.com/News/biz/archives/2026/10/17/2003866098"
+     },
+     "b": "A draft Chinese catalogue covers 23 AI technologies. It would ban exports of AI built to generate malicious code against critical infrastructure, and require licences for model weights above certain performance thresholds, such as 2 trillion parameters. Access through apps or APIs would mostly fall outside the rules. It is only a proposal, with public comments open until 15 November.",
+     "w": "It mirrors US export limits on chips, and shows the AI contest now runs on both sides through trade controls."
+    },
+    {
+     "h": "Australia's cyber agency warns of unprecedented AI powered hacking",
+     "s": {
+      "t": "Euronews",
+      "u": "https://euronews.com/2026/10/27/australia-warns-of-unprecedented-ai-powered-cyberattacks-heres-whats-driving-them"
+     },
+     "b": "Australia's cyber security agency said on Tuesday that AI gives foreign governments an unprecedented ability to break into networks and critical infrastructure. The warning lands in the same week as the PHP scare.",
+     "w": "Expect more pressure on Australian businesses and utilities to meet tougher security standards."
+    }
+   ],
+   "quick": [
+    {
+     "x": "A Cisco survey found only 38% of Singapore organisations are confident they could spot a compromised AI agent.",
+     "t": "Security Brief Asia",
+     "u": "https://securitybrief.asia/story/cisco-warns-singapore-firms-struggle-to-spot-compromised-ai"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Albanese promises a swift response on MP safety, with panic buttons on the table",
+     "s": {
+      "t": "Yahoo News",
+      "u": "https://nz.news.yahoo.com/australia-considers-panic-buttons-mps-090847384.html"
+     },
+     "b": "After the alleged attack on independent MP Helen Haines, the Prime Minister told Labor MPs the government will speed up an independent review of security. Duress alarms for politicians are among the options. Opposition Leader Angus Taylor told Coalition MPs that talks with the government on safety are continuing, without naming specific proposals. A fuller package is expected in coming days.",
+     "w": "Both sides are working together on safety, but it follows complaints that MPs slipped back into personal attacks after calls to lower the temperature."
+    },
+    {
+     "h": "Chalmers' discretionary trust tax goes to a Senate inquiry",
+     "s": {
+      "t": "Accountants Daily",
+      "u": "https://accountantsdaily.com.au/business/23047-businesses-face-death-by-a-thousand-cuts-amid-tax-reforms"
+     },
+     "b": "Treasurer Jim Chalmers introduced bills to set a minimum tax on discretionary trusts, and the Senate sent them to an inquiry. Submissions close on 29 October, with hearings in November. The Greens say the government softened its position before introducing the bills, and that the modelling behind a roughly $4.5 billion estimate has not been released.",
+     "w": "Trusts are a common way for families and small businesses to split income, so the bills matter to a lot of accountants and clients."
+    },
+    {
+     "h": "Victorian Newspoll has the Coalition ahead and One Nation on 20%",
+     "s": {
+      "t": "The Poll Bludger",
+      "u": "https://www.pollbludger.net/2026/10/26/newspoll-labor-24-coalition-33-one-nation-20-in-victoria/"
+     },
+     "b": "A Victorian state Newspoll put Labor on 24% of the primary vote, down four, the Coalition on 33%, up two, One Nation on 20% and the Greens on 14%. Federally, early October polls had Labor and One Nation roughly level at 28 to 29% each, with the Coalition on 20 to 23%.",
+     "w": "The Victorian election is due next month, and One Nation's strength is reshaping the contest on both sides."
+    }
+   ],
+   "quick": []
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "Inflation figures land today, with banks tipping a hot result",
+     "s": {
+      "t": "CommBank",
+      "u": "https://commbank.com.au/articles/newsroom/2026/10/inflation-cpi-rba-interest-rates-november.html"
+     },
+     "b": "The ABS releases September quarter CPI today. The big four banks broadly expect trimmed mean inflation, the RBA's preferred gauge that cuts out extreme price moves, to rise about 1.0% in the quarter, above the RBA's own 0.8% forecast. CommBank expects headline inflation of 3.9% over the year, while others see 4.2%. ANZ and Westpac tip a November hike, while CBA and NAB expect a hold.",
+     "w": "A print of 1.0% or more would push a rate rise on 3 November close to fully priced, which means higher mortgage repayments for many."
+    },
+    {
+     "h": "ASX 200 closes at 8,850 ahead of the inflation data",
+     "s": {
+      "t": "IBTimes Australia",
+      "u": "https://www.ibtimes.com.au/australian-shares-rise-ahead-inflation-data-1877441"
+     },
+     "b": "The ASX 200 rose 40.2 points, or 0.46%, to 8,850.1 on Tuesday, helped by miners and optimism about AI. Brent crude fell back towards US$114 as Middle East talks eased supply fears. The cash rate is 4.60% after three rises this year.",
+     "w": "Higher rates hurt banks and housing exposed stocks, while a strong oil price helps energy producers."
+    },
+    {
+     "h": "Huayou's takeover of Atlantic Lithium clears foreign investment review",
+     "s": {
+      "t": "Proactive Investors",
+      "u": "https://www.proactiveinvestors.com/companies/news/1100735/atantic-lithium-moves-closer-to-takeover-completion-1100735.html"
+     },
+     "b": "Atlantic Lithium said Australian foreign investment approval has been secured for Huayou's proposed US$210 million takeover. A first court hearing is set for 5 November. The deal still needs other regulatory approvals, shareholder backing and Western Australian Supreme Court approval.",
+     "w": "It is a test of how Canberra treats Chinese capital in critical minerals."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Crimson Consulting lifted its stake in Kip McGrath Education Centres to 88.26% through its off market takeover.",
+     "t": "Kalkine",
+     "u": "https://kalkine.com.au/news/announcements/crimson-consulting-australia-lifts-stake-in-kip-mcgrath-education-centres-to-8826-via-off-market-takeover"
+    },
+    {
+     "x": "Forrestania Resources already holds 62.04% of Zenith Minerals, with its unconditional offer closing on 12 November.",
+     "t": "Discovery Alert",
+     "u": "https://discoveryalert.com/asx-stock-news/mining/frs-forrestania-resources-zenith-takeover-offer-october-2026/"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Proportional representation",
+  "body": "Israel splits its 120 Knesset seats according to each party's share of the national vote, instead of electing one MP per local area. That lets many small parties win seats, so no party gets a majority alone. A government needs 61 seats, which means a coalition of several parties that agree on a platform. Australia's Senate works in a similar way, while our House of Representatives uses single member seats, which usually produces a clear winner. The trade off is fairness to smaller voices against quick, stable government."
+ },
+ "ahead": [
+  {
+   "d": "Wed 28 Oct",
+   "e": "ABS September quarter CPI released"
+  },
+  {
+   "d": "Thu 29 Oct",
+   "e": "Submissions close on the discretionary trust tax bills"
+  },
+  {
+   "d": "Sat 31 Oct",
+   "e": "Oleshky ceasefire in southern Ukraine due to run to this date"
+  },
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA interest rate decision (Melbourne Cup day)"
+  },
+  {
+   "d": "Wed 4 Nov",
+   "e": "US midterm elections held (Tuesday 3 Nov in the US)"
+  },
+  {
+   "d": "Thu 5 Nov",
+   "e": "First court hearing for Huayou's Atlantic Lithium takeover"
+  }
+ ]
+}
