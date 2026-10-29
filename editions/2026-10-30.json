@@ -1,0 +1,220 @@
+{
+ "date": "2026-10-30",
+ "edition": "Friday 30 October 2026",
+ "lede": [
+  "Israel's vote count is done at 99.9 percent and still gives Netanyahu's bloc only 53 of 120 seats, with the Arab parties on 19 and holding the key.",
+  "Microsoft's Azure cloud business grew 48 percent while Alphabet shares fell more than 13 percent overnight, a split verdict on huge AI spending.",
+  "Warburg Pincus has topped AVID again for Ingenia, and AVID has until Sunday to respond, days before the RBA is widely expected to lift rates on Tuesday."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.60%",
+   "note": "As at 29 Oct 2026; CBA and ANZ now forecast a rise to 4.85% on 3 Nov"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,891.8",
+   "note": "Close on 29 Oct 2026, up about 0.5%, roughly 4% below the August record"
+  },
+  {
+   "label": "Australian CPI",
+   "value": "4.3%",
+   "note": "Annual, year to September 2026 (ABS, released 28 Oct)"
+  },
+  {
+   "label": "Brent crude",
+   "value": "US$114",
+   "note": "Approx. level on 29 Oct 2026, down slightly on US Iran talk hopes"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Israel's count is done and no bloc has a majority",
+     "s": {
+      "t": "Times of Israel",
+      "u": "https://www.timesofisrael.com/with-85-of-votes-counted-netanyahu-bloc-has-53-seats-eisenkots-48-arab-parties-surge-to-19/"
+     },
+     "b": "With about 99.9 percent of ballots counted, Netanyahu's bloc has 53 seats in the 120 seat Knesset, with Likud on 27. The opposition has 48, including Eisenkot's party on 21, and the Arab parties have 19. Official results are not expected before 4 November. Eisenkot has ruled out serving under Netanyahu, and some opposition figures are wary of relying on Arab parties.",
+     "w": "Neither side can reach 61 without the Arab parties, so Israel faces weeks of bargaining or possibly another election. That keeps the war and Iran policy in limbo."
+    },
+    {
+     "h": "Oil sits near US$114 as the US tries to restart Iran talks",
+     "s": {
+      "t": "HDFC Sky",
+      "u": "https://hdfcsky.com/news/oil-prices-today-october-29-2026-brent-falls-to-114-2-wti-at-101-4-as-us-iran-peace-hopes-counter-supply-risks"
+     },
+     "b": "Brent slipped to about US$114 a barrel on 29 October, with US crude near US$101. Reports say Vice President JD Vance sent a letter to Iranian official Mohsen Rezaei, and Qatar has given Tehran a draft proposal to end the war. Traders are still cautious because of Houthi attacks on Saudi energy sites and a Trump threat to resume the war after the midterms.",
+     "w": "Brent is not far off a four year high. Fuel was a big driver of Australia's 4.3 percent inflation, so any deal or breakdown flows straight to bowser prices and the RBA."
+    },
+    {
+     "h": "US midterms are five days away and Democrats are favoured for the House",
+     "s": {
+      "t": "The Hill",
+      "u": "https://thehill.com/homenews/campaign/6175621-midterm-elections-polls-close-results/"
+     },
+     "b": "The election is on Tuesday 3 November. Decision Desk HQ's forecast gave Democrats about an 80 percent chance of the House and 57 percent for the Senate as of Tuesday. Senate leads are narrow, with North Carolina named as their best pickup chance and Maine, Texas, Ohio and Alaska close.",
+     "w": "Control of Congress decides how much room Trump has on tariffs, spending and Iran. Results land in Australian time on Wednesday 4 November, so expect market moves."
+    }
+   ],
+   "quick": [
+    {
+     "x": "North Korea fired a barrage of short range missiles off its eastern coast on 29 October.",
+     "t": "Stars and Stripes",
+     "u": "https://stripes.com/theaters/asia_pacific/2026-10-29/north-korea-missile-launch-23295815.html"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Microsoft's Azure grows 48 percent and OpenAI brings in US$10 billion",
+     "s": {
+      "t": "Microsoft",
+      "u": "https://news.microsoft.com/source/2026/10/28/microsoft-announces-first-quarter-results-2/"
+     },
+     "b": "Microsoft's September quarter revenue was US$92.3 billion, up 19 percent, with Azure up 48 percent to US$33.2 billion. It guided to 49 to 50 percent Azure growth next quarter. Its filing shows US$10 billion of revenue from commercial arrangements with OpenAI, and contracted future revenue rose 73 percent to US$677 billion.",
+     "w": "It is the strongest evidence yet that AI demand is turning into cloud revenue. Australian companies and governments buy much of this capacity, so it shapes data centre and power demand here."
+    },
+    {
+     "h": "Alphabet shares plunge more than 13 percent after earnings",
+     "s": {
+      "t": "Capital Brief",
+      "u": "https://www.capitalbrief.com/briefing/australian-shares-set-to-rise-despite-alphabets-record-plunge-554e7af0-71aa-4599-8719-459e767d8c75/"
+     },
+     "b": "Alphabet, Google's parent, fell more than 13 percent on Thursday in US trading, which Capital Brief called a record plunge. Tech coverage pointed to a US$9.1 billion quarterly cash outflow as AI spending climbs. The same day Google said it will roll out ads in its AI Mode search to Australia and other countries.",
+     "w": "Investors are rewarding AI spending that shows up as revenue (Microsoft) and punishing it when cash burns faster. It is a test for the whole AI trade, including ASX tech stocks."
+    },
+    {
+     "h": "Apple launches its first touchscreen Mac",
+     "s": {
+      "t": "Apple",
+      "u": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+     },
+     "b": "The new MacBook Pro has a tandem OLED touchscreen and M5 Pro or M5 Max chips. Pre orders opened on 28 October and it ships on Friday 6 November. US pricing starts at US$2,899 for the 14 inch and US$3,399 for the 16 inch.",
+     "w": "Apple long resisted touch on laptops, so this is a real shift in its Mac line and a sign it wants Siri and on device AI to sit closer to everyday computing."
+    }
+   ],
+   "quick": [
+    {
+     "x": "A family has sued OpenAI in California, alleging ChatGPT gave a 19 year old advice on mixing drugs before a fatal overdose; the claims are allegations only.",
+     "t": "News 5 Cleveland",
+     "u": "https://www.news5cleveland.com/science-and-tech/artificial-intelligence/family-sues-openai-alleging-chatgpt-gave-19-year-old-deadly-drug-advice-before-fatal-overdose"
+    },
+    {
+     "x": "Google's Gemini 4 Argon, launched on 30 September, is still limited to vetted cyber defence teams while Google works on safeguards.",
+     "t": "Tech Wire Asia",
+     "u": "https://techwireasia.com/2026/10/google-gemini-4-argon-cybersecurity-access/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Government launches an inquiry into the future of Australia Post",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/federal-politics-live-blog-oct-30/107324978"
+     },
+     "b": "Communications Minister Anika Wells said changing consumer habits and commercial pressures pose big challenges to Australia Post's long term sustainability. The inquiry is due to report by the middle of next year. Earlier the Coalition said it would push a Senate inquiry over a leaked plan that would start with 159 licensed post offices more than 50 kilometres from a bank.",
+     "w": "Parcels are growing but letters are shrinking fast, and the question is who pays to keep regional post offices open. Expect it to become a regional seats issue."
+    },
+    {
+     "h": "Court grants interim control order for convicted terror plotter",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104"
+     },
+     "b": "Home Affairs Minister Tony Burke told Parliament a court granted an interim control order for Isaak el Matari, convicted in 2021 over a plot linked to an Islamic State stronghold in the Blue Mountains. The AFP sought the order, which can impose restrictions for up to 12 months. Home Affairs did not seek a continuing detention order, which could have kept him in custody up to five more years, and the Coalition questioned that choice.",
+     "w": "It shows the trade off between locking someone up after a sentence ends and monitoring them in the community. The opposition will keep pressing the government on it."
+    },
+    {
+     "h": "Albanese says police were called to the Lodge over a security concern",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-29/federal-politics-live-blog-oct-29/107320104"
+     },
+     "b": "The Prime Minister said police attended his Canberra residence the previous night over a security concern. He used the moment to repeat his call to turn down the heat in political debate. Few details were public in what we could see.",
+     "w": "Security around politicians has been a live issue this year, and both sides tend to back calls for a calmer tone even as the debate stays sharp."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Australia sanctioned two North Korean individuals and two companies over fraudulent IT work and cybercrime that funds weapons programs, and on 28 October the EU and 11 countries backed coordinated action.",
+     "t": "France 24",
+     "u": "https://www.france24.com/en/live-news/20261023-australia-sanctions-north-koreans-over-fraudulent-it-work-cybercrime"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "CBA and ANZ now expect the RBA to lift rates to 4.85 percent on Tuesday",
+     "s": {
+      "t": "CommBank",
+      "u": "https://www.commbank.com.au/articles/newsroom/2026/10/commbank-november-rba-rate-hike-inflation-risks.html"
+     },
+     "b": "After September inflation hit 4.3 percent, CBA and ANZ switched to forecasting a hike on 3 November, and Westpac kept its hike call. It would be the fifth rise this year. Trimmed mean inflation was 3.7 percent over the year, and markets price about an 85 percent chance of a move.",
+     "w": "A rise means higher variable mortgage repayments within weeks, and Australian rates would be at levels not seen since 2008, per the coverage."
+    },
+    {
+     "h": "Warburg Pincus trumps AVID for Ingenia and the matching clock is ticking",
+     "s": {
+      "t": "Finance News Network",
+      "u": "https://www.finnewsnetwork.com.au/archives/finance_news_network6023353.html"
+     },
+     "b": "Warburg Pincus lifted its non binding proposal for Ingenia Communities to $5.45 cash plus up to 5 cents of distribution, or $5.50, beating AVID's $5.35 plus 5 cents. Ingenia's board triggered AVID's matching right and AVID has until 1 November to respond. Warburg would split the business, with Discovery Parks taking the holiday parks and LDR Capital the gardens business. The board has not recommended either bid.",
+     "w": "Competing bidders usually push the price up, and the winner may reshape a business that houses many retirees. Neither offer is binding yet."
+    },
+    {
+     "h": "ASX 200 climbs 0.5 percent as banks lead, retailers slip",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+     },
+     "b": "The ASX 200 closed at about 8,891.8, a 20 day high, with NAB, Westpac and CBA rising and miners lagging. Consumer stocks slid after Wesfarmers flagged a slowdown at Bunnings and JB Hi Fi reported first quarter sales down 0.4 percent. Star Entertainment rose after it resumed trading with a plan to pay a $260 million fine.",
+     "w": "Weak retail updates alongside 4.3 percent inflation hint that households are stretched, which is the situation the RBA is trying to manage."
+    }
+   ],
+   "quick": [
+    {
+     "x": "ASIC is looking into what went wrong with the failed Firmus IPO.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-29/asx-markets-business-live-news-29-october-2026/107321622"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Matching right",
+  "body": "A matching right is a clause in a takeover deal that lets the first bidder respond if a rival offers more. In the Ingenia case, AVID signed a process deed with the board, so when Warburg Pincus bid higher, AVID was given until 1 November to match or beat it. The clause rewards bidders who did the early work and gives the board a clear timetable. It can also scare off rivals, which is why boards often limit how long it lasts. For shareholders, it usually means a higher final price, though neither bidder is bound until a deal is signed."
+ },
+ "ahead": [
+  {
+   "d": "Sun 1 Nov",
+   "e": "AVID's deadline to match or beat Warburg Pincus's $5.50 proposal for Ingenia"
+  },
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA rate decision on Melbourne Cup Day, with a rise to 4.85% widely expected"
+  },
+  {
+   "d": "Wed 4 Nov",
+   "e": "US midterm results start arriving in Australian time; Israel's official election results not due before this date"
+  },
+  {
+   "d": "Fri 6 Nov",
+   "e": "Apple's touchscreen MacBook Pro goes on sale"
+  }
+ ]
+}
