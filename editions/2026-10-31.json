@@ -1,0 +1,224 @@
+{
+ "date": "2026-10-31",
+ "edition": "Saturday 31 October 2026",
+ "lede": [
+  "Alphabet's slide has now wiped roughly half a trillion US dollars off its value, and Amazon's mixed results kept Wall Street nervous about the cost of AI.",
+  "Israel's coalition fight is heating up before official results land, while US diplomacy with Iran is sending mixed signals and oil stays above US$110.",
+  "The RBA meets Monday and Tuesday with a rate rise priced as close to certain, and One Nation is now ahead of both Labor and the Coalition in the latest YouGov poll."
+ ],
+ "numbers": [
+  {
+   "label": "ASX 200",
+   "value": "8,908.1",
+   "note": "Close on 30 Oct 2026, up 0.18% on the day and 1.78% for the week"
+  },
+  {
+   "label": "Brent crude",
+   "value": "US$113.72",
+   "note": "Settled 27 Oct 2026 after falling 1.8%; still above US$110"
+  },
+  {
+   "label": "AWS growth",
+   "value": "39%",
+   "note": "Amazon Web Services revenue growth, September quarter, reported 29 Oct 2026"
+  },
+  {
+   "label": "One Nation primary vote",
+   "value": "27%",
+   "note": "YouGov poll, 13 to 20 Oct 2026; Labor 24%, Coalition 23%"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Israel's rivals trade blame while they wait for official results",
+     "s": {
+      "t": "i24NEWS",
+      "u": "https://i24news.tv/en/news/israel/politics/artc-liberman-accuses-eisenkot-of-seeking-government-with-netanyahu"
+     },
+     "b": "Avigdor Liberman, a former minister who leads a party in the anti Netanyahu camp, has accused Gadi Eisenkot of quietly seeking a government with Netanyahu, even though Eisenkot has publicly ruled that out. Neither bloc has the 61 seats needed in the 120 seat Knesset, and the Arab led parties, on roughly 18 to 19 seats, hold the balance. After the final count, President Isaac Herzog will consult party leaders and pick whoever looks best placed to form a government. Official results are due around 4 November.",
+     "w": "Israel could be stuck in weeks of bargaining, with Netanyahu staying on as caretaker prime minister. That keeps decisions on the Gaza war and Iran frozen, which matters for oil prices and for Australia's fuel costs."
+    },
+    {
+     "h": "Trump denies sending Vance's Iran letter as Qatar's mediation hits a snag",
+     "s": {
+      "t": "ROIC News",
+      "u": "https://www.roic.ai/news/trump-denies-directing-vances-letter-to-iran-as-diplomatic-signals-diverge-10-28-2026"
+     },
+     "b": "Reports say Vice President JD Vance wrote to senior Iranian official Mohsen Rezaei to try to restart stalled peace talks. Trump then denied directing the letter, which contradicts a Wall Street Journal report. Qatar has been mediating on a draft proposal, but accounts of its progress conflict and Iran has signalled only a willingness to talk. Brent crude has stayed above US$110 a barrel.",
+     "w": "Mixed messages from Washington make a quick deal less likely. Australia imports most of its fuel, so a prolonged stand off keeps petrol prices and inflation pressure high, which feeds straight into RBA decisions."
+    },
+    {
+     "h": "Mayon volcano erupts in the Philippines and Albay orders early evacuations",
+     "s": {
+      "t": "Daily Tribune",
+      "u": "https://tribune.net.ph/2026/10/30/moon-punch-31-october-2026"
+     },
+     "b": "The Daily Tribune's 31 October front page reports that Mayon has erupted and that Albay province has ordered preemptive evacuations, with Naga City also named in the coverage. Mayon is one of the Philippines' most active volcanoes. Early evacuations are standard practice when authorities fear eruptions could escalate, and the country is also in its busy All Saints' weekend travel period.",
+     "w": "The Philippines is a popular destination and a large source of Australian migrants, so any travel disruption or disaster response here has a real connection to Australians."
+    }
+   ],
+   "quick": [
+    {
+     "x": "US candidates from all major parties are holding rallies this final weekend before the midterm elections, with polls closing in Australian time on Wednesday 4 November.",
+     "t": "WinCalendar",
+     "u": "https://www.wincalendar.com/Calendar/Date/October-31-2026"
+    },
+    {
+     "x": "The US Embassy in London has warned of planned demonstrations in the city on 31 October, including a Palestine Action linked protest near the embassy.",
+     "t": "US Embassy UK",
+     "u": "https://uk.usembassy.gov/demonstration-alert-planned-demonstrations-in-london-october-31-2026/"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Alphabet's record slide wipes about half a trillion US dollars off its value",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+     },
+     "b": "ABC's markets coverage says Alphabet had its worst fall on record, losing roughly half a trillion US dollars in value as worries about its AI spending grew. The Nasdaq fell 1.4% in sympathy. The sell off came a day after the company's earnings, when shares dropped more than 13%.",
+     "w": "Investors are asking when huge AI investment turns into profit. Microsoft's strong cloud numbers eased that fear a little, but Alphabet shows how fast sentiment can turn, and ASX tech names tend to follow the US lead."
+    },
+    {
+     "h": "Amazon's AWS grows 39% but the company narrowly misses on profit",
+     "s": {
+      "t": "The Motley Fool",
+      "u": "https://www.fool.com/coverage/stock-market-today/2026/10/30/stock-market-today-oct-30-amazon-misses-revenue-and-earnings-expectations/"
+     },
+     "b": "Amazon reported revenue of about US$201.9 billion against US$202.1 billion expected, and earnings of US$1.89 a share against US$1.96 expected. Amazon Web Services grew 39% to around US$46 billion, its fastest pace in nearly five years. Capital spending for 2026 stays near US$220 billion, and free cash flow over the past twelve months was an outflow of about US$42.4 billion. The shares fell after the report.",
+     "w": "Strong cloud demand is real, but Amazon is spending cash faster than it earns it. That is the same worry hitting Alphabet, and AWS is a major host of Australian business and government data."
+    },
+    {
+     "h": "Crypto drops as Binance investigates a major security breach",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+     },
+     "b": "A range of crypto assets lost value on 30 October after reports that Binance, one of the world's biggest exchanges, is investigating a major security breach. Details on how much was taken, if anything, were not available in the coverage I found.",
+     "w": "Exchange hacks hit trust quickly and can drag down prices across the whole market. Binance serves many Australian users, so local regulators and customers will want clear answers."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Apple reports its quarterly results on Monday 2 November US time, which will be John Ternus's first earnings call as CEO after Tim Cook moved to executive chairman.",
+     "t": "If You Spent",
+     "u": "https://news.ifyouspent.com/en/news/apple-earnings-what-to-watch-november-2026"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Albanese's staffing offer to One Nation MP David Farley backfires",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-29/one-nation-mp-turns-down-extra-staffer-from-pm/107325240"
+     },
+     "b": "The Prime Minister wrote to Farrer MP David Farley offering an extra staffer on a package of around $200,000. Farley turned it down, and Pauline Hanson accused Albanese of trying to divide One Nation, calling the current staffing system grubby and asking for an independent body to set staff levels. Farley has dismissed talk of moving to Labor, saying his loyalty is to Farrer.",
+     "w": "The PM sets staffing for crossbenchers, which gives the government leverage. With One Nation now a major force in the polls, how Labor treats it is becoming a real political issue."
+    },
+    {
+     "h": "One Nation leads the latest YouGov poll, with Labor and the Coalition close behind",
+     "s": {
+      "t": "The Poll Bludger",
+      "u": "https://www.pollbludger.net/2026/10/21/yougov-labor-24-one-nation-27-coalition-23-open-thread/"
+     },
+     "b": "The YouGov poll, taken 13 to 20 October, had One Nation on 27% of the primary vote, Labor on 24% and the Coalition on 23%. Albanese's approval was 32%, with 62% disapproving, giving a net rating of minus 30, his worst in the series. He still leads Hanson 50 to 42 as preferred PM and leads Coalition leader Angus Taylor 41 to 39.",
+     "w": "A three way split this tight makes preference flows decisive. It also shows how much the major parties have lost, with Labor in government and the Coalition struggling since Angus Taylor replaced Sussan Ley in February."
+    },
+    {
+     "h": "Farrer was One Nation's first win in the House of Representatives",
+     "s": {
+      "t": "The Conversation",
+      "u": "https://theconversation.com/one-nation-wins-farrer-byelection-as-liberal-vote-crashes-282051"
+     },
+     "b": "David Farley won the Farrer by election on 9 May, the first time One Nation has won a seat in the lower house. The seat had been held by the Coalition since 1949. Analysts tied the result to a collapse in the Liberal vote and months of Coalition turmoil after the 2025 election loss, and a preference deal between the Coalition and One Nation also helped.",
+     "w": "It explains why a single MP is getting so much attention from Labor and from Hanson, and why polls now treat One Nation as a genuine contender rather than a protest vote."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Capital Brief's account of the same by election says the Coalition vote collapsed, and notes the seat result is being read as a test of regional conservative loyalty.",
+     "t": "Capital Brief",
+     "u": "https://www.capitalbrief.com/briefing/one-nation-wins-farrer-by-election-coalition-vote-collapses-321b6ec4-9677-4d31-b09e-60c163cd5b4e/"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "ASX 200 edges up 0.18% to 8,908.1 as Reece jumps 9%",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+     },
+     "b": "The ASX 200 closed Friday up 16.3 points to 8,908.1, a gain of 1.78% for the week. Falling stocks outnumbered rising ones, 616 to 438. Reece was the top performer, up 9.42% to $17.25. Catalyst Metals plunged 22% intraday after a production miss and a cut to its FY27 guidance.",
+     "w": "The index held up despite the Alphabet rout in the US, which shows how focused local investors are on the RBA meeting next week."
+    },
+    {
+     "h": "Markets price in an RBA rate rise on Tuesday, with the board meeting Monday and Tuesday",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-28/asx-markets-business-live-news/107316614"
+     },
+     "b": "After hotter inflation data, ABC's markets coverage on 28 October said traders put the chance of a November rate rise near 90%. The RBA's Monetary Policy Board meets Monday and Tuesday, with the decision due on Tuesday 3 November, Melbourne Cup Day. CBA and ANZ economists have said they expect a quarter point rise.",
+     "w": "A rise would add to mortgage repayments for borrowers on variable loans, at a time when fuel prices are already pushing up living costs."
+    },
+    {
+     "h": "Ingenia: Warburg Pincus lifts its bid to $5.50 and AVID has until Sunday to respond",
+     "s": {
+      "t": "The Motley Fool Australia",
+      "u": "https://www.fool.com.au/2026/10/28/ingenia-communities-receives-improved-5-50-takeover-proposal/"
+     },
+     "b": "Warburg Pincus proposed $5.45 per stapled security plus a possible $0.05 distribution for Ingenia Communities, backed by co investors Discovery Parks and LDR Capital. AVID Property Group, which had earlier offered about $2.2 billion, has until 1 November to match or beat it. Both bids depend on Ingenia ending its roughly $992.5 million deal to buy Peet, and the board has not recommended either offer.",
+     "w": "This is a live bidding war in the retirement and land lease housing sector, and it shows how much private capital wants Australian property assets."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Woodside shed 3.2% and Ampol fell 3.8% on 28 October as oil sensitive stocks swung with the Iran headlines.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-28/asx-markets-business-live-news/107316614"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Free cash flow",
+  "body": "Free cash flow is the cash a company has left after paying for its day to day operations and its big investments in things like data centres and equipment. It is different from profit, which includes accounting items that do not move cash straight away. Amazon had a negative free cash flow of about US$42.4 billion over the last twelve months because it is spending so much on AI infrastructure. If the spending does not eventually bring in more money, a company has to borrow or sell shares to keep going. That is why investors are watching this number so closely for Amazon, Alphabet and Microsoft."
+ },
+ "ahead": [
+  {
+   "d": "Sun 1 Nov",
+   "e": "AVID's deadline to match or beat Warburg Pincus's offer for Ingenia"
+  },
+  {
+   "d": "Mon 2 Nov",
+   "e": "RBA board meeting begins; Apple reports earnings in US time"
+  },
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA rate decision on Melbourne Cup Day, with a rise widely expected"
+  },
+  {
+   "d": "Wed 4 Nov",
+   "e": "US midterm results arrive in Australian time; Israel's official election results are due"
+  },
+  {
+   "d": "Fri 6 Nov",
+   "e": "Apple's touchscreen MacBook Pro goes on sale"
+  }
+ ]
+}
