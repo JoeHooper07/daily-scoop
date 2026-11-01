@@ -1,0 +1,229 @@
+{
+ "date": "2026-11-02",
+ "edition": "Monday 2 November 2026",
+ "lede": [
+  "Israel's president starts coalition talks on Wednesday after an election that gave neither Netanyahu nor Eisenkot a majority.",
+  "The RBA decides on rates tomorrow, with a rise to 4.85% widely expected, as the latest Newspoll puts One Nation ahead of Labor.",
+  "Intel's record 29% share drop and the US$6.3 billion Binance hack rattled tech and crypto markets late last week."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.60%",
+   "note": "Current level after the September rise; decision due 3 Nov, as at 2 Nov 2026"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,908.1",
+   "note": "Last close, Friday 30 Oct 2026, up 0.18%"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "70.34 US cents",
+   "note": "As at 30 Oct 2026"
+  },
+  {
+   "label": "Brent crude",
+   "value": "US$114.10",
+   "note": "Reported 29 Oct 2026, near a four year high of US$117"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Israel's president opens coalition talks this week with no clear winner",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/10/30/israel-election-netanyahu-eisenkot-coalition-talks-.html"
+     },
+     "b": "Final results leave Netanyahu's bloc on 53 seats, Gadi Eisenkot's bloc on 48 and the two Arab parties on 19, so nobody has the 61 needed for a majority. President Isaac Herzog is due to start formal consultations with the parties on Wednesday 4 November. Netanyahu has attacked the Arab parties and claimed, without evidence, that foreign backing helped them steal the election. The Arab parties are expected to recommend Eisenkot, who has talked about leading a minority government.",
+     "w": "Whoever gets the mandate has 28 days, with a possible 14 day extension, so Israel faces weeks of limbo, and a unity government or a fresh election are both still possible. That matters for Gaza and Iran policy, and for the oil price."
+    },
+    {
+     "h": "Oil stays around US$114 as Vance tries to restart Iran talks",
+     "s": {
+      "t": "Business Standard",
+      "u": "https://www.business-standard.com/amp/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html"
+     },
+     "b": "Brent crude slipped about 1% to US$114.10 a barrel and US crude fell to US$101.45 after reports that Vice President JD Vance had written to Iranian official Mohsen Rezaei to revive peace negotiations. Brent is still close to a four year high of US$117. Analysts flagged Houthi attacks on shipping and fears that the US could strike Iran after its midterm elections on 3 November. Iran's foreign minister said Tehran was still giving diplomacy a chance.",
+     "w": "Oil this high feeds straight into Australian petrol prices and inflation, which is a big reason the RBA is under pressure to lift rates again."
+    },
+    {
+     "h": "Russian drone strike kills at least 14 at Dnipro train station",
+     "s": {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/10/29/russia-says-more-than-600-drones-launched-towards-moscow-overnight"
+     },
+     "b": "A Russian drone hit passengers waiting on a platform at Dnipro's main railway station on Thursday morning. Al Jazeera put the toll at at least 14, while CNN later reported 15, and the figure may still change. Ukrainian reporting says five railway workers were among the dead. The strike came the same day Ukraine launched a large drone attack on the Moscow region, and Russia said it had downed more than 600 drones.",
+     "w": "Both sides are hitting transport and civilian infrastructure harder, which makes a negotiated end to the war look further away."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Zelensky says Russia fired almost 2,000 attack drones, more than 1,500 guided bombs and 44 missiles at Ukraine in a single week.",
+     "t": "Ukrinform",
+     "u": "https://ukrinform.net/block-lastnews"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Intel plunges about 29% in its worst day ever and drags chip stocks down",
+     "s": {
+      "t": "Reuters via Investing.com",
+      "u": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123"
+     },
+     "b": "Intel fell around 29% on Friday after forecasting quarterly revenue of US$15 billion to US$16 billion, more than US$1 billion below what analysts expected. It also said it does not expect positive cash flow this year, and flagged weak PC demand and supply constraints. The selloff spread across chip and hardware stocks, and the Nasdaq dropped about 3%.",
+     "w": "Intel was meant to be the US comeback story in chipmaking, and its largest shareholder is the US government. The slump adds to worries about how much the AI boom costs and who actually profits."
+    },
+    {
+     "h": "Binance hack grows to about US$6.3 billion, the biggest crypto theft on record",
+     "s": {
+      "t": "TechCrunch",
+      "u": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/"
+     },
+     "b": "Binance says a security incident hit roughly US$6.3 billion of client assets, with about US$3 billion frozen on chain. It paused deposits and withdrawals, and co-CEO Richard Teng said an early lead is a compromised engineer's laptop. Blockchain analytics firm TRM Labs says it assesses with high confidence that North Korea's TraderTraitor group did it, but Binance has not confirmed who is responsible. Binance says it will cover the losses.",
+     "w": "If the attribution holds, it is a state funded theft on a huge scale, and a test of how safe it is to leave money on a crypto exchange."
+    },
+    {
+     "h": "Google, Microsoft, OpenAI and Anthropic back one AI training opt out for websites",
+     "s": {
+      "t": "SiliconANGLE",
+      "u": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard"
+     },
+     "b": "The four companies said they will support a single robots.txt signal that lets publishers say their content must not be used to train generative AI. Microsoft and OpenAI plan to add support in the coming months, while Google will follow next year. Meta has voiced support but has not committed.",
+     "w": "It could ease the fight between publishers and AI firms over scraping, though a voluntary signal only works if companies honour it."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The US government, Intel's biggest shareholder, faces a hit of nearly US$12 billion from the share price fall.",
+     "t": "Star Advertiser",
+     "u": "https://www.staradvertiser.com/2026/10/30/breaking-news/tech-stocks-tumble-as-amazon-intel-fuel-ai-spending-fears/"
+    },
+    {
+     "x": "Binance says it will cover hack losses and has a roughly US$1 billion emergency fund known as SAFU.",
+     "t": "CNBC",
+     "u": "https://www.cnbc.com/make-it/2026/10/30/binance-crypto-hack-customer-funds.html"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Newspoll puts One Nation back in front with Labor down to 27%",
+     "s": {
+      "t": "The Poll Bludger (citing The Australian)",
+      "u": "https://www.pollbludger.net/2026/11/01/newspoll-labor-27-one-nation-28-coalition-21-open-thread/"
+     },
+     "b": "The latest three weekly Newspoll has One Nation steady on 28% of the primary vote, Labor down two points to 27%, the Coalition up one to 21% and the Greens down one to 13%. Treasurer Jim Chalmers scored 24% satisfied and 40% dissatisfied. Poll Bludger's seat estimates put Labor on 64 to 77 seats, short of the 76 needed for a majority in several scenarios.",
+     "w": "Two years of rising prices and rates have turned a once safe government into a possible minority, and One Nation is now the main challenger on the right."
+    },
+    {
+     "h": "A second poll has the Coalition recovering to 24%, level with One Nation",
+     "s": {
+      "t": "Capital Brief",
+      "u": "https://capitalbrief.com/article/coalition-gets-crucial-polling-boost-ahead-of-bruising-week-for-labor-1cdc69fb-9d9a-4995-9640-6f8e3304cb8c"
+     },
+     "b": "A DemosAU poll of 1,500 voters has the Coalition up four points in a month to 24%, equal with One Nation and behind Labor on 26%. Seat modelling suggests One Nation could win between 18 and 32 seats. Polls differ on who is ahead, so the safest read is a three way race with Labor under pressure.",
+     "w": "The Coalition's recovery matters because One Nation's gains have mostly come from its voters, and preferences will decide a lot of seats."
+    },
+    {
+     "h": "Labor fights One Nation while wearing the political cost of inflation",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/michelle-grattan-one-nation-nsw-election/107323786"
+     },
+     "b": "An analysis by Michelle Grattan argues that Labor is battling a One Nation insurgency at the same time as voters feel the pain of inflation. The next state elections are the nearest real test of how far One Nation's support will translate into votes.",
+     "w": "A rate rise on Tuesday would add to that pain for mortgage holders just as the polls get tougher for the government."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Independent Senator Fatima Payman says she was refused a parliamentary adviser because she quit Labor, adding to the row over how the PM hands out staff.",
+     "t": "News24 Australia",
+     "u": "https://news24.com.au/politics/australian-politics/as-petty-as-i-thought-independent-wa-senator-fatima-payman-unleashes-on-albanese-over-staffing-refusal-because-she-quit-labor/news-story/ba33d05f5a4142c8953c839f29648545?nk=ea998c6faf2ec810560ab7b999ff0f09-1793566499"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "RBA decides tomorrow, with a rise to 4.85% the most expected outcome",
+     "s": {
+      "t": "CommBank",
+      "u": "https://www.commbank.com.au/articles/newsroom/2026/10/commbank-november-rba-rate-hike-inflation-risks.html"
+     },
+     "b": "The cash rate is 4.60% after a September rise, and CommBank economists forecast another quarter point increase to 4.85% on Melbourne Cup Day. Reports differ on how fully markets have priced it, from roughly one in three to about 90%, so a surprise hold is not impossible. The RBA will also publish its new Statement on Monetary Policy forecasts at 2.30pm Sydney time, and oil above the level it assumed in August could push its inflation forecasts up.",
+     "w": "A rise to 4.85% would be the highest cash rate since 2008 and add to repayments on variable home loans."
+    },
+    {
+     "h": "AVID matches Warburg Pincus with a revised bid for Ingenia",
+     "s": {
+      "t": "Capital Brief",
+      "u": "https://www.capitalbrief.com/briefing/avid-matches-warburg-pincus-with-revised-ingenia-bid-5c452164-2601-41a0-ae71-05d8dfe6c432/"
+     },
+     "b": "AVID used its matching right and lifted its non binding proposal to $5.45 per stapled security, which with a distribution of up to 5 cents is worth up to $5.50 cash, the same as Warburg Pincus. Ingenia's board says there is no certainty either proposal becomes a binding offer. The deal is tied to Ingenia's proposed $993 million acquisition of developer Peet, and walking away could cost a $10 million reverse break fee.",
+     "w": "Both bidders are now level, so the next move, maybe a higher price or a binding offer, will decide who wins the retirement village and rental community owner."
+    },
+    {
+     "h": "ASX 200 ends the week up at 8,908 while crypto stocks wobble after the Binance hack",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+     },
+     "b": "The ASX 200 closed Friday up 0.18% at 8,908.1 points and the ABC reported a weekly gain of about 1.8%. The Australian dollar was around 70.34 US cents. Crypto assets lost value after the Binance attack, while Wall Street fell sharply on Intel and Amazon.",
+     "w": "Local shares held up well, but a Wall Street tech selloff usually shows up on the ASX when it opens on Monday."
+    }
+   ],
+   "quick": [
+    {
+     "x": "RBA deputy governor Andrew Hauser warned this month the inflation outlook is materially worse than the bank had forecast.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-21/reserve-bank-hauser-warns-inflation-outlook-materially-worse/107288574"
+    },
+    {
+     "x": "Perpetual expects the RBA to pause until at least February, and maybe May, if it lifts rates in November.",
+     "t": "Perpetual",
+     "u": "https://www.perpetual.com.au/insights/weekly-economic-update-rba-signals-another-rate-rise-in-november/"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Caretaker government",
+  "body": "A caretaker government is one that stays in office to run the day to day business of the country while a new government is being sorted out. After Israel's election, Netanyahu remains caretaker prime minister until a new government wins parliament's approval. Caretaker leaders are expected to avoid big new policy decisions. Australia has similar caretaker conventions during election campaigns, when governments avoid major appointments and contracts. The idea is to stop a government that might lose power from locking in choices for its successor."
+ },
+ "ahead": [
+  {
+   "d": "Tue 3 Nov",
+   "e": "RBA cash rate decision and Statement on Monetary Policy, 2.30pm Sydney time (Melbourne Cup Day)"
+  },
+  {
+   "d": "Wed 4 Nov",
+   "e": "US midterm elections are held on Tuesday in the US, so results arrive on Australian Wednesday"
+  },
+  {
+   "d": "Wed 4 Nov",
+   "e": "Israeli President Herzog starts formal talks with parties on who should try to form a government"
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "Israel's new Knesset is sworn in, whatever the state of coalition talks"
+  },
+  {
+   "d": "Late Nov",
+   "e": "Next test for One Nation at the state level, with the Victorian election due"
+  }
+ ]
+}
