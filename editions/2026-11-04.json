@@ -1,0 +1,252 @@
+{
+ "date": "2026-11-04",
+ "edition": "Wednesday 4 November 2026",
+ "lede": [
+  "The RBA lifted the cash rate to 4.85%, the highest since 2008, in a split 6 to 3 vote that hints at a pause.",
+  "The US struck Iran's Qeshm Island on the eve of its midterm elections, while oil swung and Trump floated more strikes afterwards.",
+  "Anthropic's IPO filing shows about US$17 billion in quarterly revenue and a computing bill near US$900 billion."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "Raised 25 basis points on 3 Nov 2026"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,886.8",
+   "note": "Close on 3 Nov 2026, up about 0.3%"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "69.79 US cents",
+   "note": "End of day 3 Nov 2026, down from 70.21"
+  },
+  {
+   "label": "Brent crude",
+   "value": "US$103.60",
+   "note": "Settled 3 Nov 2026 per CNBC; other outlets quote slightly different levels"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "US strikes Iran's Qeshm Island as talks and threats run side by side",
+     "s": {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
+     },
+     "b": "US forces carried out limited strikes on Qeshm Island in the Strait of Hormuz late Monday US time. Officials called them defensive, saying Iran's Revolutionary Guards had fired at an American aircraft. Iranian state media reported several explosions, and Iran's parliament speaker warned against any US miscalculation. Qatar and the US are still working on a possible deal, and Trump has floated restarting hostilities after the midterms.",
+     "w": "The Strait of Hormuz carries a big slice of the world's oil, so each flare up moves fuel prices and, through inflation, Australian interest rates."
+    },
+    {
+     "h": "Israel's president starts talks to pick who tries to form a government",
+     "s": {
+      "t": "Ynet",
+      "u": "https://www.ynetnews.com/article/hygsh5ptgx"
+     },
+     "b": "President Isaac Herzog begins consultations with party leaders today after certification of the 27 October election result. Opposition parties have backed former military chief Gadi Eisenkot, and he is expected to get the first shot at forming a government. Netanyahu says he is open to a broad national government under his own leadership, which Eisenkot's camp rejects. Herzog has about a week to decide, then the nominee gets 28 days to build a coalition.",
+     "w": "A fourth election in a few years would keep Israel's war and Gaza policy in limbo, and it shapes how Washington deals with the region."
+    },
+    {
+     "h": "Russian strike on an aid site in Zaporizhzhia region kills at least 31",
+     "s": {
+      "t": "PBS NewsHour",
+      "u": "https://www.pbs.org/newshour/world/russian-strikes-on-ukrainian-aid-site-kill-at-least-31-people-with-dozens-still-missing"
+     },
+     "b": "The attack hit a former school in the frontline village of Komyshuvakha that served as a shelter and weekly aid distribution point. A second strike then hit a nearby shelter. The dead include four police officers and two rescue workers, and dozens are still missing. Zelenskyy said Russia also launched 289 drones and dozens of missiles across nine regions, causing emergency power cuts.",
+     "w": "It is one of the deadliest single attacks on civilians this year and lands just before new US led peace talks planned for 10 and 11 November."
+    },
+    {
+     "h": "US midterm elections decide whether Trump keeps control of Congress",
+     "s": {
+      "t": "ABC News",
+      "u": "https://abc.net.au/news/2026-11-04/us-midterm-elections-2026-live-updates/107335560"
+     },
+     "b": "All 435 House seats and 35 Senate seats are up. Republicans hold the House 218 to 212, and Democrats need a net gain of three seats to take the Senate. Polls start closing at 6pm Eastern, which is Wednesday morning in Australia, but close races can take days to call because of mail in ballots.",
+     "w": "A Democratic House would be able to block or investigate parts of Trump's agenda, including tariffs and Iran policy, which matters for Australian trade and security."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Trump says the US will not attack Iran before the midterms, and Brent fell to about US$103.",
+     "t": "Yahoo Finance",
+     "u": "https://finance.yahoo.com/markets/article/oil-falls-to-103-as-trump-says-us-will-not-attack-iran-before-the-midterm-elections-171630147.html"
+    },
+    {
+     "x": "Israel's Shin Bet reportedly wants to question four Arab politicians in a vote buying probe but is withholding its evidence.",
+     "t": "Times of Israel",
+     "u": "https://timesofisrael.com/liveblog-november-03-2026"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Anthropic's updated IPO filing shows US$17 billion in quarterly revenue",
+     "s": {
+      "t": "SiliconANGLE",
+      "u": "https://siliconangle.com/2026/11/02/anthropics-quarterly-revenue-jumps-to-17b-losses-grow-ahead-of-ipo/"
+     },
+     "b": "The updated S-1 adds third quarter results of about US$17 billion in revenue, though growth has slowed, and an operating loss of roughly US$540 million to US$570 million depending on the report. Anthropic has applied to list on Nasdaq as ANT. Its computing commitments total about US$895 billion, with roughly US$132 billion in cash and short term investments. One report says the roadshow could start on 10 November. (Note: this is the company that makes Claude.)",
+     "w": "It is a test of whether investors will keep funding the huge cost of AI, the same worry that has been hitting big tech shares."
+    },
+    {
+     "h": "Apple's first results under John Ternus beat forecasts, but memory costs hit its outlook",
+     "s": {
+      "t": "The Next Web",
+      "u": "https://thenextweb.com/news/apple-earnings-q4-2026-memory-costs-margins"
+     },
+     "b": "Apple reported record September quarter revenue of US$114.5 billion, up 12%, with profit of US$30.7 billion. It expects a gross margin of 45% to 46% for the December quarter, below what analysts wanted, mostly because memory chip prices keep climbing. Ternus called current memory pricing unprecedented, and shares fell about 3% after hours.",
+     "w": "AI data centres are soaking up memory chips, which pushes up costs for phones and laptops, and that eventually reaches shoppers."
+    },
+    {
+     "h": "Ransomware crew used AI agents to do much of the hacking",
+     "s": {
+      "t": "Help Net Security",
+      "u": "https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/"
+     },
+     "b": "Sophos reports that the Aur0ra ransomware group gave AI agents stolen credentials and let them move through victim networks towards administrator access. To get past built in guardrails, the attackers told the AI tools the work was authorised red team testing. The attacks used several AI models from different providers.",
+     "w": "It shows AI can lower the skill needed for serious attacks, which raises the bar for Australian businesses under tougher cyber rules."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Cisco Talos says a new self deleting Windows infostealer sends stolen data to Claude to rank a victim's most valuable assets.",
+     "t": "Tom's Hardware",
+     "u": "https://www.tomshardware.com/tech-industry/cyber-security/new-ai-driven-windows-malware-feeds-stolen-data-to-claude-to-rank-victims-assets-by-value-then-deletes-itself-payload-builds-custom-target-assessment-can-switch-models-if-one-refuses-or-skip-the-ai-step-entirely"
+    },
+    {
+     "x": "HPE's CEO says the company has zero exposure to the web of circular financing deals around AI.",
+     "t": "Fortune",
+     "u": "https://fortune.com/2026/11/03/hpe-ceo-antonio-neri-ai-bubble-zero-exposure/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Albanese and Taylor trade blows over spending after the rate rise",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-04/federal-politics-live-blog-angus-taylor-rates/107342840"
+     },
+     "b": "Albanese says the fifth rate rise this year backs the government's plan to find savings before the end of the year, and he rejects the idea that Labor's policies caused it. Opposition Leader Angus Taylor argues government spending is growing faster than the economy and should come down to ease demand. Albanese says Labor would not rip money out of health or schools, and accuses the Coalition of blocking savings such as changes to the private health insurance rebate for over 65s.",
+     "w": "Economists disagree on how much government spending adds to inflation, so this fight will shape the next budget update."
+    },
+    {
+     "h": "Gallagher flags public service savings in the mid year budget update",
+     "s": {
+      "t": "Braidwood Times",
+      "u": "https://www.braidwoodtimes.com.au/story/9385345/katy-gallagher-flags-aps-savings-in-myefo-after-rba-rate-hike/"
+     },
+     "b": "Finance Minister Katy Gallagher has hinted that the mid year budget update, known as MYEFO, will include savings from the Australian Public Service. The signal came straight after the RBA's rate rise. Details and dollar figures have not been released yet.",
+     "w": "Canberra has many public servants, so cuts there matter for the local economy as well as the budget."
+    },
+    {
+     "h": "The rate rise piles political pain on Chalmers and Albanese",
+     "s": {
+      "t": "ANU Australian Institute for Social Inquiry",
+      "u": "https://ausi.anu.edu.au/news/opinion-rbas-interest-rates-rise-lift-household-stress-and-political-pain-jim-chalmers-and"
+     },
+     "b": "An ANU opinion piece argues the hike will lift household stress and political pressure on the Treasurer and Prime Minister. Chalmers has called it difficult news and pointed to global commodity pressures, and he rejects the claim that government spending is to blame. The latest Newspoll had Labor on 27% and One Nation on 28%.",
+     "w": "Barely a year after Labor's big 2025 win, mortgage pain is the main thing testing its hold on voters."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Newspoll has Albanese still ahead of Angus Taylor as preferred prime minister, at 42%, even as Labor's primary vote sits at 27%.",
+     "t": "The Nightly",
+     "u": "https://thenightly.com.au/politics/australian-politics-live-updates-albaneses-primary-vote-reaches-equal-lowest-level-since-he-came-to-power-c-23101551"
+    },
+    {
+     "x": "Pauline Hanson called the PM's offer of an extra staffer to a One Nation MP a grubby attempt to split her party.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-10-29/one-nation-mp-turns-down-extra-staffer-from-pm/107325240"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "RBA lifts the cash rate to 4.85% in a split vote",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-03/rba-interest-rates-markets-live-coverage/107338216"
+     },
+     "b": "The Reserve Bank raised rates by 0.25 percentage points on Melbourne Cup Day, the fifth rise of 2026, with six board members voting to lift and three to hold. It cited high inflation, the Middle East war and higher oil prices. New forecasts see headline inflation peaking at 4.5% in the December quarter and staying above 3% until late 2027. Unemployment is forecast to reach 5.1% by the end of 2028.",
+     "w": "The three dissenters and Governor Michele Bullock's talk of taking stock suggest the rise cycle may be close to done."
+    },
+    {
+     "h": "Mortgage holders face higher repayments within weeks",
+     "s": {
+      "t": "Yahoo Finance",
+      "u": "https://au.finance.yahoo.com/news/rba-hikes-cash-rate-to-485-per-cent-with-aussies-forking-out-an-extra-7000-on-mortgage-repayments-033000383.html"
+     },
+     "b": "All four major banks had forecast the rise and lenders are expected to pass it on to variable rate borrowers. One estimate puts the average owner occupier rate at about 6.74%, adding roughly $123 a month on an $800,000 loan. Banks have not all confirmed their timing yet.",
+     "w": "Higher repayments cut spending on everything else, which is how rate rises slow the economy."
+    },
+    {
+     "h": "Shares finish higher despite the rate rise",
+     "s": {
+      "t": "Stockhead",
+      "u": "https://stockhead.com.au/news/closing-bell-rba-pulls-the-reins-but-asx-backs-a-late-winner/"
+     },
+     "b": "The ASX 200 closed up about 0.3% at 8,886.8 after giving up an early gain of around 0.6% before the decision. Investors read the split vote and weaker growth signals as meaning fewer further hikes. The Australian dollar fell to about 69.8 US cents.",
+     "w": "A pause in rate rises would help share prices and borrowers alike."
+    },
+    {
+     "h": "KMD Brands enters exclusive takeover talks over Kathmandu and Rip Curl",
+     "s": {
+      "t": "News24 Australia",
+      "u": "https://www.news24.com.au/latest/rip-curl-and-kathmandu-owner-kmd-brands-enters-exclusive-takeover-talks-with-us-firm-bluestar-alliance/news-story/92b8329373b5313ccc813c81a87b1a01?nk=141eca58719972eb6998c04765808a72-1793683915"
+     },
+     "b": "US brand owner Bluestar Alliance, whose brands include Dickies and Hurley, has exclusivity until as late as 23 December to do due diligence on an all share takeover of KMD. The board has made no recommendation and there is no certainty of a binding offer. Shares jumped nearly 12% on the NZX. KMD reported a statutory loss of $333.5 million in fiscal 2026.",
+     "w": "Two well known outdoor and surf brands could end up under US ownership."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Ingenia's board says AVID's revised cash proposal is equal or superior to Warburg Pincus's, but both offers are still non binding.",
+     "t": "Investing.com (Reuters)",
+     "u": "https://www.investing.com/news/stock-market-news/avid-matches-warburg-pincus-sweetened-16-billion-bid-for-australias-ingenia-4989968"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Forward guidance",
+  "body": "Forward guidance is when a central bank hints at what it might do next, so markets and households can plan. After the November rise, Governor Bullock said the board wants to take stock, and three of nine members wanted to hold. Traders read that as a signal the hiking cycle may be close to a pause. The bank does not promise anything, because new inflation or oil data can change the picture quickly. Guidance matters because shares, the dollar and bank loan rates often move on what the RBA says, not just on what it does."
+ },
+ "ahead": [
+  {
+   "d": "Wed 4 Nov",
+   "e": "US midterm results start arriving in Australian time; Israel's president begins consulting party leaders"
+  },
+  {
+   "d": "Thu 5 Nov",
+   "e": "Watch whether Trump moves on Iran after the US election, as he has floated"
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "Anthropic's IPO roadshow could begin, per one report"
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "US announced Ukraine peace talks begin (10 and 11 November)"
+  },
+  {
+   "d": "Wed 11 Nov",
+   "e": "Approximate deadline for Israel's president to choose who tries to form a government"
+  }
+ ]
+}
