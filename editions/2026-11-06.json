@@ -1,0 +1,239 @@
+{
+ "date": "2026-11-06",
+ "edition": "Friday 6 November 2026",
+ "lede": [
+  "Wall Street had its worst day since April 2025, with the Nasdaq sliding into correction as AI and chip stocks were hit by fears of tougher regulation after the Democrats' midterm sweep.",
+  "Democrats have taken the US House and flipped Senate seats, while the US and Iran keep trading strikes and messages through Qatar.",
+  "At home, department store David Jones has collapsed into administration and One Nation now polls ahead of Labor in some surveys."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "Lifted 0.25 points on 3 Nov in a 6 to 3 vote"
+  },
+  {
+   "label": "ASX 200",
+   "value": "9,065",
+   "note": "Up 2.6% at the close on 5 Nov, its best day since April 2025"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,354",
+   "note": "Down 4.4% on 5 Nov US time; Nasdaq fell 5.5%"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "About 70 US cents",
+   "note": "Reports vary slightly; as at 5 Nov"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Democrats win the US House and flip Senate seats in the midterms",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html"
+     },
+     "b": "Democrats have captured the House and, by CNBC's count, flipped seven Senate seats, around two dozen House districts and five governorships. Pickups include Texas, North Carolina, Ohio, Iowa and Kansas. Mississippi is still being counted and was separated by only a few dozen votes on Wednesday.",
+     "w": "Republicans lose their grip on Congress, which should make it much harder for Trump to pass laws or fund his agenda. Markets reacted at once, and it will shape US trade and China policy that Australian exporters care about."
+    },
+    {
+     "h": "US and Iran trade strikes and messages as Hormuz tensions rise",
+     "s": {
+      "t": "CBS News",
+      "u": "https://www.cbsnews.com/live-updates/iran-war-us-trump-negotiations-midterms/"
+     },
+     "b": "Iran is passing a seven point proposal to Washington through Qatari mediators and says there are no direct talks. It wants the US naval blockade ended, sanctions eased and frozen funds released before it reopens the Strait of Hormuz. Meanwhile Trump has threatened a heavy hit, and the US struck Qeshm Island in what it called a defensive move.",
+     "w": "About a fifth of the world's oil normally moves through Hormuz, so this decides petrol prices and inflation here, and so the RBA's next move."
+    },
+    {
+     "h": "Israel's president says Eisenkot has the most backing but will wait until Sunday",
+     "s": {
+      "t": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog-november-5-2026/"
+     },
+     "b": "After the president's consultations, 67 MPs recommended Gadi Eisenkot and 46 recommended Netanyahu. Eisenkot's total depends on the Arab parties, who hold 19 seats, and many parties refuse to work together. If he gets the mandate on Sunday he has up to 42 days to build a coalition, and failure could mean another election.",
+     "w": "Israel's government will decide how the Gaza and Iran conflicts are handled, which affects Middle East stability and oil."
+    },
+    {
+     "h": "Death toll from Russian strike in Zaporizhzhia region climbs to 40",
+     "s": {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people"
+     },
+     "b": "Ukraine raised the toll from 31 to 40 after Russia hit a school in a front line village that was being used for aid distribution. Zelensky called it one of the deadliest attacks of the war, and it came just before a big barrage on energy sites. He spoke with US envoys Witkoff and Kushner on Wednesday ahead of planned trilateral talks.",
+     "w": "It shows how far off a ceasefire still is, even with US led talks under way."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Vice President Vance blamed the Republican midterm losses on the Iran war, while Iran's chief negotiator said Americans had voted no to war.",
+     "t": "Fox News",
+     "u": "https://www.foxnews.com/live-news/iran-war-news-trump-israel-elections-november-5"
+    },
+    {
+     "x": "Iran's Revolutionary Guard said several tankers caught fire near Hormuz as Trump signalled a possible heavy strike.",
+     "t": "Gulf News",
+     "u": "https://gulfnews.com/world/mena/middle-east-conflict-trump-warns-of-heavy-hit-as-iran-says-americans-voted-no-to-war-1.500735100"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "AI stocks lead a Wall Street rout as the Nasdaq enters correction",
+     "s": {
+      "t": "Axios",
+      "u": "https://www.axios.com/2026/11/05/nasdaq-plummets-correction"
+     },
+     "b": "The Nasdaq Composite fell about 5.5% to enter correction territory, meaning more than 10% below its October record. The S&P 500 lost 4.4% and the Dow shed about 1,800 points. Chip stocks were hit hardest, with Nvidia down about 7.7%.",
+     "w": "Super funds and ordinary investors here hold plenty of US tech through index funds, so the drop matters to Australian super balances."
+    },
+    {
+     "h": "Chipmakers sink on fears Democrats will push tougher AI rules",
+     "s": {
+      "t": "Reuters via Investing.com",
+      "u": "https://www.investing.com/news/stock-market-news/techstock-rout-accelerates-retreat-from-the-ai-trade-5005205"
+     },
+     "b": "Reuters said the semiconductor index fell as much as 11%, its worst stretch since March 2020. Analysts tied it to the Democratic win, including governorships in Texas and Ohio, where data centre building is booming. One observer said AI stocks had been in a quiet bear market for a while.",
+     "w": "AI spending is propping up the US economy and the ASX data centre boom, so a regulatory shift can move prices quickly."
+    },
+    {
+     "h": "UK cyber agency warns AI powered ransomware is coming for critical infrastructure",
+     "s": {
+      "t": "Infosecurity Magazine",
+      "u": "https://infosecurity-magazine.com/news/ncsc-ai-ransomware-threat-uk-cni"
+     },
+     "b": "Britain's National Cyber Security Centre says hostile groups will lean harder on AI over the next two years, and flags ransomware as a key worry for critical services. It warns AI enabled malware could target critical systems by 2028.",
+     "w": "Australian utilities and hospitals face the same threat, which is why the government keeps pushing cyber rules for operators of critical assets."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Nvidia is reportedly capping Chinese customers at 49% of sales for firms that rent out its chips, a single source report that is not yet confirmed.",
+     "t": "Bizpac Review",
+     "u": "https://www.bizpacreview.com/2026/11/03/nvidia-squeezes-chinas-backdoor-access-to-us-ai-chips-with-this-unwritten-rule-1666055/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Taylor edges ahead of Albanese as preferred PM in new poll, with One Nation above Labor",
+     "s": {
+      "t": "Yahoo News Australia",
+      "u": "https://au.news.yahoo.com/taylor-surprise-win-over-albo-234700686.html"
+     },
+     "b": "A YouGov poll has Opposition Leader Angus Taylor ahead of Anthony Albanese 41 to 39 as preferred prime minister for the first time. It put One Nation on 27% of first preference votes, Labor on 25% and the Coalition on 23%. Other pollsters differ on the leader question, with Newspoll still giving Albanese a narrow lead.",
+     "w": "Labor's vote is leaking to One Nation as rates and living costs bite, and a fragmented vote makes the next election hard to call."
+    },
+    {
+     "h": "Chalmers under pressure as the mid year budget update looms",
+     "s": {
+      "t": "ABC News",
+      "u": "https://abc.net.au/news/2026-11-05/albanese-chogm-week-in-politics/107336024"
+     },
+     "b": "The Treasurer has been defending his record and facing questions about whether he should keep the job, as the expenditure review committee meets before the Mid Year Economic and Fiscal Outlook. Angus Taylor says the PM and Treasurer are in denial about the economy after the rate rise. The government says its policies did not cause the hike.",
+     "w": "The update will show how much the budget is stretched, and any big savings would test Labor's backbench."
+    },
+    {
+     "h": "Albanese meets Carney and King Charles at CHOGM in Antigua",
+     "s": {
+      "t": "Prime Minister of Canada",
+      "u": "https://www.pm.gc.ca/en/news/readouts/2026/11/03/prime-minister-carney-meets-prime-minister-australia-anthony-albanese"
+     },
+     "b": "Canada's readout says the two leaders discussed energy, critical minerals, defence and AI. No new policy came out of the meeting. The Coalition's Tim Wilson questioned the PM travelling while cost of living pressure builds at home.",
+     "w": "Critical minerals ties with like minded countries help diversify supply away from China."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Newspoll had Labor on 27%, One Nation on 28% and the Coalition on 21% in its latest federal reading.",
+     "t": "The Poll Bludger",
+     "u": "https://www.pollbludger.net/2026/11/01/newspoll-labor-27-one-nation-28-coalition-21-open-thread/"
+    },
+    {
+     "x": "A separate YouGov poll reported Labor 25, One Nation 27 and Coalition 23.",
+     "t": "The Poll Bludger",
+     "u": "https://www.pollbludger.net/2026/11/04/yougov-labor-25-one-nation-27-coalition-23-open-thread/"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "David Jones collapses into administration after 188 years",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
+     },
+     "b": "McGrathNicol have been appointed administrators after talks with landlords failed. Scentre Group, which runs Westfield, holds 17 of the 38 remaining stores and says rent has gone unpaid since the last quarter. David Jones had proposed closing nine stores, and stores keep trading while administrators look for a buyer.",
+     "w": "It is a sign of weak discretionary spending under high rates, and it puts thousands of retail jobs and shopping centre rents under pressure."
+    },
+    {
+     "h": "NextDC jumps about 50% after Goodman and Digital Realty buy into the register",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/05/nextdc-goodman-group-digital-realty-data-centers-.html"
+     },
+     "b": "Goodman Group and US partner Digital Realty bought up to 9.9% of the data centre operator at about $9.50 a share, a big premium to the prior close. They told investors they have no plans for a takeover bid at this time but keep the right to make one. NextDC called the move opportunistic, and it came shortly after the company flagged a power delay at its Melbourne site.",
+     "w": "It shows how hungry investors are for scarce data centre capacity and could be the start of a takeover fight."
+    },
+    {
+     "h": "ASX surges 2.6% in its best day since April 2025, then faces a Wall Street hangover",
+     "s": {
+      "t": "Capital Brief",
+      "u": "https://www.capitalbrief.com/briefing/australian-shares-to-surge-as-wall-st-rallies-oil-sinks-on-democratic-sweep-33f4e939-1136-449a-b9f5-250fcd3fa271/"
+     },
+     "b": "The ASX 200 closed at 9,065 on Thursday after Wall Street cheered the midterm result, and oil dropped sharply. ABC's market blog said the local market was set to fall on Friday after the US tech rout.",
+     "w": "Our market follows Wall Street closely, so the swings show how global fear can override local news."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The RBA expects unemployment to rise to 5.1% by late 2028 and inflation to return to target only around mid 2028.",
+     "t": "The Adviser",
+     "u": "https://www.theadviser.com.au/borrower/49171-inflation-won-t-return-to-target-until-mid-2028-says-rba"
+    },
+    {
+     "x": "The ABC's Friday markets blog flags the ASX set to fall after the US tech selloff.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-11-06/asx-markets-business-live-news/107353758"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Market correction",
+  "body": "A correction is when a share index falls 10% or more from its recent peak. It is milder than a bear market, which is usually a drop of 20% or more. Corrections are fairly common and often happen when investors suddenly rethink how much a hot sector, like AI, is really worth. The Nasdaq entering one this week means tech heavy funds, including many in Australian super, have lost a noticeable slice of recent gains. Whether it deepens or bounces back depends on earnings and, now, on what regulators do."
+ },
+ "ahead": [
+  {
+   "d": "Fri 6 Nov",
+   "e": "ASX expected to open lower after the Wall Street tech rout"
+  },
+  {
+   "d": "Sat 7 Nov",
+   "e": "US jobs report for October (Friday in the US), a key read on the American economy"
+  },
+  {
+   "d": "Sun 8 Nov",
+   "e": "Israel's president due to hand the mandate to form a government, likely to Gadi Eisenkot"
+  },
+  {
+   "d": "Wed 19 Nov",
+   "e": "Australian labour force figures for October, per one market calendar"
+  }
+ ]
+}
