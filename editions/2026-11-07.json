@@ -1,0 +1,266 @@
+{
+ "date": "2026-11-07",
+ "edition": "Saturday 7 November 2026",
+ "lede": [
+  "Wall Street bounced on Friday after its AI rout, helped by a strong US jobs report, but the ASX still slipped 0.5% to 9,020.8.",
+  "Democrats now hold both chambers of Congress, and the fallout is spreading from AI data centres to the Iran war, with Trump weighing fresh strikes or a Qatar brokered deal.",
+  "At home, all four big banks will pass on the RBA hike from 13 November, NAB's profit fell 13% on bad debts, and David Jones is fighting to survive."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "Lifted 0.25 points on 3 Nov; fifth rise this year, as at 4 Nov"
+  },
+  {
+   "label": "ASX 200",
+   "value": "9,020.8",
+   "note": "Friday 6 Nov close, down 0.49%, up 1.2% on the week"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "about 69 US cents",
+   "note": "Friday 6 Nov, down from about 70.1 cents on Thursday"
+  },
+  {
+   "label": "Brent crude",
+   "value": "about US$93",
+   "note": "Thursday 5 Nov, falling on hopes of Iran diplomacy"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Trump weighs new Iran strikes or a deal as Qatar pushes a draft agreement",
+     "s": {
+      "t": "Gulf News",
+      "u": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+     },
+     "b": "Trump spoke with Qatar's emir on Friday and is reportedly choosing between more strikes, continued economic pressure or a deal with big concessions to Tehran. Qatari mediators are circulating a draft that could restart direct talks within days, starting with a short run of confidence building steps. Iran says it will not reopen the Strait of Hormuz or negotiate until its conditions are met, including an end to the US naval blockade and sanctions relief.",
+     "w": "Hormuz carries a big slice of the world's oil and LNG, so this decides fuel prices and inflation here. Brent has already eased on hopes of a deal."
+    },
+    {
+     "h": "Tankers hit mines in Hormuz and Iran claims it downed a US drone",
+     "s": {
+      "t": "Al Jazeera",
+      "u": "https://www.aljazeera.com/amp/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran"
+     },
+     "b": "Iran's Revolutionary Guard says two oil tankers struck mines in the strait and that it shot down a US drone near Qeshm Island. Those claims come from Iranian officials and are not independently confirmed in the coverage we found. Trump has warned the US may have to hit much more of Iran if talks fail.",
+     "w": "Every ship incident raises insurance costs and the risk of a miscalculation that ends the talks before they start."
+    },
+    {
+     "h": "Herzog to name Israel's next PM candidate on Sunday after Eisenkot gets 67 recommendations",
+     "s": {
+      "t": "Times of Israel",
+      "u": "https://www.timesofisrael.com/as-eisenkot-wins-67-nods-to-be-pm-herzog-says-hell-announce-mandate-decision-on-sunday/"
+     },
+     "b": "Israel's president says parties holding 67 of the 120 seats recommended Gadi Eisenkot, while 46 backed Benjamin Netanyahu. Herzog stressed the numbers alone will not decide it, because a leader needs 61 seats in a working coalition. Eisenkot's backers include Arab parties, but only about 48 seats are ready to cooperate without conditions, so a stalemate or another election is still possible.",
+     "w": "Who governs Israel shapes the Iran war, Gaza and the wider Middle East, all of which move oil and markets."
+    },
+    {
+     "h": "Trump says Russia and Ukraine are close to a settlement and tees up Abu Dhabi talks",
+     "s": {
+      "t": "CNN via KRDO",
+      "u": "https://krdo.com/politics/cnn-us-politics/2026/11/06/trump-teases-big-beautiful-european-security-deal-after-meeting-putin-envoy-2/"
+     },
+     "b": "After meeting Russian envoy Kirill Dmitriev, Trump said he thinks the two sides are very close and promised a security deal that might involve all of Europe. He gave few details and European capitals were left puzzled. Zelensky says Ukraine has sent its proposals to Washington and wants binding, enforceable security guarantees. Trilateral talks are expected in Abu Dhabi next week.",
+     "w": "A deal on Ukraine would reshape European security and energy and grain markets. Trump's claims of closeness have not been confirmed by Kyiv or Moscow."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Democrats will hold at least 54 Senate seats including independents who caucus with them, after a sweep of both chambers, though a few races were still being counted.",
+     "t": "NPR",
+     "u": "https://www.npr.org/2026/11/04/nx-s1-6027319/democrats-sweep-senate-and-house-in-a-resounding-rebuke-to-trump-gop"
+    },
+    {
+     "x": "Trump says he was a little surprised by the result but is willing to accept it, while noting he can still veto Democratic bills.",
+     "t": "ABC News (US)",
+     "u": "https://abcnews.com/Politics/trump-bit-surprised-after-democrats-big-win-midterms/story?id=137835787"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Voters back dozens of local limits on data centres in the midterms",
+     "s": {
+      "t": "Washington Post",
+      "u": "https://washingtonpost.com/technology/2026/11/04/voters-pass-over-20-ballot-measures-ban-or-restrict-data-centers"
+     },
+     "b": "Voters passed more than 20 ballot measures that ban or restrict data centres on Tuesday, and other reports count dozens of local laws in total, with the exact tally still disputed. Rising electricity prices have turned the giant buildings that power AI into a local political issue. It is one of the main reasons AI and chip shares sold off so hard on Thursday.",
+     "w": "AI spending is the engine behind much of the US share market and the ASX's data centre stocks. Local limits slow that build out."
+    },
+    {
+     "h": "Sanders and Ocasio Cortez back a national data centre moratorium",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html"
+     },
+     "b": "Top Democrats are calling to rein in the AI build out now that they control Congress. Bernie Sanders says he wants a national data centre moratorium, meaning a pause on new construction, and he and Alexandria Ocasio Cortez have announced a bill to do it. A bill that passes the House still needs the Senate and Trump's signature, and he can veto it.",
+     "w": "The bill is a long shot for now, but it shows the direction of travel. Markets are pricing in the risk that AI gets more regulated, not less."
+    },
+    {
+     "h": "OpenAI publishes a community compact and ends data centre NDAs",
+     "s": {
+      "t": "The National",
+      "u": "https://www.thenationalnews.com/future/technology/2026/11/06/moratorium-on-data-centers-openai-compact/"
+     },
+     "b": "OpenAI released a National Community Compact and a policy blueprint for what it now calls compute campuses on 5 November, as local opposition grew. One report says it will also drop non disclosure agreements with communities near its sites. Observers noted the compact avoids the words data centre.",
+     "w": "AI firms are now courting local voters, not just regulators. Expect more promises on power costs and jobs."
+    },
+    {
+     "h": "Nvidia bounces after its worst day in almost two years, with earnings due 17 November",
+     "s": {
+      "t": "Kiplinger",
+      "u": "https://www.kiplinger.com/investing/stocks/nasdaq-adds-264-points-in-tech-rebound-but-ends-the-week-lower-stock-market-today"
+     },
+     "b": "After falling about 9.3% on Thursday, Nvidia rose roughly 3% on Friday and the Nasdaq added about 1.1% to 24,579, though the index ended the week lower and is still in correction territory. Dip buyers returned after the jobs report beat forecasts. Nvidia reports quarterly results on 17 November US time.",
+     "w": "Nvidia is the AI bellwether, so its results will show whether the rout was an overreaction or the start of something bigger."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Euronews has a rundown of which AI companies are most exposed to the data centre backlash.",
+     "t": "Euronews",
+     "u": "https://www.euronews.com/2026/11/06/data-centre-backlash-which-ai-companies-have-been-affected-by-us-midterm-results"
+    },
+    {
+     "x": "CNBC reports the AI data centre build out has become a war of attrition after the midterm shock.",
+     "t": "CNBC",
+     "u": "https://cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Albanese says the Iran war and tariffs drove the US result but he will not change course",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-07/albanese-trump-iran-war-midterms-chogm-budget/107356124"
+     },
+     "b": "Back from the Commonwealth leaders' meeting, Albanese called the US midterm results very significant and named the Iran war and tariffs as major factors in the Republican loss. He said his approach to the White House stays the same and that he will keep calling for the war to end.",
+     "w": "Australia relies on Washington for defence and AUKUS, so a Democratic Congress could matter for trade, tariffs and the submarine deal."
+    },
+    {
+     "h": "Productivity Commission calls the economy increasingly stagnant",
+     "s": {
+      "t": "Yahoo Finance",
+      "u": "https://au.finance.yahoo.com/news/treasurer-jim-chalmers-puts-tax-changes-off-limits-in-productivity-commissions-search-to-fix-stagnant-economy-231454329.html"
+     },
+     "b": "The Productivity Commission's interim report on business dynamism, meaning how easily new firms start, grow and win customers, says the economy has become increasingly stagnant. Chalmers asked for the inquiry and ruled tax and workplace relations out of its focus, which business groups dislike. The final report with modelling is due in May 2027.",
+     "w": "Weak productivity is one reason the RBA says inflation is stuck, so reforms here feed directly into interest rates."
+    },
+    {
+     "h": "Chalmers rejects blame for the rate hike as the Coalition attacks spending",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-03/chalmers-promises-helpful-role-on-inflation-after-rate-hike/107342610"
+     },
+     "b": "After the RBA's fifth hike this year, Chalmers said the government will play a helpful role on inflation but that the budget is not what is pushing prices up. Shadow Treasurer Tim Wilson says a spending addiction is fuelling inflation. Annual inflation hit 4.3% in September, and the government has promised more savings in next month's mid year budget update.",
+     "w": "With rates at their highest since 2008, this argument will define the politics of the cost of living through to the next election."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The ABC's analysis piece argues the midterm rout holds lessons for Albanese's government on budget breaks and the rate outlook.",
+     "t": "ABC News",
+     "u": "https://abc.net.au/news/2026-11-07/rba-outlook-not-time-slam-budget-breaks-midterms-albanese/107356846"
+    },
+    {
+     "x": "Acting PM Richard Marles called the US midterms a great democratic event while Albanese was away at CHOGM.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-11-05/federal-politics-live-blog-screen-limits-nov-5/107346422"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "Big four banks pass on the RBA hike in full from 13 November",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-04/australian-banks-lift-interest-rates-after-rba-cash-rate-hike/107341858"
+     },
+     "b": "Commonwealth Bank, Westpac, NAB, ANZ and ING will lift variable home loan rates by 0.25 percentage points from 13 November. That adds roughly $77 a month on a $500,000 mortgage. Savings rates are rising too, but less sharply and often only for customers who meet bonus conditions.",
+     "w": "About 13 November is when this shows up in repayments, so household budgets and retail spending get squeezed again."
+    },
+    {
+     "h": "NAB profit falls 13% as bad debt charges nearly double",
+     "s": {
+      "t": "Market Index",
+      "u": "https://www.marketindex.com.au/news/nab-fy26-result-shares-head-for-worst-day-since-february-2025-as-bad-debts-nearly-double"
+     },
+     "b": "NAB's full year cash earnings fell 13.4% to $6.14 billion, including $1.35 billion of large one off items, and missed analyst forecasts. Credit impairment charges, money set aside for loans that may not be repaid, rose from $833 million to $1.55 billion. The final dividend was held at 85 cents and the shares fell between 5% and 7% on the day, depending on the report. Shares go ex dividend on 10 November.",
+     "w": "Higher provisions suggest the bank expects more borrowers to struggle as rates climb, which is a warning for the wider economy."
+    },
+    {
+     "h": "ASX slips 0.5% but still finishes the week up 1.2%",
+     "s": {
+      "t": "Market Index",
+      "u": "https://www.marketindex.com.au/news/evening-wrap-asx-200-slides-on-us-tech-rout-but-big-banks-and-defensives"
+     },
+     "b": "The ASX 200 closed down 44.3 points at 9,020.8 after Thursday's 2.6% surge, with local investors unsettled by the US tech rout. Big banks and defensive stocks helped it recover from deeper losses earlier in the day. The Australian dollar fell to about 69 US cents.",
+     "w": "UBS argues the ASX looks like a relative safe haven while doubts grow about the AI spending boom, since it holds fewer AI heavy stocks."
+    },
+    {
+     "h": "Scentre rejected as David Jones fights for a buyer",
+     "s": {
+      "t": "Reuters via Investing.com",
+      "u": "https://www.investing.com/news/stock-market-news/australian-retailer-david-jones-enters-administration-and-faces-sale-media-reports-5001887"
+     },
+     "b": "The 188 year old retailer entered voluntary administration with McGrathNicol after talks with landlord Westfield broke down. Scentre Group says David Jones had paid rent up to 30 September, and reports say owner Anchorage Capital rejected a Scentre lifeline. Lender Hilco says it will keep supporting the business while new owners are found. Its 38 stores are still trading, but gift card holders are worried.",
+     "w": "It is a test of how much pressure higher rates and weak spending are putting on Australian retailers."
+    }
+   ],
+   "quick": [
+    {
+     "x": "US employers added 165,000 jobs in October, well above forecasts, and unemployment slipped to 4.1%.",
+     "t": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+    },
+    {
+     "x": "Brent crude fell to about US$93 a barrel on Thursday as hopes for Iran diplomacy built.",
+     "t": "Gulf News",
+     "u": "https://gulfnews.com/world/mena/trump-weighs-iran-strikes-or-deal-after-midterm-loss-as-vance-urges-agreement-qatar-mediates-brent-oil-falls-to-93-1.500736556"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Credit impairment charge",
+  "body": "A credit impairment charge is money a bank sets aside today to cover loans it expects will not be fully repaid. It comes straight out of profit, so a bigger charge means lower earnings even if the bank is lending as much as before. Banks raise it when they expect more borrowers to fall behind, for example because of higher interest rates or a weaker economy. NAB's charge nearly doubled this year, which is why its profit fell. If the money is not needed, the bank can release it later and boost profit."
+ },
+ "ahead": [
+  {
+   "d": "Sun 8 Nov",
+   "e": "Israeli President Herzog is due to announce who gets the first go at forming a government."
+  },
+  {
+   "d": "Mon 9 Nov",
+   "e": "Week begins with US, Russia and Ukraine trilateral talks expected in Abu Dhabi at some point (exact day not confirmed)."
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "NAB shares trade ex dividend (85 cents)."
+  },
+  {
+   "d": "Fri 13 Nov",
+   "e": "Big four banks' higher variable mortgage rates start."
+  },
+  {
+   "d": "Wed 18 Nov",
+   "e": "Nvidia reports quarterly results after the US close on 17 November (Wednesday morning in Australia)."
+  }
+ ]
+}
