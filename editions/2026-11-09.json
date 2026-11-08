@@ -1,0 +1,214 @@
+{
+ "date": "2026-11-09",
+ "edition": "Monday 9 November 2026",
+ "lede": [
+  "Israel's Knesset is sworn in tomorrow, and Gadi Eisenkot's first test is whether he can dump Netanyahu's speaker.",
+  "US, Russian and Ukrainian officials meet in Abu Dhabi on 10 and 11 November, with Moscow sending a higher level team.",
+  "ANZ posted a $7.59 billion cash profit just days after the RBA lifted the cash rate to 4.85% in a split 6 to 3 vote."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "Lifted 0.25 points on 3 Nov, highest since 2008; board meets again 7 and 8 Dec"
+  },
+  {
+   "label": "ASX 200",
+   "value": "9,020.8",
+   "note": "Close on Fri 6 Nov, down 0.5%"
+  },
+  {
+   "label": "ANZ cash profit",
+   "value": "$7.59b",
+   "note": "Year to 30 Sep, up 31%; reported Mon 9 Nov"
+  },
+  {
+   "label": "Unemployment rate",
+   "value": "4.6%",
+   "note": "September quarter, per the RBA's November statement"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Eisenkot's first test as Israel's Knesset is sworn in",
+     "s": {
+      "t": "US News (Reuters)",
+      "u": "https://www.usnews.com/news/world/articles/2026-11-08/netanyahu-rival-eisenkot-seeks-wide-government-but-path-to-power-uncertain"
+     },
+     "b": "After President Herzog picked him, Eisenkot has 28 days to build a coalition, with a possible 14 day extension. His bloc has 48 seats and he needs 61 of 120, so he is aiming for a broad emergency government, possibly a minority one. The new Knesset is sworn in on Tuesday, and the opposition plans to replace Netanyahu's Knesset speaker. The ultra Orthodox United Torah Judaism party refused to endorse Netanyahu and has signalled it could join Eisenkot.",
+     "w": "Who gets the speaker's chair shows whether Eisenkot can actually count to 61. The outcome shapes Israel's stance on Iran and Gaza, which matters for oil prices and Australia's Middle East diplomacy."
+    },
+    {
+     "h": "Russia sends a higher level team to Abu Dhabi talks, and France joins",
+     "s": {
+      "t": "Kyiv Post",
+      "u": "https://www.kyivpost.com/post/89466"
+     },
+     "b": "US envoys Steve Witkoff and Jared Kushner will lead American efforts at working level talks on 10 and 11 November. It is the first three way meeting with Russia and Ukraine since February. Reports say Moscow is sending more senior officials, and France's foreign minister says Paris will take a seat at the table. Analysts at the Atlantic Council doubt Russia wants a deal, arguing it is using talks to buy time.",
+     "w": "A senior Russian team is a signal worth watching, but territory is still the sticking point. Any real ceasefire would ease pressure on energy and grain prices."
+    },
+    {
+     "h": "Qatar's Iran draft is still stuck on Tehran's conditions",
+     "s": {
+      "t": "Daily Times",
+      "u": "https://dailytimes.com.pk/1576535/us-approves-qatar-presented-draft-deal-with-iran-sources/"
+     },
+     "b": "Reports say Washington has approved a draft memorandum from Qatari mediators, which would reopen the Strait of Hormuz, lift the US naval blockade and release part of about $8 billion in frozen Iranian assets. Iran called the US response unconvincing and has reportedly listed seven conditions, including a region wide ceasefire and oil sanctions relief. US strikes on Iranian air defences have continued alongside the talks. Details come from unnamed sources, so treat them with care.",
+     "w": "The Strait of Hormuz carries a big share of the world's oil, so this drives fuel prices and the inflation the RBA is fighting."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The US and China extended their trade truce, which was due to lapse on 10 November, out to 10 January 2027 at the September Xi summit.",
+     "t": "Cyprus Mail",
+     "u": "https://cyprus-mail.com/2026/09/24/us-china-extend-trade-truce-as-trump-welcomes-xi"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "OpenAI launches GPT-6 Cyber with a Critical cybersecurity rating",
+     "s": {
+      "t": "eSecurity Planet",
+      "u": "https://www.esecurityplanet.com/news/news-openai-gpt-6-cyber-security-benchmarks/"
+     },
+     "b": "OpenAI released GPT-6 Cyber on 5 November, a version of its model built to find software flaws and test exploits. It is not a public chatbot, and access is limited to approved customers through its Daybreak Red programme. OpenAI rates it Critical under its own safety framework and says it scored 48.5% on an exploit benchmark, up from 32.1% for the previous version. Those figures are OpenAI's own and are not independently checked.",
+     "w": "The same tools that find holes can be used to attack them, so access controls matter. Australian banks and governments will face faster, cheaper vulnerability hunting."
+    },
+    {
+     "h": "Research group METR says Anthropic's AI progress has roughly doubled in pace",
+     "s": {
+      "t": "METR",
+      "u": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment"
+     },
+     "b": "METR, an independent AI evaluation group, published an assessment on 5 November covering 12 August to 29 October. It estimates Anthropic's rate of capability progress is about double its earlier pace, with most of the speedup coming from AI helping its own staff. Anthropic redacted much of the report, and METR said the company's public risk report understates the acceleration. METR also says AI is not yet doing the most important training work on its own.",
+     "w": "If AI is speeding up its own development, regulators have less time to react. It also feeds the debate over whether AI company valuations are justified."
+    },
+    {
+     "h": "AI stocks bounce after a brutal rout, led by Nvidia",
+     "s": {
+      "t": "Washington Times",
+      "u": "https://washingtontimes.com/news/2026/nov/6/ai-stocks-rebound-halt-brutal-worldwide-sell-wall-street-trims-loss"
+     },
+     "b": "The Nasdaq rose about 1.1% on Friday after falling roughly 5.4% on Thursday into correction territory, though the Dow slipped about 0.5%. Nvidia closed up about 2.8% after dropping more than 9% the day before. US employers added 165,000 jobs in October, well above forecasts, which lifted bets on a Fed rate rise in December. Some analysts warn the rebound rests mostly on chip stocks.",
+     "w": "Australian super funds and the ASX 200 are exposed to US tech swings. Strong US jobs data also means higher global rates for longer."
+    }
+   ],
+   "quick": []
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "High Court hears challenges to the under 16 social media ban",
+     "s": {
+      "t": "AP via News4Jax",
+      "u": "https://www.news4jax.com/business/2026/11/03/australias-highest-court-hears-challenges-to-social-media-ban-for-children/"
+     },
+     "b": "The High Court heard two challenges on 3 and 4 November, one from Reddit and one from the Digital Freedom Project, backed by two 15 year olds. Reddit wants a declaration it is not an age restricted platform, while the other case argues the law is invalid. The government says the ban protects young people and only limits political communication in a narrow way. The court reserved its decision, and the law stays in force meanwhile. Government figures cited in coverage say nearly 5 million accounts have been blocked on 10 platforms.",
+     "w": "A ruling could test how far Canberra can regulate global platforms, and the implied freedom of political communication. NSW and South Australia have sought to be heard."
+    },
+    {
+     "h": "Commonwealth leaders sign a Pacific focused climate and trade communique",
+     "s": {
+      "t": "Pacific Islands News Association",
+      "u": "https://pina.com.fj/?p=78607"
+     },
+     "b": "CHOGM in Antigua and Barbuda wrapped up on 4 November. The leaders' communique commits to better climate finance, protecting Pacific maritime boundaries and more trade and investment. It welcomed the Pacific Resilience Facility, and Samoa and Antigua pushed for fairer climate finance. Albanese attended, while ABC reporting says issues at home piled up during the Caribbean trip.",
+     "w": "Australia is preparing for COP31 with Pacific partners, so climate finance language here is an early signal of the negotiating mood."
+    },
+    {
+     "h": "Newspoll puts One Nation ahead on primary vote",
+     "s": {
+      "t": "Poll Bludger",
+      "u": "https://www.pollbludger.net/2026/11/01/newspoll-labor-27-one-nation-28-coalition-21-open-thread/"
+     },
+     "b": "The latest Newspoll, reported around 1 November, has Labor on 27% after dropping two points, One Nation steady on 28% and the Coalition on 21%. Albanese's net approval is minus 23, Angus Taylor's is minus 10 and Pauline Hanson's is minus 1. Reports differ on the sample size, so check the pollster's own release.",
+     "w": "A three way split makes preference flows decisive and points to a possible minority parliament at the next election."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Federal Parliament sits again after Albanese's trip, with the Defence bills and the High Court case both in the background, according to ABC's weekly politics wrap.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-11-05/albanese-chogm-week-in-politics/107336024"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "ANZ posts a $7.59 billion cash profit, up 31%",
+     "s": {
+      "t": "Capital Brief",
+      "u": "https://www.capitalbrief.com/briefing/anz-delivers-23-jump-in-full-year-net-profit-to-73b-aa237f13-d264-46f4-a6f2-19226a83ec18/"
+     },
+     "b": "ANZ reported statutory net profit of about $7.3 billion, up 23%, and cash earnings of about $7.59 billion, up 31% and slightly ahead of analyst forecasts. Cash earnings exclude one offs such as $585 million of restructuring costs tied to 3,500 job cuts. Its net interest margin slipped 2 basis points to 1.53% on tougher lending competition, and the final dividend was 83 cents.",
+     "w": "It is the first big bank result since the RBA's fifth hike. Investors want to know whether higher rates help margins or just raise bad debt risk."
+    },
+    {
+     "h": "RBA hike came on a split 6 to 3 vote, with inflation seen above 3% until late 2027",
+     "s": {
+      "t": "InvestingLive",
+      "u": "https://investinglive.com/central-banks/more-rba-lifts-cash-rate-to-4-85-in-split-6-3-vote-sees-inflation-above-3-until-late-2027/"
+     },
+     "b": "Since our earlier coverage of the hike, the detail has come out. Six board members voted to lift the rate to 4.85% and three wanted to hold at 4.60%. The new forecasts see inflation staying above 3% until late 2027, and unemployment rose to 4.6% in the September quarter. The board cited the Middle East war and higher oil prices. The next meeting is 7 and 8 December.",
+     "w": "A divided board hints the hiking cycle may be close to its end, but mortgage holders still carry the cost for now."
+    },
+    {
+     "h": "NEXTDC rejects a share raid by Goodman and Digital Realty",
+     "s": {
+      "t": "Tech Insider",
+      "u": "https://tech-insider.org/au/nextdc-goodman-digital-realty-share-raid-opportunistic-2026/"
+     },
+     "b": "On 4 November institutional investors ran a book build at $9.50 for up to 9.9% of data centre operator NEXTDC. The board called the move opportunistic and said it had received no takeover proposal. Goodman and Digital Realty said they had no control proposal for now but reserved the right to change that. The source is secondary, so check ASX announcements.",
+     "w": "Data centres are the hot asset of the AI boom, and a bid would be one of the largest Australian tech infrastructure deals."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Frasers Group's on market $0.65 a share bid for Accent Group has been unanimously rejected by Accent's independent directors, and Frasers already holds about 22.9%.",
+     "t": "Kalkine",
+     "u": "https://kalkinemedia.com/au/news/announcements/accent-group-urges-shareholders-to-participate-in-2026-agm-amid-frasers-groups-065-per-share-takeover-bid"
+    },
+    {
+     "x": "The ASX 200 fell 0.5% to 9,020.8 on Friday after Wall Street's tech rout, but still finished the week higher for a second week.",
+     "t": "Market Index",
+     "u": "https://www.marketindex.com.au/news/evening-wrap-asx-200-slides-on-us-tech-rout-but-big-banks-and-defensives"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Net interest margin",
+  "body": "Net interest margin, or NIM, is the gap between what a bank earns on loans and what it pays on deposits and funding, shown as a percentage of its earning assets. ANZ's fell to 1.53%, which means it keeps slightly less on each dollar it lends. Rising rates can help NIM, because banks reprice loans quickly. But competition for borrowers can squeeze it, and that is what ANZ pointed to. Because NIM drives most of a bank's profit, a small move of a few basis points (hundredths of a percent) is worth hundreds of millions of dollars."
+ },
+ "ahead": [
+  {
+   "d": "Tue 10 Nov",
+   "e": "Israel's new Knesset is sworn in, with a fight over replacing Netanyahu's speaker."
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "US, Russia and Ukraine begin talks in Abu Dhabi (Abu Dhabi time), with France also joining."
+  },
+  {
+   "d": "Wed 11 Nov",
+   "e": "Second day of the Abu Dhabi talks."
+  },
+  {
+   "d": "Wed 18 Nov",
+   "e": "Proxy voting closes for Accent Group's AGM, held 20 November, amid the Frasers bid."
+  }
+ ]
+}
