@@ -1,0 +1,242 @@
+{
+ "date": "2026-11-10",
+ "edition": "Tuesday 10 November 2026",
+ "lede": [
+  "Wall Street had its best day since April as oil slid about 6% on hopes of a US and Iran deal, even with Nvidia sinking over its CEO's reported link to an alleged Chinese spy.",
+  "Russia, Ukraine and the US sit down in Abu Dhabi today, but Moscow says Europe has no seat at the table.",
+  "Three polls out this week have Labor level with or behind One Nation and the Coalition on primary votes, with Labor down in the mid twenties."
+ ],
+ "numbers": [
+  {
+   "label": "ASX 200",
+   "value": "9,029.7",
+   "note": "Close on Mon 9 Nov, up 0.1% after an early slide; futures point higher today"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "69.26 US cents",
+   "note": "Per ABC markets blog, Tue 10 Nov"
+  },
+  {
+   "label": "Brent crude",
+   "value": "US$92.57",
+   "note": "Settled Mon 9 Nov, down 5.85% on the day"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,549.83",
+   "note": "Close on Mon 9 Nov, up about 2.3%, the biggest daily gain since April"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Eisenkot and Liberman agree on who gets the Knesset speaker job",
+     "s": {
+      "t": "Ynet",
+      "u": "https://www.ynetnews.com/article/bkbp4kkrmg"
+     },
+     "b": "Israel's new Knesset is sworn in today. Gadi Eisenkot, who has the mandate to form a government, and Avigdor Liberman have agreed the speakership should go to someone from Eisenkot's party, though the name is being held back until other partners sign off. Eisenkot says he won't swear in a new government until Netanyahu's speaker, Amir Ohana, is replaced. Ohana has said he will allow a vote within a week if 61 MPs sign a request.",
+     "w": "Whoever controls the speaker's chair controls the parliamentary agenda, so this vote is the first real test of whether Eisenkot's bloc holds together."
+    },
+    {
+     "h": "Kremlin says Europe is not welcome at the Abu Dhabi talks",
+     "s": {
+      "t": "The Moscow Times",
+      "u": "https://www.themoscowtimes.com/2026/11/09/kremlin-rejects-european-role-in-upcoming-abu-dhabi-talks-a94207"
+     },
+     "b": "US brokered talks between Russia and Ukraine run today and tomorrow in Abu Dhabi. France says European officials will attend, but the Kremlin says the format is limited to Russian, Ukrainian and US delegations. Vladimir Medinsky is again expected to lead Moscow's side, and analysts expect little real progress. Zelensky says he coordinated positions with the European Commission's president before the meeting.",
+     "w": "Any deal on Ukraine's future would reshape European security, which is why who sits at the table matters as much as what is agreed."
+    },
+    {
+     "h": "Trump meets Qatar's prime minister, but no Iran deal yet",
+     "s": {
+      "t": "Washington Examiner",
+      "u": "http://www.washingtonexaminer.com/news/white-house/4797046/trump-qatar-iran-deal-joint-end-the-war-statement-schumer-jeffries/"
+     },
+     "b": "Mediators are pushing a two day plan: the US lifts its naval blockade of Iranian ports and releases some frozen assets, Iran admits nuclear inspectors, then the Strait of Hormuz reopens. Monday's closed door meeting at the White House ended with no announcement, and Rubio called some Iranian demands outrageous. Trump told CNN new strikes are highly unlikely.",
+     "w": "Hormuz carries a big share of the world's oil, so each hint of a deal or a breakdown moves fuel prices, inflation and interest rate expectations, including in Australia."
+    },
+    {
+     "h": "China extends its pause on 24% tariffs on US goods by two months",
+     "s": {
+      "t": "ANI",
+      "u": "https://aninews.in/news/business/china-extends-suspension-of-24-additional-tariff-on-us-goods-for-two-months-retains-10-levy20261109111249/"
+     },
+     "b": "Beijing will keep suspending an extra 24% tariff on US goods from 10 November, leaving a 10% levy in place. It also extends waivers on some critical mineral export controls and suspended port fees on US linked ships until 10 January 2027. I did not find a matching US announcement for the earlier 10 November deadline on its side.",
+     "w": "China is Australia's biggest trading partner, so a calmer US China truce supports demand for our iron ore and other exports."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Haaretz reports the Haredi party United Torah Judaism will not join the push to replace Ohana, a blow to the numbers Eisenkot needs.",
+     "t": "Haaretz",
+     "u": "https://www.haaretz.com/israel-news/elections/2026-11-09/ty-article/.premium/haredi-party-declines-to-back-anti-netanyahu-blocs-bid-to-oust-knesset-speaker/000001a1-c088-d3c0-a1af-e1aca9cf0000"
+    },
+    {
+     "x": "The Washington Post says Washington has already handed Moscow an early win by calling for a broader European security architecture as part of any deal.",
+     "t": "Washington Post",
+     "u": "https://www.washingtonpost.com/world/2026/11/09/us-gives-russia-an-early-win-even-before-ukraine-peace-talks-begin-abu-dhabi/"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Nvidia's board investigates CEO Jensen Huang over alleged Chinese spy link",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+     },
+     "b": "Nvidia's board is forming a committee of independent directors, with outside counsel, to examine Huang's relationship with a Megaspeed executive that US intelligence reportedly regards as a Chinese spy. Huang told staff he had an affair with her. The board says it has no reason to believe national security or company secrets were compromised, and China calls the allegations groundless. Three House committee chairs have asked him to brief Congress on 18 November. Nvidia shares fell about 6% on Monday to their lowest since April.",
+     "w": "Nvidia sits at the centre of the AI boom and US China chip rules, so a leadership cloud can rattle the whole sector and the index funds Australians hold through super."
+    },
+    {
+     "h": "Anthropic releases Claude Fable 5.2 and Mythos 5.2 days before a possible IPO",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"
+     },
+     "b": "Fable 5.2 is publicly available, while Mythos 5.2 is limited to vetted organisations in Anthropic's life sciences and cyber verification programs. Anthropic says output is up to 30% faster than the 5.1 versions. It is the company's first frontier release since its CEO called for a slowdown in AI development in September. Reports say an IPO roadshow could start next week, with valuation talk of US$1 trillion or more.",
+     "w": "A listing of this size would be one of the biggest ever and a test of whether markets still have an appetite for AI after last week's rout."
+    },
+    {
+     "h": "Anthropic tells business customers an outside security firm accessed their account data",
+     "s": {
+      "t": "MLQ.ai",
+      "u": "https://mlq.ai/news/anthropic-emails-enterprise-customers-that-an-outside-security-firm-may-have-viewed-their-contact-plan-and-spend-data/"
+     },
+     "b": "Anthropic is emailing enterprise customers that a third party security research company accessed contact and account details such as plan tier and spend figures. It says conversations, passwords and payment details were not involved, and the firm has certified in writing that it deleted the data. Korean media report that about 100 Korean corporate accounts were affected and that the country's privacy regulator is reviewing it.",
+     "w": "It is a reminder that even well resourced AI firms can be exposed through their suppliers, which matters for any Australian business feeding data into these tools."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Wall Street's tech rebound continued on Monday, with the Nasdaq up about 2.7% to 25,250.55 even as Nvidia slumped.",
+     "t": "Virginia Business (Reuters)",
+     "u": "https://virginiabusiness.com/us-stocks-rally-oil-prices-ease-inflation-nvidia-slump/"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "New polls put One Nation level with or ahead of Labor",
+     "s": {
+      "t": "The Poll Bludger",
+      "u": "https://www.pollbludger.net/2026/11/09/federal-polls-resolve-strategic-and-redbridge-group-open-thread/"
+     },
+     "b": "The Redbridge poll for the AFR has One Nation on 28%, Labor 26%, the Coalition 25% and the Greens 13%, with the Coalition ahead 53 to 47 on two party preferred. Resolve for the Nine papers has Labor 28%, One Nation 25%, Coalition 22%. A YouGov poll had One Nation 27%, Labor 25%, Coalition 23%. Albanese leads as preferred PM in Redbridge on 30%, ahead of Hanson on 24% and Angus Taylor on 16%.",
+     "w": "With three parties polling in the twenties, preference flows and seat by seat contests will matter far more than the headline numbers at the next election."
+    },
+    {
+     "h": "Government drops sale of Sydney's Victoria Barracks",
+     "s": {
+      "t": "Canberra Times",
+      "u": "https://www.canberratimes.com.au/story/9387614/barracks-to-be-opened-to-the-public-after-sale-backflip/"
+     },
+     "b": "Anthony Albanese announced on Sunday that the heritage listed Sydney barracks will stay in public hands, with parts of the Paddington site opened to the public. Melbourne's Victoria Barracks, Fort Queenscliff and RAAF Williams are also off the sale list. Albanese denies it was a backflip, while the Coalition says it will keep fighting to save other sites. The broader Defence estate reform program continues. Capital Brief notes NSW Premier Chris Minns was absent from the announcement amid friction with Canberra.",
+     "w": "The audit behind the sales said many sites cost too much to maintain, so the saving the government hoped for now has to come from elsewhere."
+    },
+    {
+     "h": "One Nation rejects an extra staffer from the PM in an ongoing staffing fight",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-10-29/one-nation-mp-turns-down-extra-staffer-from-pm/107325240"
+     },
+     "b": "In late October One Nation MP David Farley turned down an extra adviser offered by Albanese, and Pauline Hanson accused the PM of trying to divide the party. The PM decides personal staff levels above the five electorate officers every MP gets. Modelling cited in coverage shows One Nation with far fewer staff per parliamentarian than Labor or the Coalition. The government says the offer matched what Barnaby Joyce received.",
+     "w": "With One Nation now polling near the top, how well it is resourced in Parliament is becoming a real political question."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The Senate is due to sit again from 16 November, with committees reporting on bills including Fair Super and affordable housing.",
+     "t": "Parliament of Australia",
+     "u": "https://www.aph.gov.au/-/media/02_Parliamentary_Business/22_Chamber_Documents/221_Senate/Notice_Paper/Current_Notice_Paper/current_Notice_Paper.pdf"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "ASX claws back to 9,029.7 as miners lift and banks lag",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-09/asx-markets-business-live-news/107361534"
+     },
+     "b": "The ASX 200 dipped below 9,000 early on Monday before closing 0.1% higher at 9,029.7. Materials stocks led, while all four major banks finished lower, with ANZ dropping after its result despite a $7.59 billion cash profit. The Australian dollar rose to about 69 US cents.",
+     "w": "The big banks are a large chunk of the index and of many super balances, so a bank led wobble shows up in retirement savings."
+    },
+    {
+     "h": "Oil slides almost 6% as US and Iran deal hopes build",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+     },
+     "b": "Brent crude settled down US$5.75, or 5.85%, at US$92.57 on Monday after a heavy fall the previous week. The drop helped Wall Street surge, and ASX futures pointed to a stronger open today. Investors are also watching US inflation data due in Australian time early Wednesday.",
+     "w": "Cheaper oil would ease petrol prices and inflation, which could take pressure off the RBA after it lifted the cash rate to 4.85%."
+    },
+    {
+     "h": "Households are gloomy ahead of today's consumer sentiment reading",
+     "s": {
+      "t": "Westpac IQ",
+      "u": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/10/er20261006BullConsumerSentiment.pdf"
+     },
+     "b": "The Westpac Melbourne Institute index is due at 11am AEDT today. October's reading fell 4.7% to 80.4, well under the long run average of about 100. Over 80% of consumers expected mortgage rates to rise over the next year, and fuel prices were a big worry.",
+     "w": "Weak sentiment usually means people hold back on spending, which slows retailers and the wider economy."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Goodman and Digital Realty say their 9.9% NEXTDC stake, bought at an average of $9.22 a share, is not a takeover bid for now, though they reserve the right to make one.",
+     "t": "Law360 Australia",
+     "u": "https://www.law360.com/au/articles/2547709"
+    },
+    {
+     "x": "Metals X has until 20 November to firm up or drop its offer for UK listed First Tin, after the Takeover Panel extended the deadline.",
+     "t": "TipRanks",
+     "u": "https://tipranks.com/news/company-announcements/metals-x-extends-deadline-for-potential-first-tin-offer"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Brent crude",
+  "body": "Brent is the main global benchmark price for oil, named after a North Sea oil field. It is quoted in US dollars per barrel and tracks crude from the Atlantic basin. Many contracts around the world, including a lot of the fuel Australia imports, are priced off it. When Brent falls, petrol and freight costs tend to ease a few weeks later, which helps inflation. When it jumps, such as when the Strait of Hormuz is threatened, central banks like the RBA worry more about prices."
+ },
+ "ahead": [
+  {
+   "d": "Tue 10 Nov",
+   "e": "Israel's new Knesset is sworn in, with the speaker fight to follow."
+  },
+  {
+   "d": "Tue 10 Nov",
+   "e": "US, Russian and Ukrainian delegations meet in Abu Dhabi, with talks running to Wednesday."
+  },
+  {
+   "d": "Wed 11 Nov",
+   "e": "US October CPI inflation data lands early Australian time; NAB business confidence is also listed for the day."
+  },
+  {
+   "d": "Mon 16 Nov",
+   "e": "Senate sits again until 19 November."
+  },
+  {
+   "d": "Wed 18 Nov",
+   "e": "Australia's Wage Price Index is due, and Jensen Huang has been asked to brief US lawmakers."
+  },
+  {
+   "d": "Fri 20 Nov",
+   "e": "Deadline for Metals X to firm up or drop its First Tin offer (London time)."
+  }
+ ]
+}
