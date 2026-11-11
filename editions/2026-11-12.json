@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-12",
+  "edition": "Thursday 12 November 2026",
+  "lede": [
+    "Russia and Ukraine wrapped up two days of US brokered talks in Abu Dhabi with an in principle deal on the biggest prisoner swap of the war, but no ceasefire.",
+    "New home lending had its biggest quarterly fall on record as investors pulled back by almost a third, on the same day David Jones said it will shut half its stores.",
+    "A blowout result from CoreWeave reignited the AI trade and lifted the Nasdaq 1.6%, even as OpenAI's reported quarterly loss hit about US$10.9 billion."
+  ],
+  "numbers": [
+    {
+      "label": "ASX 200",
+      "value": "9,153.2",
+      "note": "Close on Wed 11 Nov, up 0.27% to its best finish in about 11 weeks"
+    },
+    {
+      "label": "S&P 500",
+      "value": "7,619.38",
+      "note": "Close on Wed 11 Nov in New York, up 1.3% on a chip and AI rally"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$92.76",
+      "note": "Settle on Wed 11 Nov, up 1.4% a day after its lowest close since August"
+    },
+    {
+      "label": "New home loans",
+      "value": "A$81.2b",
+      "note": "ABS value for the September quarter, released Wed 11 Nov, down 15.5%"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Abu Dhabi talks end with a big prisoner swap but no ceasefire",
+          "s": {
+            "t": "Euronews",
+            "u": "https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu"
+          },
+          "b": "The second and final scheduled day of Russia, Ukraine and US talks in Abu Dhabi ran for just under two hours. Both lead negotiators, Rustem Umerov for Kyiv and Vladimir Medinsky for Moscow, confirmed a large prisoner of war exchange, with Medinsky calling it agreed in principle. US envoy Jared Kushner called it the biggest humanitarian release of the war, said the final number would be settled the next day, and a Russian official said the swap could happen within two or three weeks. There was no breakthrough on a ceasefire or on who controls which territory.",
+          "w": "These were the first face to face talks in nine months, so a swap is a real if modest step. The bigger test is whether US envoys Steve Witkoff and Kushner can move Putin and Zelensky when they brief them next."
+        },
+        {
+          "h": "NATO jets scrambled as stray drones send Baltic residents to shelter",
+          "s": {
+            "t": "Cyprus Mail",
+            "u": "https://cyprus-mail.com/2026/11/11/nato-jets-scrambled-as-drone-alerts-sweep-baltic-states"
+          },
+          "b": "NATO fighters were scrambled overnight after drone alerts across Lithuania, Latvia and Estonia, and residents were told to take shelter. Officials said at least four drones strayed into the region's airspace during Ukrainian strikes on Russia, with one reportedly shot down in Lithuania after crossing from Belarus. Estonia's prime minister said no foreign country had permission to use its airspace. Moscow accuses Kyiv of hiding behind NATO airspace, while Kyiv blames Russian jamming for knocking its drones off course.",
+          "w": "Every stray drone over NATO soil is a chance for the war to spill over by accident, which is exactly what the alliance wants to avoid while peace talks are under way."
+        },
+        {
+          "h": "Oil bounces as the Iran nuclear dispute stokes supply fears",
+          "s": {
+            "t": "Seeking Alpha",
+            "u": "https://seekingalpha.com/news/4671034-oil-prices-rise-as-iran-nuclear-dispute-fuels-supply-concerns"
+          },
+          "b": "Brent crude rose about 1.4% to settle near US$92.76 a barrel, clawing back part of the slide that took it to its lowest close since August earlier in the week. Traders are weighing hopes of a US and Iran deal to reopen the Strait of Hormuz against the unresolved fight over Iran's nuclear program, which remains the main sticking point. Shipping risks in the Gulf are still keeping a floor under prices.",
+          "w": "Oil is the main channel from the Middle East to Australian petrol prices and inflation, and the RBA has already lifted rates to 4.85%. Any stall in the talks can quickly push fuel costs back up."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Senior Iranian security figure Mohsen Rezaei said Iran will not let any of its enriched nuclear material leave the country, a key US demand.",
+          "t": "Morning Star",
+          "u": "https://morningstaronline.co.uk/article/world-brief-50"
+        },
+        {
+          "x": "Wednesday's headlines from Gaza and the West Bank included at least eight Palestinians killed in Israeli strikes and a 14 year old boy killed in a raid.",
+          "t": "Democracy Now",
+          "u": "https://www.democracynow.org/2026/11/11/headlines"
+        },
+        {
+          "x": "Congo's Ebola outbreak has passed 10,000 confirmed cases, and Africa CDC says more than half of those infected have died.",
+          "t": "Nature World News",
+          "u": "https://www.natureworldnews.com/articles/73750/20261106/ebola-cases-top-10000-congo-africa-cdc-toll-shows-more-half-patients-have-died.htm"
+        },
+        {
+          "x": "The White House had gone into the Abu Dhabi round cautiously optimistic, with Witkoff and Kushner tipped to travel on to Moscow and Kyiv.",
+          "t": "Axios",
+          "u": "https://axios.com/2026/11/09/ukraine-russia-zelensky-putin-peace-abu-dhabi"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "CoreWeave soars 25% and drags the AI trade back to life",
+          "s": {
+            "t": "Motley Fool",
+            "u": "https://www.fool.com/coverage/stock-market-today/2026/11/11/stock-market-today-nov-11-coreweave-surges-25-on-beat-and-raise-quarter/"
+          },
+          "b": "CoreWeave, which rents out huge clusters of Nvidia chips to AI companies, reported quarterly revenue of US$3.66 billion, ahead of forecasts, and lifted its 2026 revenue outlook to between US$13.0 and US$13.3 billion. Its shares jumped about 25% to US$60.77, after being down roughly 39% for the year on worries about its heavy borrowing. Chipmakers like Micron and AMD rallied with it, and the Nasdaq rose 1.6% to 25,466.",
+          "w": "After a rough fortnight of AI and rate jitters, one strong result was enough to flip the mood, which shows how much of the market now rides on the AI spending boom continuing."
+        },
+        {
+          "h": "OpenAI's revenue jumps 50% but its quarterly loss widens to about US$10.9 billion",
+          "s": {
+            "t": "Forbes",
+            "u": "https://www.forbes.com/sites/jonmarkman/2026/11/11/openai-revenue-hits-10-billion-in-q3-as-loss-per-dollar-falls-to-109/"
+          },
+          "b": "Documents reported by the Wall Street Journal show OpenAI made about US$10 billion in revenue in the September quarter, up roughly 50% on the previous quarter. Its adjusted operating loss grew to about US$10.9 billion from US$10.1 billion, and that excludes stock based pay. The upside is it now loses about US$1.09 for every dollar of revenue, down from US$1.50 three months earlier.",
+          "w": "The numbers land just as investors size up rival Anthropic's IPO at a valuation of about US$1.4 trillion, so they are a live test of whether AI labs can ever turn a profit."
+        },
+        {
+          "h": "Anthropic takes aim at Excel and Microsoft shares slip",
+          "s": {
+            "t": "Inc.",
+            "u": "https://www.inc.com/phil-rosen/microsoft-software-anthropic-claude-sheets/91434131"
+          },
+          "b": "Anthropic launched Claude Sheets, a spreadsheet with its AI built in, alongside Claude Whiteboards and Claude Data. Microsoft shares fell about 2.2% to US$533.16 on Tuesday, though they are still only around 4% below their record close from 4 November. Anthropic admits Sheets has only basic features for now, and the two firms remain tightly linked, with Anthropic paying Microsoft for cloud computing and Microsoft an anchor investor in the IPO due to price on 18 November.",
+          "w": "Office software is one of the most profitable businesses in tech, and investors are now nervous about AI labs moving from selling models to selling the apps people use every day."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Micron shares popped as investors bet more data centre building by firms like CoreWeave means more memory chip orders.",
+          "t": "Motley Fool",
+          "u": "https://www.fool.com/investing/2026/11/11/why-micron-stock-popped-today/"
+        },
+        {
+          "x": "NSW Police's cybercrime squad is investigating a breach that NSW Health has declared a major cyber event, though it says no patient data was taken.",
+          "t": "SBS",
+          "u": "https://www.sbs.com.au/news/article/cybercrime-squad-investigating-major-nsw-health-data-breach/jhbcaq0q4"
+        },
+        {
+          "x": "Google and Nvidia are reportedly among seven tech giants putting a combined US$26 billion into Anthropic's IPO.",
+          "t": "AI Weekly",
+          "u": "https://aiweekly.co/ai-news-today"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Albanese works the room at COP31 with Erdogan and Norway's Støre",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-12/federal-politics-live-blog-albanese-cop31-nov-2/107375902"
+          },
+          "b": "At the climate summit in Antalya, the Prime Minister met Turkish President Recep Tayyip Erdoğan to talk about the Middle East conflict and its economic fallout, AI and defence ties. He also met Norway's Prime Minister Jonas Gahr Støre, discussing support for Ukraine, the Middle East and Indo Pacific security. Turkey is hosting COP31, while Australia's Chris Bowen leads the formal negotiations under a power sharing deal between the two countries.",
+          "w": "Australia's unusual co hosting role means Albanese owns some of the result, good or bad, as the talks head toward their 20 November finish."
+        },
+        {
+          "h": "Canberra slams Qantas over 850 job cuts",
+          "s": {
+            "t": "ABC",
+            "u": "https://abc.net.au/news/2026-11-11/federal-politics-live-blog-nov-11/107371364"
+          },
+          "b": "Transport Minister Catherine King said it was extremely disappointing that Qantas is moving to axe 850 corporate jobs by mid 2027 under its outsourcing deal with Accenture. The criticism adds to political pressure on the airline, which has a long and bruising history with Labor and the unions over outsourcing.",
+          "w": "With unemployment at a five year high of 4.7%, white collar job cuts linked to outsourcing and AI are becoming a political issue, not just a business one."
+        },
+        {
+          "h": "Victoria's poll gets bigger and more complex, but with few debates",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-12/victorian-election-campaign-missing-leader-debates/107374014"
+          },
+          "b": "Nominations have closed for the 28 November election, which the Victorian Electoral Commission calls its biggest and most complex yet. Very few leader debates are planned, with Liberal leader Jess Wilson and Premier Ben Carroll trading accusations over who is dodging. The Coalition will generally put One Nation ahead of Labor and the Greens on its how to vote cards, while Labor says it will put One Nation last.",
+          "w": "Polls point to a possible change of government in Victoria, and One Nation's preferences could decide a lot of seats, which would shape the federal contest too."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Remembrance Day services across the country marked 108 years since the end of World War I.",
+          "t": "ABC",
+          "u": "https://abc.net.au/news/2026-11-11/remembrance-day-services-held-across-australia/107137596"
+        },
+        {
+          "x": "The government has scrapped plans to sell Sydney's Victoria Barracks and three Victorian Defence heritage sites, raising questions about its A$1.2 billion property sale target.",
+          "t": "The Urban Developer",
+          "u": "https://www.theurbandeveloper.com/articles/victoria-barracks-sydney-nsw-sale-backflip-defence-budget-questions"
+        },
+        {
+          "x": "The latest Newspoll had One Nation on 28% of the primary vote, Labor 27% and the Coalition 21%.",
+          "t": "The Conversation",
+          "u": "https://theconversation.com/labor-returns-to-equal-term-low-primary-vote-in-newspoll-295257"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "Home lending has its biggest quarterly fall on record as investors flee",
+          "s": {
+            "t": "The Adviser",
+            "u": "https://www.theadviser.com.au/borrower/49205-new-home-loans-suffer-largest-drop-on-record"
+          },
+          "b": "ABS figures show the value of new home loans fell 15.5% in the September quarter to A$81.2 billion, with the number of loans down 15% to about 111,900. Investors led the retreat, with their loan values down 32.3% to A$24.7 billion, the biggest fall on record and their third straight quarterly drop. Owner occupier loans fell 5.3% and first home buyer loans fell 8.6%.",
+          "w": "Higher rates, recent tax changes and falling prices are hitting housing at once. Weaker lending usually means softer prices ahead, which the RBA will read as its rate rises biting."
+        },
+        {
+          "h": "David Jones to close 19 of its 38 stores, including Woden",
+          "s": {
+            "t": "Canberra Times",
+            "u": "https://www.canberratimes.com.au/story/9389943/david-jones-store-to-close-in-canberra-as-19-sites-shut-down/"
+          },
+          "b": "Receivers FTI Consulting confirmed half of the department store chain's sites will shut by the end of the year, across six states and territories plus New Zealand. Closures include Woden in Canberra, Parramatta, Warringah Mall and Green Hills near Newcastle. The chain employs more than 6,000 people and is still looking for a buyer or new funding, with owner Anchorage Capital tipped to try to buy it back. Creditors meet for the first time on 17 November.",
+          "w": "The near 200 year old retailer's shrinkage is a sign of how hard high rates and online shopping are hitting discretionary spending, and it leaves big holes in shopping centres."
+        },
+        {
+          "h": "CBA lifts quarterly profit 8% to A$2.8 billion, but shares slip",
+          "s": {
+            "t": "Rask Media",
+            "u": "https://www.raskmedia.com.au/2026/11/11/commonwealth-bank-asxcba-share-price-in-focus-as-fy27-q1-profit-rises-8-to-2-8-billion/"
+          },
+          "b": "Commonwealth Bank's unaudited cash profit for the September quarter was about A$2.8 billion, up 8% on a year earlier, as business lending made up for a slower mortgage market. Home loan applications were still about 16% lower than a year ago, and loan impairment expenses rose to A$300 million. Shares fell about 1.2% as investors judged the stock already expensive.",
+          "w": "CBA is the biggest company on the ASX and in many super funds, so a bank that is growing slowly but priced for perfection matters to most Australians' retirement savings."
+        },
+        {
+          "h": "ASX edges up to an 11 week high as Life360 rebounds",
+          "s": {
+            "t": "Capital Brief",
+            "u": "https://www.capitalbrief.com/briefing/australian-shares-to-slip-as-hot-us-inflation-fuels-bets-of-half-point-fed-hike-b2bdcd19-4047-45f4-8833-05702f0bea38/"
+          },
+          "b": "The ASX 200 shook off a weak Wall Street lead after hot US inflation figures to finish up 0.27% at 9,153.2, closing at its high for the day. Tech and utilities led, with Life360 up about 10% after being the worst performer on Tuesday. Financials were the only sector to fall, dragged down by CBA.",
+          "w": "Local shares are near their best levels since August despite the rate rise, but a likely US Fed hike in December is a risk hanging over them."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Investor lending for new builds also fell 16.3%, suggesting tax changes have not pushed investors into new homes.",
+          "t": "Capital Brief",
+          "u": "https://www.capitalbrief.com/briefing/home-loans-suffer-steepest-quarterly-fall-as-investors-back-away-abs-8f59bdbd-c351-480d-81e4-f79ec89dc5ff/"
+        },
+        {
+          "x": "On Wall Street, the S&P 500 rose 1.3% to 7,619 and the Dow added about 0.5% to 52,486.",
+          "t": "WTOP",
+          "u": "https://wtop.com/national/2026/11/how-major-us-stock-indexes-fared-wednesday-11-11-2026"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Receivership",
+    "body": "Receivership is when a lender with security over a company's assets appoints a receiver to take control and recover what it is owed. It is different from voluntary administration, where an administrator works for all creditors to try to save the business or get the best outcome. A company can be in both at once, as David Jones is, with the receiver focused on the secured lender and the administrator on everyone else. Receivers often close loss making sites quickly to make what is left easier to sell. That is why store closures and a hunt for a buyer usually go hand in hand."
+  },
+  "ahead": [
+    {
+      "d": "Thu 12 Nov",
+      "e": "COP31 leaders' summit in Antalya wraps up, with Albanese attending."
+    },
+    {
+      "d": "Mon 16 Nov",
+      "e": "Senate sits again until 19 November."
+    },
+    {
+      "d": "Tue 17 Nov",
+      "e": "First creditors' meeting for David Jones."
+    },
+    {
+      "d": "Wed 18 Nov",
+      "e": "Australia's Wage Price Index is due; Knesset votes on replacing Speaker Amir Ohana (1am AEDT)."
+    },
+    {
+      "d": "Thu 19 Nov",
+      "e": "ABS October jobs figures; Anthropic's IPO is due to price (18 November in the US)."
+    },
+    {
+      "d": "Fri 20 Nov",
+      "e": "COP31 is scheduled to end."
+    }
+  ]
+}
