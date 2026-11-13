@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-14",
+  "edition": "Saturday 14 November 2026",
+  "lede": [
+    "A global Microsoft outage knocked out Outlook, Teams and Copilot, hitting the AFP and ASIO and prompting Canberra to activate a special recovery deal with the tech giant.",
+    "Europe will get a seat at the next round of US brokered Ukraine talks after Trump's envoys briefed Zelensky in Dublin, though Moscow is staying vague on whether it agrees.",
+    "The ASX fell 0.7% to 9,082.2 as Nvidia's leadership shock, rising bond yields and weaker commodities hit the market, with the Aussie dollar sliding to its lowest since January."
+  ],
+  "numbers": [
+    {
+      "label": "ASX 200",
+      "value": "9,082.2",
+      "note": "Close on Fri 13 Nov, down 0.71% (64.6 points) as gold miners and property led losses"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "about 68.0 US cents",
+      "note": "Fri 13 Nov afternoon, lowest since late January"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$95.84",
+      "note": "Settle on Fri 13 Nov, up 2 cents on the day but down for a second straight week"
+    },
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "Set on 3 Nov in a split vote, the highest since 2008; next decision 8 Dec"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Europe gets a seat at the next round of Ukraine peace talks",
+          "s": {
+            "t": "CNN",
+            "u": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl"
+          },
+          "b": "US envoys Steve Witkoff and Jared Kushner flew from meeting Vladimir Putin to brief Volodymyr Zelensky at an airbase outside Dublin, in talks that ran just under an hour. Kushner said both sides had agreed Europeans would join the next round, something Kyiv and European capitals have long pushed for. Russia was evasive about that on Friday, and nobody has said who would represent Europe. Zelensky also said the envoys told him the planned prisoner swap would be the biggest of the war.",
+          "w": "Europe wants any deal to cover its own security, not just Ukraine's borders, so its presence could make a settlement sturdier but also slower. A lasting ceasefire would ease energy and grain prices that flow through to Australian inflation."
+        },
+        {
+          "h": "Xi says Taiwan 'reunification' will happen as Taipei reveals a huge silent drill",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen"
+          },
+          "b": "Chinese leader Xi Jinping told a Sun Yat-sen anniversary event that bringing Taiwan under Beijing's control is an unwavering mission of the Communist Party, though he did not mention force. Taiwan detected 29 Chinese military aircraft and warships on a combat readiness patrol around the island the same day. Separately, Taiwanese officials said more than 100 Chinese naval and coast guard vessels massed across the western Pacific in an unannounced exercise in early November, bigger than China's last named Taiwan drill.",
+          "w": "Taiwan's Strait is one of the world's busiest shipping lanes and the hub of advanced chip making, so any squeeze there would hit Australian trade and tech supply chains. It also sits behind Japan's ongoing row with Beijing."
+        },
+        {
+          "h": "Indonesia's parliament will pick a new vice president on 2 December",
+          "s": {
+            "t": "Arab News",
+            "u": "https://www.arabnews.pk/world/indonesias-upper-house-to-pick-new-vice-president-on-december-2-its-speaker-says-3006980"
+          },
+          "b": "After Gibran Rakabuming Raka quit as vice president, the speaker of Indonesia's upper house said MPs will choose his replacement on 2 December. The house will ask President Prabowo Subianto to submit two names, and has set up a team of 36 lawmakers to check candidates' credentials. Gibran stepped down after courts found he lacked the required education qualifications, and it is not yet clear who Prabowo will put forward.",
+          "w": "Indonesia is Australia's giant northern neighbour and a key security and trade partner, so who stands next in line to Prabowo matters for Canberra. The pick will show how firmly Prabowo now controls Jakarta's politics."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Trump warned he would not hesitate to strike Iran again if it threatens ships in the Strait of Hormuz, while Tehran says it won't talk until the US blockade ends and frozen assets are released.",
+          "t": "Middle East Eye",
+          "u": "https://www.middleeasteye.net/news/trump-sidelines-vance-iran-talks-says-no-need-negotiate"
+        },
+        {
+          "x": "US producer prices rose 0.3% in October, a bit under forecasts, but are up 6.5% on a year ago, the fastest pace since late 2022.",
+          "t": "UPI",
+          "u": "https://www.upi.com/Top_News/US/2026/11/13/producer-price-index-october-2026-federal-inflation/2091794581625/"
+        },
+        {
+          "x": "Taiwanese officials described China's unannounced early November naval surge as one of Beijing's largest deployments yet, calling it silent intimidation.",
+          "t": "Japan Times",
+          "u": "https://www.japantimes.co.jp/news/2026/11/13/asia-pacific/politics/china-silent-intimidation/"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "Global Microsoft outage takes down Outlook, Teams and Copilot",
+          "s": {
+            "t": "iTnews",
+            "u": "https://www.itnews.com.au/news/microsoft-365-recovers-with-outlook-back-online-630336"
+          },
+          "b": "Microsoft 365 services went down worldwide on Friday, cutting off email, chat and AI tools for businesses and governments. In Australia the outage hit the AFP and ASIO, and Home Affairs Minister Tony Burke said Microsoft did not believe it was a cyber attack. Recovery began around 10pm AEDT, starting with parts of Asia Pacific, and Outlook is back online. Microsoft has not yet said publicly what caused it.",
+          "w": "So much of the economy, from banks to spy agencies, runs on one vendor's cloud that a single fault becomes a national problem. Expect fresh pressure on Canberra to diversify its suppliers."
+        },
+        {
+          "h": "Canberra pulls the lever on its Microsoft emergency deal",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-13/federal-politics-live-blog-backpacker-visas/107380962"
+          },
+          "b": "Burke said the government activated its digital resilience agreement with Microsoft on Friday so Australian interests get priority in the fix. The framework, struck in June, commits Microsoft to help restore Australia's digital economy quickly after major outages in its systems. Burke was briefed by national cyber security coordinator Michelle McGuinness and the company. The ABC also reported that a top national security adviser had warned months ago about how heavily government relies on Microsoft.",
+          "w": "It is the first real test of whether these government and big tech pacts actually deliver, and an early sign of how Australia might handle tech sovereignty."
+        },
+        {
+          "h": "Nonprofits sue to freeze frontier AI at five big labs",
+          "s": {
+            "t": "Public Citizen",
+            "u": "https://www.citizen.org/news/coalition-of-nonprofits-files-landmark-lawsuit-to-stop-development-of-advanced-ai-systems-at-anthropic-google-meta-openai-and-spacexsi-that-proliferate-bioweapons-and-cyberattacks/"
+          },
+          "b": "Four groups including Public Citizen filed a case in San Francisco Superior Court on Thursday against Anthropic, Google, Meta, OpenAI and SpaceX's AI arm. They want an injunction stopping the companies from building or releasing anything more capable than their current best models. The suit uses California's unfair competition law, arguing advanced AI is a public nuisance that could aid bioweapons or cyber attacks. No court has ruled on it.",
+          "w": "The odds of a freeze are long, but the case lands days before Anthropic's planned Nasdaq float and adds to a global push, including Australia's new AI safety regulator, to put legal limits on frontier AI."
+        },
+        {
+          "h": "Nvidia's interim boss faces her first big test next week",
+          "s": {
+            "t": "NPR",
+            "u": "https://www.npr.org/2026/11/13/nx-s1-6038889/colette-kress-becomes-nvidias-interim-ceo-after-jensen-huang-resigns"
+          },
+          "b": "Colette Kress, Nvidia's finance chief since 2013, is now also interim CEO after Jensen Huang's sudden exit, and the board is searching inside and outside the company for a permanent replacement. Her first earnings report as boss lands on 17 November US time. Nvidia shares kept sliding on Friday and helped drag the Nasdaq down about 1%.",
+          "w": "Nvidia's results are a bellwether for the whole AI spending boom, which has propped up global share markets including Australian data centre and tech stocks."
+        }
+      ],
+      "quick": [
+        {
+          "x": "OpenAI launched two AI security tools, Daybreak Red Team and Daybreak Defense Factory, to automate hacking tests and bug fixes for organisations.",
+          "t": "The Register",
+          "u": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500"
+        },
+        {
+          "x": "Anthropic has set an IPO price range of US$70 to US$78 a share, valuing it at up to about US$1.4 trillion, with trading eyed for 19 November.",
+          "t": "CNBC",
+          "u": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "AFP chief warns of 'terrorism 2.0' as a new online threat centre opens",
+          "s": {
+            "t": "Blayney Chronicle (AAP)",
+            "u": "https://www.blayneychronicle.com.au/story/9390870/australia-prepares-for-terrorism-20-with-online-hub/"
+          },
+          "b": "AFP Commissioner Krissy Barrett says young people can now be radicalised online in about the time it takes to watch a day of Test cricket. Children make up 40% of the national counterterrorism caseload. A joint AFP and ASIO Counter Terrorism Online Centre opened in Sydney on Friday, funded with A$74 million from the May budget. ASIO boss Mike Burgess will brief Tony Burke next week on a new way of setting terrorism threat levels.",
+          "w": "It marks a shift from policing organised groups to spotting lone kids radicalised on their phones, which links to the government's push on social media and online safety laws."
+        },
+        {
+          "h": "Victorian Liberals' One Nation preference gamble draws fire before the 28 November poll",
+          "s": {
+            "t": "Crikey",
+            "u": "https://crikey.com.au/2026/11/13/jess-wilson-victorian-election-liberal-preferences-one-nation-tony-abbott"
+          },
+          "b": "Two weeks out from the Victorian election, Jess Wilson's Liberals are under scrutiny over how they will direct preferences to One Nation. Polls show voters split on a possible Coalition and One Nation government: Resolve found 48% of Victorians are comfortable with it, while a Newspoll found a third of those wanting a Coalition majority would rather have Labor than a deal with One Nation. Labor is running hard on anti One Nation ads but is trailing.",
+          "w": "Victoria is the first big test of One Nation's surge, which also has the party leading national Newspoll on primary votes. The result will shape federal strategy for both majors."
+        },
+        {
+          "h": "Bank bosses grilled by MPs over fees and housing",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368"
+          },
+          "b": "NAB's Andrew Irvine and CBA's Matt Comyn fronted the House Economics Committee, chaired by Ed Husic. Irvine was pressed on 2,500 job cuts announced last month and said Australia may be pouring too much capital into property. Comyn was quizzed on low income customers wrongly charged about A$270 million in excessive fees, and said the mix between investor and owner occupier lending has shifted since the negative gearing and capital gains changes.",
+          "w": "Banks are the front line of the rate hikes and housing tax changes, so their bosses' read on lending is an early check on whether the budget's housing reforms are working."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The government is reconsidering its working holiday visa overhaul, possibly lifting a planned cap on third year visas, though Burke says total backpacker numbers won't change.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-13/backpacker-working-holiday-visa-immigration-uk-rethink/107381884"
+        },
+        {
+          "x": "A senior national security adviser had warned months ago that government reliance on Microsoft was a risk, the ABC revealed after the outage.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-13/microsoft-reliance-national-security-risk/107382100"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "ASX slides 0.7% on Nvidia shock and rising bond yields",
+          "s": {
+            "t": "Sharecafe",
+            "u": "https://sharecafe.com.au/2026/11/13/asx-200-dips-friday-secures-weekly-gain"
+          },
+          "b": "The ASX 200 fell 64.6 points to 9,082.2 on Friday as investors digested Jensen Huang's exit from Nvidia. Gold miners, base metals, uranium and property stocks led the losses, while utilities and telcos rose as money moved to safer stocks. BHP, Rio Tinto and Glencore all closed lower.",
+          "w": "Higher bond yields make shares look less attractive and lift borrowing costs, so the sell off shows how sensitive local markets are to US inflation and the AI trade."
+        },
+        {
+          "h": "Aussie dollar slips to its lowest since January",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-13/asx-markets-business-news-live-updates-nov-13/107337368"
+          },
+          "b": "The Australian dollar dipped to about 68 US cents on Friday, its weakest level since late January, after breaking below 68.35 cents. That is down from about 70 cents at the start of the month. Hot US inflation figures have lifted expectations that US rates stay high, which tends to boost the US dollar.",
+          "w": "A weaker dollar makes imports and overseas holidays dearer and can add to inflation, which the RBA is already fighting, but it helps exporters and miners earning US dollars."
+        },
+        {
+          "h": "ACCC starts the clock on the Steadfast takeover",
+          "s": {
+            "t": "Insurance Business",
+            "u": "https://www.insurancebusinessmag.com/au/news/breaking-news/accc-review-leaves-no-room-in-steadfast-takeover-timetable-597257.aspx"
+          },
+          "b": "The competition watchdog has begun reviewing a takeover of insurance broker Steadfast by Dragoneer, KKR and Amwins. Under Australia's new mandatory merger rules, the ACCC has 30 business days to clear it or move to a deeper phase 2 probe, with the first phase ending on 22 December, the same day the deal is due to complete. Amwins would take Steadfast's underwriting agency and some overseas wholesale broking businesses.",
+          "w": "It is one of the first big tests of the new merger regime that started this year, and any delay would push back a major private equity deal."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Brent crude settled at US$95.84 a barrel on Friday, notching a second straight weekly fall as traders weighed mixed signals on Iran.",
+          "t": "Rigzone",
+          "u": "https://www.rigzone.com/news/crude_fluctuates_as_iran_tensions_persist-13-nov-2026-185085-article"
+        },
+        {
+          "x": "Wall Street ended Friday lower with tech dragging, but still posted its first winning week since early October.",
+          "t": "QNC News",
+          "u": "https://qncnews.com/2026/11/13/wall-street-ends-friday-lower-but-seals-first-winning-week-since-early-october/"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Concentration risk",
+    "body": "Concentration risk is the danger of relying too heavily on one supplier, customer or asset, so a single failure hurts everything at once. Friday's Microsoft outage is a textbook case: when one company's cloud went down, police, spies and businesses all lost email and chat together. Investors face the same risk when a few giant stocks like Nvidia dominate an index, as one bad day drags the whole market. Banks watch it too, which is why NAB's boss worried about too much lending tied up in property. The usual cure is diversification, spreading your bets so no single shock can sink you."
+  },
+  "ahead": [
+    {
+      "d": "Mon 16 Nov",
+      "e": "Senate sits again until 19 November."
+    },
+    {
+      "d": "Wed 18 Nov",
+      "e": "Nvidia reports quarterly results, Kress's first as interim CEO (morning AEDT); Australia's Wage Price Index is due; APEC leaders gather in Shenzhen through 19 November."
+    },
+    {
+      "d": "Thu 19 Nov",
+      "e": "ABS October jobs figures, after unemployment hit 4.7% in September; Anthropic expected to price its IPO overnight."
+    },
+    {
+      "d": "Fri 20 Nov",
+      "e": "Anthropic shares due to debut on Nasdaq (early morning AEDT); COP31 climate talks in Antalya scheduled to end."
+    }
+  ]
+}
