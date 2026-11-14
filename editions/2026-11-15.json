@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-15",
+  "edition": "Sunday 15 November 2026",
+  "lede": [
+    "Donald Trump, Xi Jinping and Vladimir Putin plan their first ever three way meeting on the sidelines of APEC in Shenzhen this week, with nuclear arms control top of the agenda.",
+    "Microsoft says it is deeply sorry for a global outage that ran for more than 24 hours, blaming overloaded servers rather than hackers, as questions grow about Canberra's reliance on one supplier.",
+    "Victorian Labor is sliding toward a heavy defeat at the 28 November state election, with new polls showing Premier Ben Carroll's approval collapsing and Liberal leader Jess Wilson surging."
+  ],
+  "numbers": [
+    {
+      "label": "ASX 200",
+      "value": "9,082.2",
+      "note": "Close on Fri 13 Nov, down 0.71% as materials and property led eight of 11 sectors lower"
+    },
+    {
+      "label": "S&P 500",
+      "value": "7,561.67",
+      "note": "Close on Fri 13 Nov, down 0.4% on the day but up 2.5% for the week"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "25,136.27",
+      "note": "Close on Fri 13 Nov, down about 0.9% as Nvidia slid again"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$95.84",
+      "note": "Settle on Fri 13 Nov a barrel, with the US and Iran still locked in a standoff over Hormuz"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Trump, Xi and Putin set for a first ever three way summit in Shenzhen",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+          },
+          "b": "The White House has confirmed the three leaders will meet on the sidelines of the APEC summit, which China hosts in Shenzhen on 18 and 19 November. Trump is due to arrive late Wednesday and hold separate talks with Xi on Thursday. Reporting says the three way meeting will focus mainly on a nuclear arms control pact, but could also cover North Korea and the Iran war. The Kremlin called it extremely significant while warning that deals cannot be imposed on others.",
+          "w": "A meeting of the world's three biggest nuclear powers is rare, and any thaw between Washington and Beijing would ease pressure on Australia, which sells to China and relies on the US for security."
+        },
+        {
+          "h": "Ukraine and Russia line up a swap of up to 1,300 prisoners each",
+          "s": {
+            "t": "Kyiv Post",
+            "u": "https://www.kyivpost.com/post/90125"
+          },
+          "b": "Volodymyr Zelensky says US envoys Steve Witkoff and Jared Kushner have brokered an exchange of roughly 1,200 to 1,300 prisoners of war per side, the biggest of the war so far. Zelensky also said three to five Europeans would sit at the table in the next round of talks, and asked Europe to name its delegates by the end of November. Moscow has stayed vague on whether it accepts a European presence.",
+          "w": "A swap this big would be the most concrete result yet from the US led process. With Putin also heading to Shenzhen, next week could show whether talks are gaining real momentum."
+        },
+        {
+          "h": "US and Iran stuck in a 'no war, no peace' standoff over Hormuz",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us"
+          },
+          "b": "The US naval blockade of Iranian ports continues, and a new US effort called Task Force Iron Gate aims to choke off overland and Caspian Sea trade into Iran. Tehran says the Strait of Hormuz stays closed until the blockade lifts, sanctions ease and its frozen overseas money is released. Neither side has moved, and a ceasefire signed earlier in the year collapsed when fighting resumed in July.",
+          "w": "About a fifth of the world's oil normally passes through Hormuz, which is why Brent is still near US$96. That keeps Australian petrol prices and inflation high, feeding into RBA decisions."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Gadi Eisenkot is still trying to stitch together a governing coalition in Israel, with 28 days plus a possible 14 day extension before the country could head back to the polls.",
+          "t": "Times of Israel",
+          "u": "https://www.timesofisrael.com/president-herzog-taps-eisenkot-to-form-coalition-but-path-remains-fraught/"
+        },
+        {
+          "x": "Wall Street ended Friday mixed, with the Nasdaq down about 0.9% as Nvidia fell again, but all three major indexes still posted weekly gains.",
+          "t": "Washington Post",
+          "u": "https://www.washingtonpost.com/business/2026/11/13/wall-street-stocks-dow-nasdaq/f15a10e2-dfa7-11f1-912c-4fbb80d73f7f_story.html"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "Microsoft says sorry for its 24 hour global outage",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-14/microsoft-says-sorry-for-global-outage-and-details-recovery/107385540"
+          },
+          "b": "Microsoft says Outlook, Teams and its other services have fully recovered after an outage that ran for more than a day worldwide. Its early explanation is that a process for setting up secure connections became overwhelmed, leaving many servers unavailable, and it says there is no sign of a cyber attack. Recent configuration changes are being looked at as a possible trigger, but there is no full root cause report yet.",
+          "w": "A government review had already rated reliance on a single supplier as uncommon but potentially catastrophic, yet recommended sticking with Microsoft because switching is costly. Expect that call to be questioned when the Senate sits this week."
+        },
+        {
+          "h": "Google rolls out Gemini 4 Hydrogen to everyone",
+          "s": {
+            "t": "Google",
+            "u": "https://x.com/Google/status/2120941989948457042"
+          },
+          "b": "Google has started rolling out Gemini 4 Hydrogen across the Gemini app, Google Search and AI Studio, pitched as a fast, efficient model for everyday coding and agent work. It comes with four thinking levels, including a new extra high setting, and paying subscribers get it inside Chrome and Sheets. It sits alongside the larger Gemini 4 models Google released in recent weeks.",
+          "w": "Putting a new model straight into Search puts it in front of billions of people, which is Google's big edge over rivals. The race is heating up just as Anthropic prepares to list on the sharemarket."
+        },
+        {
+          "h": "Nvidia's US$10b Anthropic pledge under scrutiny after Huang's exit",
+          "s": {
+            "t": "Quartz",
+            "u": "https://qz.com/nvidia-huang-resigns-anthropic-ipo-pledge-111226"
+          },
+          "b": "Nvidia agreed to buy about US$10 billion of Anthropic shares in a US$26 billion private placement alongside the AI company's IPO, with Google committing a similar amount. Analysts say Jensen Huang's sudden resignation could prompt Nvidia's board to rethink the size or timing of that deal. Anthropic is offering 825 million shares at US$70 to US$78, which could raise up to about US$64 billion.",
+          "w": "This is shaping up as one of the biggest floats ever, and a wobble from a key backer could affect its price. Australian super funds hold plenty of US tech, so the result will flow into many retirement balances."
+        }
+      ],
+      "quick": [
+        {
+          "x": "NSW Police are looking offshore as they investigate a hack of a NSW Health dental voucher website, with officials saying no patient data appears to have been taken.",
+          "t": "AAP",
+          "u": "https://aapnews.aap.com.au/news/cyber-crime-cops-probing-after-health-department-hacked"
+        },
+        {
+          "x": "Google Cloud is offering its Gemini 4 Argon model at an introductory rate of US$2 per million input tokens until 30 November.",
+          "t": "Google Cloud",
+          "u": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Victorian Labor slumps to new lows two weeks out from polling day",
+          "s": {
+            "t": "The Conversation",
+            "u": "https://theconversation.com/labor-slumps-to-new-lows-in-two-victorian-polls-296132"
+          },
+          "b": "A DemosAU poll has Premier Ben Carroll's net approval plunging 16 points to minus 30, while Liberal leader Jess Wilson rose to plus 13 and leads him 48 to 30 as preferred premier. A Resolve poll puts Wilson's net likeability at a record plus 24. DemosAU's earlier polling had the Coalition ahead 56 to 44 after preferences, and betting markets suggest Carroll could even lose his own seat of Niddrie.",
+          "w": "Labor has run Victoria since 2014, so a loss on 28 November would be a big shift and a warning sign for federal Labor. It would also test how the Liberals handle One Nation preferences."
+        },
+        {
+          "h": "Albanese's climate pitch overshadowed by criticism and a hot mic moment",
+          "s": {
+            "t": "AAP",
+            "u": "https://aapnews.aap.com.au/news/australia-under-fire-as-pacific-seeks-climate-lifeline"
+          },
+          "b": "At COP31 in Turkey, Albanese built his speech around help for Tuvalu and other Pacific nations, but advocates said Australia cannot champion the region while still approving new coal and gas. UN chief Antonio Guterres urged Australia to rule out new mines, and the PM defended skipping fossil fuels in his speech. Separately, Channel Seven aired a crude private joke between Albanese and Climate Minister Chris Bowen, which his office brushed off as banter between meetings.",
+          "w": "Australia holds the formal role of running the COP31 negotiations, with Bowen in charge until the talks end on 20 November. How the final deal treats fossil fuels will shape Australia's standing in the Pacific."
+        },
+        {
+          "h": "Resolve poll keeps Labor narrowly ahead of a surging One Nation",
+          "s": {
+            "t": "Poll Bludger",
+            "u": "https://www.pollbludger.net/2026/11/09/federal-polls-resolve-strategic-and-redbridge-group-open-thread/"
+          },
+          "b": "The latest monthly Resolve poll has Labor's primary vote down a point to 28%, One Nation steady on 25%, the Coalition down to 22% and the Greens up to 13%. Albanese's rating has weakened, with 57% rating him poorly, while Angus Taylor scored 42% good to 33% poor. On preferred PM, Albanese leads on 29% to Taylor's 25% and Pauline Hanson's 24%.",
+          "w": "With three parties in the low to high 20s, the next federal election could produce a minority parliament. The Senate returns tomorrow, giving the government a fresh chance to reset."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Angus Taylor has pledged a red tape 'razor gang' led by deputy Jane Hume, promising to cut federal regulation by 25% in a first Coalition term.",
+          "t": "SmartCompany",
+          "u": "https://www.smartcompany.com.au/business-advice/politics/angus-taylor-promises-red-tape-razor-gang-40-billion-business-savings/"
+        },
+        {
+          "x": "The Pacific Resilience Facility, a fund to help island nations cope with climate shocks, hit a US$200 million milestone at COP31, including US$5 million from Andrew Forrest.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-12/cop31-australia-criticised-over-fossil-fuel-expansion/107375792"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "ASX ends the week in the red as bond yields and Nvidia bite",
+          "s": {
+            "t": "Market Index",
+            "u": "https://www.marketindex.com.au/news/evening-wrap-asx-200-slides-as-nvidia-woes-bond-yield-spike-and-falling"
+          },
+          "b": "The ASX 200 fell 0.71% to 9,082.2 on Friday as rising US bond yields and softer commodity prices pushed investors out of miners and growth stocks and into defensive ones. Materials dropped 1.61% and property 1.34%, and small caps fell harder, with the Small Ordinaries down 1.24%. Banks helped the index scrape out a small gain for the week overall.",
+          "w": "Higher bond yields make shares look less attractive and push up borrowing costs. The market is jumpy ahead of Wednesday's wages data and Thursday's jobs figures."
+        },
+        {
+          "h": "Ingenia takeover fight rolls on as AVID matches Warburg Pincus",
+          "s": {
+            "t": "Capital Brief",
+            "u": "https://www.capitalbrief.com/briefing/avid-matches-warburg-pincus-bid-for-ingenia-1d34e722-157e-4009-a246-9c64c64da4b5/"
+          },
+          "b": "Developer AVID Property Group has lifted its proposal for land lease and holiday park owner Ingenia Communities to match the latest offer from US private equity firm Warburg Pincus, of about $5.55 a security plus a possible small distribution. Ingenia's board says AVID's bid is at least as good, but has not recommended either. Warburg's due diligence access ended on Friday, while AVID's exclusivity runs until 14 December.",
+          "w": "Ingenia's parks are a big source of affordable housing for retirees, so who owns them matters beyond the share price. The contest is part of a wider wave of foreign and private equity money buying mid sized ASX companies."
+        },
+        {
+          "h": "Big River backs a $156 million cash takeover",
+          "s": {
+            "t": "The Market Floor",
+            "u": "https://x.com/MarketFloorNews/status/2121029024327553121"
+          },
+          "b": "Timber and building products supplier Big River Industries has agreed to be bought by private investment firm CTL for $1.62 a share in cash, a 46% premium. The deal values the company at about $156 million and will run as a scheme of arrangement, which needs shareholder and court approval. It still needs ACCC clearance and is aimed to complete in early 2027.",
+          "w": "Big River sells into home building, so a buyer paying a big premium suggests some investors expect construction to pick up despite high interest rates."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Childcare operator G8 Education shares jumped after Majority Capital Partners made a non binding proposal of 26 cents a share, a 160% premium to its last close.",
+          "t": "Kalkine",
+          "u": "https://kalkine.com.au/news/consumer/why-did-g8-education-asxgem-receive-a-takeover-proposal-at-a026-a-share"
+        },
+        {
+          "x": "Foreign buyers appear to be speeding up their purchases of mid sized ASX listed companies, adding to a busy takeover season.",
+          "t": "Sharecafe",
+          "u": "https://www.sharecafe.com.au/2026/11/12/foreign-buyers-accelerate-asx-company-takeovers/"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Two party preferred vote",
+    "body": "Australia uses preferential voting, so when no candidate wins a majority outright, the votes of the losing candidates are passed on according to voters' rankings. Pollsters model this by estimating how every vote would end up between the two main sides, usually Labor and the Coalition, which is called the two party preferred result. It is a better guide to who wins seats than primary votes alone, which is why a 56 to 44 Coalition lead in Victoria is so striking. With One Nation now polling in the mid 20s federally, some contests may become a fight between different pairs, making the classic measure less reliable."
+  },
+  "ahead": [
+    {
+      "d": "Mon 16 Nov",
+      "e": "Senate sits until 19 November, with questions likely over the Microsoft outage."
+    },
+    {
+      "d": "Wed 18 Nov",
+      "e": "APEC leaders' summit opens in Shenzhen; ABS Wage Price Index due."
+    },
+    {
+      "d": "Thu 19 Nov",
+      "e": "Nvidia quarterly results (Wednesday US time), Colette Kress's first as interim CEO; Trump meets Xi, with a three way meeting with Putin also planned; ABS October jobs figures."
+    },
+    {
+      "d": "Fri 20 Nov",
+      "e": "Anthropic expected to price its IPO around now ahead of a Nasdaq debut; COP31 climate talks scheduled to end in Antalya."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election."
+    }
+  ]
+}
