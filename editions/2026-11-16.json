@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-16",
+  "edition": "Monday 16 November 2026",
+  "lede": [
+    "Iran fired drones at a US base in Bahrain for the first time in two months and says tankers hit mines near Hormuz, days before Trump, Xi and Putin meet in Shenzhen.",
+    "Labor's gas reservation bill faces a make or break Senate week, with unions and big industry jointly urging the Coalition and Greens to pass it.",
+    "Coles is investigating a cyber security incident, while markets brace for a huge AI week with Nvidia's first results since Jensen Huang quit and Anthropic's Nasdaq float."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "As at 16 Nov, after the 3 Nov hike, the fifth this year; next decision 8 Dec"
+    },
+    {
+      "label": "ASX 200",
+      "value": "9,082.2",
+      "note": "Close on Fri 13 Nov, down 0.71%; futures pointed to a flat Monday open"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "67.71 US cents",
+      "note": "As at Fri 13 Nov close, down 0.5% on the day"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$95.84",
+      "note": "Settle on Fri 13 Nov a barrel, a second straight weekly loss of about 2.5%"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Iran targets US base in Bahrain and claims tankers hit mines",
+          "s": {
+            "t": "The National",
+            "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/"
+          },
+          "b": "Bahrain sounded its first nationwide alert since September on Sunday after Iran's Revolutionary Guards said they sent six drones at US radar at a helicopter base there. Bahrain and US Central Command say the drones were shot down. The Guards also claimed tankers struck mines south of the Strait of Hormuz on an unapproved route, which is not yet independently confirmed.",
+          "w": "The nine month war had settled into a tense standoff, so a fresh strike raises the risk of new US action and another oil price spike, which would flow straight into Australian petrol prices."
+        },
+        {
+          "h": "Shenzhen three way summit locked in for Thursday, with Iran on the menu",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china"
+          },
+          "b": "The White House and Kremlin have confirmed Trump, Xi and Putin will meet on 19 November on the sidelines of APEC in Shenzhen. The White House says nuclear arms control is the focus and Trump will raise the Iran war, while reports suggest Ukraine is off the agenda. A senior US official told Reuters not to expect any agreement.",
+          "w": "Any arms control talk between the three biggest nuclear powers matters for global stability, and China is Australia's biggest trading partner."
+        },
+        {
+          "h": "ASEAN summit opens in Manila as leaders hunt trade deals",
+          "s": {
+            "t": "Bloomberg",
+            "u": "https://www.bloomberg.com/news/articles/2026-11-15/world-leaders-at-manila-summit-seek-trade-to-offset-us-risks"
+          },
+          "b": "The 49th ASEAN summit runs in Manila until Tuesday, with Albanese, Canada's Mark Carney, Brazil's Lula and China's Premier Li Qiang among the leaders attending. Much of the talk is about new trade deals to hedge against US tariffs. Diplomats do not expect a South China Sea code of conduct to be signed.",
+          "w": "Southeast Asia is a fast growing market for Australian exports, and the South China Sea is where most of our trade sails."
+        },
+        {
+          "h": "Eisenkot and Netanyahu's Likud sit down for unity talks",
+          "s": {
+            "t": "Times of Israel",
+            "u": "https://www.timesofisrael.com/yashar-likud-meet-for-unity-talks-as-eisenkot-bloc-moves-to-assert-control-over-knesset/"
+          },
+          "b": "Negotiators from Gadi Eisenkot's Yashar party and Likud met on Sunday about a possible unity government. Eisenkot, who has 28 days from 8 November to form a government, wants to be prime minister himself. He is also courting the ultra Orthodox United Torah Judaism party, which denies reports of major progress.",
+          "w": "Who governs Israel will shape the Gaza ceasefire and Israel's push for more strikes on Iran."
+        }
+      ],
+      "quick": [
+        {
+          "x": "COP31 negotiators in Antalya expect a first draft deal as early as Monday, with fossil fuels and adaptation finance the big fights before talks end Friday.",
+          "t": "Hurriyet Daily News",
+          "u": "https://www.hurriyetdailynews.com/turkiye-eyes-ambitious-climate-outcome-as-cop31-enters-final-week-229417"
+        },
+        {
+          "x": "Traders now fully price a US Federal Reserve rate hike on 8 to 9 December after October inflation came in hot at about 4%.",
+          "t": "Motley Fool",
+          "u": "https://www.fool.com/investing/2026/11/14/a-larger-than-normal-fed-rate-hike-in-december-now-looks-more-likely-here-s-why/"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "US grounds every flight after air traffic communications fail",
+          "s": {
+            "t": "PBS",
+            "u": "https://www.pbs.org/newshour/nation/faa-grounds-all-flights-at-u-s-airports-due-to-air-traffic-control-communications-problems"
+          },
+          "b": "The FAA halted all departures nationwide on Friday US time after a telecommunications outage hit every regional air traffic control centre. The stop lasted a bit over four hours, with about 11,000 flights and 1.5 million passengers scheduled. Officials say there is no sign yet of foul play.",
+          "w": "Coming the same day as Microsoft's global outage, it is another reminder of how fragile critical systems are, a live issue for Canberra's own tech dependence."
+        },
+        {
+          "h": "OpenAI launches a wallet so its AI agents can shop for you",
+          "s": {
+            "t": "CNBC",
+            "u": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+          },
+          "b": "ChatGPT Wallet lets OpenAI's dots agents buy things on a user's behalf using tokenised card details, so the agent never sees the card number. It is limited to US Pro subscribers for now and every purchase needs the user's approval. OpenAI takes no cut of sales at launch, though some retailers, notably Amazon, block outside AI agents.",
+          "w": "Agentic shopping could reshape online retail and payments, a space where Australian banks and retailers will need rules on liability and fraud."
+        },
+        {
+          "h": "White House task force wants a liability holiday for AI cyber reports",
+          "s": {
+            "t": "Bloomberg",
+            "u": "https://bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure"
+          },
+          "b": "The White House AI task force recommends agencies give companies at least 12 months of relief from regulatory penalties if they report cyber vulnerabilities and incidents in good faith. It is a softer tone than last month, when the same group warned AI developers of consequences for not reporting. It also backed renewing a key 2015 cyber information sharing law that expires on 11 December.",
+          "w": "Australia is building its own AI safety regulator, so the US approach of carrots over sticks is a useful comparison."
+        },
+        {
+          "h": "Big AI week: Nvidia reports without Huang as Anthropic floats",
+          "s": {
+            "t": "Yahoo Finance",
+            "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+          },
+          "b": "Nvidia reports quarterly results on Tuesday US time, with Wall Street expecting about US$109 billion in revenue and interim CEO Colette Kress leading the call. Anthropic is expected to price its IPO on Wednesday US time at US$70 to US$78 a share, raising up to about US$64 billion. Orders are reportedly about six times the shares on offer.",
+          "w": "Nvidia is the bellwether for the AI boom that has driven global markets and Australian data centre stocks like NextDC."
+        }
+      ],
+      "quick": [
+        {
+          "x": "TechCrunch reports Huang's exit followed questions about his links to an executive at a Singapore data centre firm suspected of funnelling chips to China.",
+          "t": "TechCrunch",
+          "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
+        },
+        {
+          "x": "A critical flaw nicknamed Node2Shell in the Brotli decoder bundled with Node.js is drawing urgent attention from security teams.",
+          "t": "Cloud Security Alliance",
+          "u": "https://labs.cloudsecurityalliance.org/research/alt-ciso-briefing-2026-11-14/"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Unions and industry unite to push the gas reservation bill through the Senate",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
+          },
+          "b": "Union bosses including the AWU and business groups like the Ai Group have signed an open letter urging the Senate to pass Labor's gas reservation scheme this week. It would make exporters set aside up to 20% of their gas for the local market to push down prices. The Coalition objects to how Western Australia is treated, while the Greens want a gas export tax instead.",
+          "w": "Labor needs either the Coalition or the Greens, so how this lands will show how the government can get contested laws through the Senate."
+        },
+        {
+          "h": "Australia and the Philippines sign a new defence pact",
+          "s": {
+            "t": "Euronews",
+            "u": "https://www.euronews.com/2026/11/15/australia-and-philippines-sign-new-defence-pact-amid-south-china-sea-tensions"
+          },
+          "b": "With Albanese watching in Manila on Sunday, the two countries signed an updated defence cooperation arrangement replacing a decades old memorandum. It is meant to speed up joint patrols, exercises, disaster relief and military infrastructure, and improve information sharing. Albanese said it is not aimed at any one country.",
+          "w": "It deepens Australia's security ties in the South China Sea, where China and the Philippines regularly clash."
+        },
+        {
+          "h": "Victorian Labor and Liberals launch campaigns with polls pointing to a change",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-15/labor-liberal-coalition-campaign-launches-health-youth-crime/107387220"
+          },
+          "b": "Premier Ben Carroll launched Labor's campaign in Moonee Ponds with a health pledge to cut elective surgery waits, while Opposition Leader Jess Wilson called 28 November the most consequential election in decades. New polling has the Coalition on track to win government for the first time since 2014. One Nation is also surging in Victoria.",
+          "w": "A Labor loss in its strongest state would add pressure on Albanese's federal government, which is trailing One Nation in some polls."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The Albanese government faces backlash over about $3 billion in Microsoft contracts after Friday's outage hit the AFP and ASIO.",
+          "t": "Canberra Times",
+          "u": "https://www.canberratimes.com.au/story/9391342/albanese-government-faces-backlash-over-3b-microsoft-deals/"
+        },
+        {
+          "x": "The latest Newspoll has One Nation on 28% of the primary vote, Labor 27% and the Coalition 21%, with the next one due in about a week.",
+          "t": "Poll Bludger",
+          "u": "https://www.pollbludger.net/2026/11/01/newspoll-labor-27-one-nation-28-coalition-21-open-thread/"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "Coles investigates a cyber security incident",
+          "s": {
+            "t": "iTnews",
+            "u": "https://www.itnews.com.au/news/coles-group-investigating-a-cyber-incident-630361"
+          },
+          "b": "Coles told the ASX it is investigating a cyber incident and has found no evidence so far that customer, staff or supplier data was taken. Stores and online shopping are running normally. It is working with the Australian Cyber Security Centre and outside experts.",
+          "w": "After Optus, Medibank and Qantas, any breach at a supermarket giant with millions of loyalty members would be a big test of new cyber reporting rules."
+        },
+        {
+          "h": "Wages and jobs data headline a busy local week",
+          "s": {
+            "t": "Capital Brief",
+            "u": "https://www.capitalbrief.com/article/jobs-market-to-hold-steady-as-economists-eye-early-signs-of-lay-offs-1bc79bfc-3f54-494f-82e9-4b6b97149f7b/"
+          },
+          "b": "Wednesday's Wage Price Index is expected to show wages up about 1% in the quarter and 3.3% to 3.4% over the year. Thursday's October jobs figures are tipped to show 20,000 to 30,000 new jobs with unemployment steady at 4.7%. ASX futures point to a flat open after Wall Street slipped on Friday.",
+          "w": "With the cash rate at an 18 year high, strong wages could keep the RBA worried about inflation into 2027."
+        },
+        {
+          "h": "Nine denies it is being shopped to private equity",
+          "s": {
+            "t": "Mediaweek",
+            "u": "https://mediaweek.com.au/nine-shuts-down-claims-shopped-private-equity"
+          },
+          "b": "Nine Entertainment has rejected reports it is being pitched to private equity buyers, with talk centred on selling the AFR. Its shares slid from above $1 at the start of the year to 63 cents in October. CEO Matt Stanton argues investors are overlooking the AFR, which made more than half of Nine's publishing earnings in FY26.",
+          "w": "A sale would reshape Australia's already concentrated media market."
+        },
+        {
+          "h": "Service Stream buys Programmed for $975 million",
+          "s": {
+            "t": "Small Caps",
+            "u": "https://smallcaps.com.au/article/weekly-wrap-2026-11-13-5a448530-7f72-4575-8407-9efae2f1f140"
+          },
+          "b": "Infrastructure services firm Service Stream agreed to buy staffing and maintenance group Programmed for $975 million and is raising $475 million in new shares to help pay for it. The deal is expected to complete around 1 March 2027. Separately, Goodman Group and Digital Realty took a joint 9.9% stake in data centre operator NextDC but say they have no plans to bid.",
+          "w": "Both deals show how hot demand is for businesses tied to infrastructure and the AI data centre build out."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Westpac thinks 4.85% is likely the peak RBA cash rate and expects a pause in December.",
+          "t": "Westpac IQ",
+          "u": "https://www.westpaciq.com.au/economics/2026/11/rba-decision-3-november-2026"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Domestic gas reservation",
+    "body": "A gas reservation scheme forces companies that export gas to keep a share of it for local buyers. Australia is one of the world's biggest gas exporters, yet east coast households and factories often pay prices set by overseas demand. Labor's bill would require exporters to set aside up to 20% of their output for the domestic market, aiming to boost local supply and push down prices. Western Australia has run its own version since 2006, which is partly why the Coalition is fighting over how WA is treated. Critics say reservation can deter new gas investment, while supporters say it protects manufacturing jobs and power bills."
+  },
+  "ahead": [
+    {
+      "d": "Tue 17 Nov",
+      "e": "ASEAN summit wraps up in Manila; Senate debate on the gas reservation bill expected this week."
+    },
+    {
+      "d": "Wed 18 Nov",
+      "e": "ABS Wage Price Index; Nvidia results early morning AEDT (Tuesday US time); APEC leaders' week begins in Shenzhen."
+    },
+    {
+      "d": "Thu 19 Nov",
+      "e": "ABS October jobs figures; Trump, Xi and Putin meet in Shenzhen; Anthropic expected to price its IPO overnight."
+    },
+    {
+      "d": "Fri 20 Nov",
+      "e": "Anthropic due to start trading on Nasdaq overnight; COP31 climate talks scheduled to end in Antalya."
+    },
+    {
+      "d": "Wed 25 Nov",
+      "e": "US PCE inflation data out overnight, a key input for the Fed's December decision."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election."
+    }
+  ]
+}
