@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-17",
+  "edition": "Tuesday 17 November 2026",
+  "lede": [
+    "A sharp AI selloff hit Wall Street overnight, with the Nasdaq down about 2.5% and Nvidia off 4% a day before its first results since Jensen Huang quit, so the ASX is set to open lower.",
+    "Albanese joins Trump, Modi and Takaichi in Manila tonight for the first Quad leaders' meeting since 2024, as Washington tightens AI chip rules on China before Thursday's Shenzhen summit.",
+    "In Canberra, Labor's gas reservation bill is still short of Senate votes, and the Greens have opened a new front by eyeing an alternative to its capital gains tax changes."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "As at 17 Nov; minutes of the 3 Nov hike, a split 6 to 3 vote, are out at 11.30am today"
+    },
+    {
+      "label": "ASX 200",
+      "value": "9,044.7",
+      "note": "Close on Mon 16 Nov, down 0.41% as miners dragged"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "about 67.4 US cents",
+      "note": "Early Tue 17 Nov, near a 10 month low after falling about 0.5%"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$92.29",
+      "note": "Overnight to Tue 17 Nov a barrel, down 3.7% as Gulf shipments recover"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Trump lands in Manila for the Quad and a Thai trade deal before Shenzhen",
+          "s": {
+            "t": "ThePrint",
+            "u": "https://theprint.in/diplomacy/modi-trump-set-to-meet-at-quad-summit-in-manila-right-before-us-presidents-trilateral-with-xi-putin/3100198/"
+          },
+          "b": "Trump, Narendra Modi, Japan's Sanae Takaichi and Anthony Albanese meet in Manila this evening on the sidelines of the ASEAN summit. It is the first Quad leaders' meeting since September 2024 and Trump's first since returning to office. Trump is also due to sign a trade statement with Thai PM Anutin Charnvirakul, which Bangkok stresses is progress, not a final deal. He then flies to China for APEC and Thursday's three way meeting with Xi Jinping and Vladimir Putin.",
+          "w": "The Quad (US, Japan, India, Australia) is one of Canberra's main tools for balancing China, so a revived leaders' meeting matters for Australian security policy."
+        },
+        {
+          "h": "Trump plays a waiting game as Iran keeps up drone attacks",
+          "s": {
+            "t": "CNN",
+            "u": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl"
+          },
+          "b": "After Iran's Revolutionary Guards claimed new drone strikes on a US radar in Bahrain, US Central Command said the drones were shot down with no damage or injuries. Trump has held off fresh strikes and is letting the naval blockade of Iran's ports squeeze its economy, reportedly shelving a JD Vance push to restart talks. Tehran says it will only negotiate if the blockade ends, sanctions are phased out and frozen assets are released.",
+          "w": "Oil fell almost 4% overnight on recovering Gulf shipments, which is good news for Australian petrol prices, but analysts warn the standoff carries a real risk of miscalculation."
+        },
+        {
+          "h": "Ukraine launches its biggest drone attack on Russia of the war",
+          "s": {
+            "t": "ABC News US",
+            "u": "https://abcnews.com/International/ukraine-fires-1336-drones-russia-wars-largest-attacks/story?id=138171397"
+          },
+          "b": "Russia's defence ministry says it downed 1,336 Ukrainian drones across 16 regions overnight on Sunday, beating October's record of about 1,250. Around 600 drones headed for the Moscow region, while refineries and the Kerch Bridge to Crimea were targeted and at least six people were wounded in Krasnodar. The Kremlin called the damage minor, and the FT estimates as many as 2,000 drones were launched in total.",
+          "w": "Ukraine is squeezing Russia's oil refining to hit its war funding, just days before Putin sits down with Trump and Xi in Shenzhen."
+        },
+        {
+          "h": "First COP31 draft keeps fossil fuel fight wide open",
+          "s": {
+            "t": "US News/Reuters",
+            "u": "https://www.usnews.com/news/world/articles/2026-11-16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come"
+          },
+          "b": "The first draft deal from the Antalya climate talks, released Monday, includes both the softer COP28 wording on transitioning away from fossil fuels and tougher phase out language, and either could be cut. It also proposes tripling adaptation finance for developing countries to at least US$120 billion a year by 2035. Australia's Chris Bowen, who runs the negotiations, says parts of the text will not win everyone's agreement.",
+          "w": "Australia's credibility as president of negotiations is on the line, with talks due to end on Friday."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Iran's UN envoy has accused Bahrain of letting the US use its bases for attacks and warned Tehran will hit back at the source of any strike.",
+          "t": "Al Jazeera",
+          "u": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+        },
+        {
+          "x": "About 20,000 police are deployed across Metro Manila for Trump's two day stop amid expected protests.",
+          "t": "mlq.ai",
+          "u": "https://mlq.ai/news/trump-flies-to-manila-for-a-quad-meeting-and-a-thailand-trade-signing-before-his-shenzhen-talks-with-xi-and-putin/"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "US moves to block China's remote access to top AI chips",
+          "s": {
+            "t": "The Hill",
+            "u": "https://thehill.com/policy/technology/6222897-bis-limits-remote-computing-exports/"
+          },
+          "b": "The Commerce Department issued an interim rule on Monday requiring licences for chips sent to overseas data centres that provide significant computing power to firms headquartered in places like China. Shipments to Singapore, Thailand, Malaysia, Indonesia and Brazil now also need licences because of diversion risk. The rule follows the Nvidia linked scandal involving Singapore cloud firm Megaspeed, formally scraps Biden's AI Diffusion Rule and takes effect in 90 days.",
+          "w": "It closes a loophole where Chinese firms rent US chips in the cloud instead of buying them, and it lands just before Trump meets Xi on Thursday."
+        },
+        {
+          "h": "AI jitters slam Wall Street before Nvidia results and the Anthropic float",
+          "s": {
+            "t": "Investing.com/Reuters",
+            "u": "https://www.investing.com/news/economy-news/trading-day-ai-jitters-slam-wall-street-5031112"
+          },
+          "b": "The Nasdaq fell about 2.5% overnight, with Nvidia and Alphabet each down around 4% and the chip index losing 5.3%. Investors are nervous about Huang's exit ahead of Nvidia's results, due Wednesday morning Australian time, and the week's huge Anthropic listing. A stronger US dollar, at a 19 month high, and rate worries added to the pressure.",
+          "w": "Big US tech swings flow straight into Australian super funds, which hold large global share portfolios."
+        },
+        {
+          "h": "DeepSeek users hit new limits as the chatbot runs short of computing power",
+          "s": {
+            "t": "TechNode",
+            "u": "https://technode.com/2026/11/16/deepseek-users-report-chat-limits-as-the-service-cites-capacity-constraints/"
+          },
+          "b": "Users of Chinese AI firm DeepSeek report a daily cap on free chats, inputs limited to about 40,000 characters, and old conversations that cannot be resumed after a week. Notices blame insufficient computing capacity, and DeepSeek has not confirmed the changes or said when they will lift. Its status page shows eight incidents since October.",
+          "w": "It is a real world sign that US chip curbs are pinching Chinese AI labs, the exact pressure Washington is now tightening."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Anthropic is expected to price its IPO of 825 million shares at US$70 to US$78 on Wednesday US time and start trading on Nasdaq as ANT on Thursday.",
+          "t": "CNBC",
+          "u": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html"
+        },
+        {
+          "x": "Bloomberg reports the new rules specifically target remote access to Nvidia's most advanced AI chips.",
+          "t": "Bloomberg",
+          "u": "https://www.bloomberg.com/news/articles/2026-11-16/us-moves-to-limit-remote-access-to-advanced-ai-chips"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Gas reservation bill still stuck as the Coalition demands a WA carve out",
+          "s": {
+            "t": "About Regional",
+            "u": "https://aboutregional.com.au/all-eyes-on-senate-this-week-over-gas-reservation-scheme/520569/"
+          },
+          "b": "Labor needs either the Coalition or the Greens to pass its plan forcing LNG exporters to sell up to 20% of export volumes to local buyers. The Coalition says it is open to the idea but wants changes, including keeping Western Australia out, while the Greens want a 25% export tax instead. Resources Minister Madeleine King has ruled out the tax, says the constitution keeps WA in, and warns senators that a no vote means higher prices.",
+          "w": "The scheme is the government's main answer to east coast gas shortages and high power bills for households and manufacturers."
+        },
+        {
+          "h": "Greens eye Allegra Spender's alternative to Labor's capital gains tax changes",
+          "s": {
+            "t": "InnovationAus",
+            "u": "https://www.innovationaus.com/greens-open-to-very-interesting-cgt-discount-alternative/"
+          },
+          "b": "Labor's package swaps the 50% capital gains discount for an inflation based deduction and adds a 30% minimum tax on gains. Independent Allegra Spender wants a 40% discount for productive assets, so the inflation approach would mainly hit housing. The Greens, who hold the Senate balance of power, called the plan very interesting and opened the door to an inquiry, while the government is reportedly not keen.",
+          "w": "Any delay or rewrite affects how investors, startups and property owners are taxed when they sell assets."
+        },
+        {
+          "h": "Albanese and Marcos promise to consult on threats to sovereignty",
+          "s": {
+            "t": "Philstar",
+            "u": "https://www.philstar.com/headlines/2026/11/16/2570519/marcos-australias-albanese-commit-consult-threats-sovereignty"
+          },
+          "b": "Meeting in Manila on Monday night, the two leaders agreed to consult if either country's sovereignty or shared security interests are threatened, building on Sunday's new defence cooperation arrangement. It is not a mutual defence pledge. They also said the 2016 tribunal ruling against China's South China Sea claims is final and binding.",
+          "w": "It deepens Australia's security ties with a frontline South China Sea state without locking Canberra into a war commitment."
+        },
+        {
+          "h": "Victorian Coalition widens its lead with under two weeks to go",
+          "s": {
+            "t": "The Conversation",
+            "u": "https://theconversation.com/with-two-weeks-to-go-the-victorian-election-is-the-coalitions-to-lose-296248"
+          },
+          "b": "Jess Wilson's Coalition went into the campaign ahead and has since strengthened its position, according to analysis of recent polls. An AFR poll cited has the Coalition on 31% of the primary vote, Labor 23% and One Nation 22%, or 57 to 43 after preferences. Victorians vote on 28 November.",
+          "w": "A loss would end Labor's long hold on Victoria and test how far One Nation's surge reaches into state politics."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Independent MP Helen Haines has been released from hospital, with politicians across parliament welcoming the news.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-16/federal-politics-live-blog-senate-gas-nov-16/107388656"
+        },
+        {
+          "x": "Albanese pressed Laos's new PM over the methanol poisoning deaths of two Australian teenagers and raised detained Australian Hiep Tran with Vietnam's leader.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "Coles says no sign customer data was taken as the ASX slips",
+          "s": {
+            "t": "Proactive Investors",
+            "u": "https://www.proactiveinvestors.com/companies/news/1101791/coles-shares-hold-firm-despite-cyber-security-incident-1101791.html"
+          },
+          "b": "Coles told the ASX it has found no evidence so far that customer, staff or supplier data was compromised, and is working with the Australian Cyber Security Centre. Liquorland click and collect was the only service reported as disrupted, and Coles shares ended just 0.09% lower at $22.22. The wider ASX 200 fell 0.41% to 9,044.7 as miners dragged.",
+          "w": "The finding is preliminary, so watch for updates; big retail breaches have cost Australian companies dearly in fines and trust."
+        },
+        {
+          "h": "RBA minutes today should explain November's split vote",
+          "s": {
+            "t": "Judo Bank",
+            "u": "https://www.judo.bank/economics-weekly-briefing-16-november-2026/"
+          },
+          "b": "The Reserve Bank releases minutes of its 3 November meeting at 11.30am, when the board lifted the cash rate to 4.85% on a six to three vote. Economists want to know why three members wanted to hold and what the board needs to see before moving again. Wages data lands on Wednesday and jobs figures on Thursday.",
+          "w": "Clues of a pause would be welcome for mortgage holders after five hikes this year."
+        },
+        {
+          "h": "Oil and the Aussie dollar slide together",
+          "s": {
+            "t": "Motley Fool",
+            "u": "https://www.fool.com.au/2026/11/17/5-things-to-watch-on-the-asx-200-on-tuesday-17-november-2026/?_fcb=1794868472"
+          },
+          "b": "Brent crude fell 3.7% to about US$92.29 a barrel overnight, well down from above US$117 a few weeks ago, as Middle East shipments recover and traders expect a supply surplus. Energy stocks like Santos and Beach could come under pressure. The Australian dollar dropped about 0.5% to near a 10 month low as investors dumped risky currencies.",
+          "w": "Cheaper oil should ease petrol prices and inflation, but a weaker dollar makes imports dearer, a mixed picture for the RBA."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Catapult Sports releases its half year results today.",
+          "t": "Motley Fool",
+          "u": "https://www.fool.com.au/2026/11/17/5-things-to-watch-on-the-asx-200-on-tuesday-17-november-2026/?_fcb=1794868472"
+        },
+        {
+          "x": "BBH says the RBA dropping earlier language about further rises, plus the split vote, could signal a pause.",
+          "t": "FXStreet",
+          "u": "https://www.fxstreet.com/news/australian-dollar-rba-minutes-in-focus-before-wages-data-bbh-202611161404"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Export controls",
+    "body": "Export controls are government rules that stop certain goods or technology being sold overseas without a licence, usually for national security reasons. The US uses them to keep its most advanced AI chips away from China's military and tech firms. The catch is that chips can leak through third countries or be rented remotely in overseas data centres, which is why Washington keeps widening the rules. Exporters like Nvidia lose sales, while targets such as Chinese AI labs scramble for computing power. Australia is part of this world too, since allies are expected to line up with US controls."
+  },
+  "ahead": [
+    {
+      "d": "Tue 17 Nov",
+      "e": "RBA minutes 11.30am AEDT; Quad leaders meet in Manila this evening; Trump and Thailand sign a trade statement."
+    },
+    {
+      "d": "Wed 18 Nov",
+      "e": "ABS Wage Price Index; Nvidia results early morning AEDT; APEC week continues in Shenzhen."
+    },
+    {
+      "d": "Thu 19 Nov",
+      "e": "ABS October jobs figures; Trump, Xi and Putin meet in Shenzhen; Anthropic expected to price its IPO overnight."
+    },
+    {
+      "d": "Fri 20 Nov",
+      "e": "Anthropic due to start trading on Nasdaq overnight; COP31 climate talks scheduled to end in Antalya."
+    },
+    {
+      "d": "Wed 25 Nov",
+      "e": "US PCE inflation data out overnight, a key input for the Fed's December decision."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election."
+    }
+  ]
+}
