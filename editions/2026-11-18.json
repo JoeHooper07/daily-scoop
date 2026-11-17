@@ -1,0 +1,284 @@
+{
+ "date": "2026-11-18",
+ "edition": "Wednesday 18 November 2026",
+ "lede": [
+  "Nvidia smashed forecasts in its first results since Jensen Huang quit, with revenue more than doubling to US$115.8 billion, lifting its shares after hours following another ugly day on Wall Street.",
+  "Quad leaders in Manila agreed to a first joint maritime surveillance exercise plus new AI and critical minerals deals, as Albanese heads to Shenzhen to meet Xi Jinping on Friday.",
+  "At home the ASX had its worst day in six weeks, while WA has struck a deal that effectively exempts it from Labor's gas reservation scheme ahead of a Senate showdown."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "As at 18 Nov; minutes show six of nine members backed the November hike"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,883.2",
+   "note": "Close on Tue 17 Nov, down 1.79%, its lowest close since late October"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "about 67.35 US cents",
+   "note": "Tue 17 Nov, steady near a 10 month low"
+  },
+  {
+   "label": "Nvidia quarterly revenue",
+   "value": "US$115.8b",
+   "note": "Quarter to 25 Oct, reported 18 Nov AEDT; up 103% on a year ago"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Quad leaders agree on joint sea patrols, AI money and minerals deals",
+     "s": {
+      "t": "ABC",
+      "u": "https://www.abc.net.au/news/2026-11-18/quad-meeting-india-japan-usa-anthony-albanese-donald-trump/107396716"
+     },
+     "b": "Trump, Modi, Takaichi and Albanese held their first Quad leaders' meeting since 2024 in Manila on Tuesday night. They backed a first joint maritime surveillance exercise for early 2027, a new AI accelerator with more than US$85 million behind it, and a raft of defence and critical minerals agreements. Australia will widen its cable resilience centre to cover undersea power cables as well as data cables, and Trump praised Albanese as a friend.",
+     "w": "The Quad is Australia's main club for balancing China, and Beijing is unlikely to love the new sea patrols just days before Albanese meets Xi."
+    },
+    {
+     "h": "Ukraine partly collapses the Kerch Bridge to Crimea",
+     "s": {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war"
+     },
+     "b": "Ukrainian drones and missiles hit the bridge linking Russia to occupied Crimea, and footage released by Zelensky showed a main road arch and part of the roadway down. Ukraine's security service says the rail section was damaged too, while Russia says it shot down 1,441 drones over two nights. Russia hit back at bridges in Kyiv and at power grids in eight regions, leaving cities short of heat and water.",
+     "w": "The bridge is a key supply line for Russian forces in the south, and the escalation lands just as Putin arrives in China for talks with Trump."
+    },
+    {
+     "h": "US strikes an Iranian missile site after the Bahrain drone attack",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html"
+     },
+     "b": "The US hit a Revolutionary Guards missile launch site on Qeshm Island in the Strait of Hormuz, calling it a response to Iran's drone attack on a US base in Bahrain. A third US aircraft carrier has now reached the region, and another tanker was struck near Hormuz. Iran says it will not reopen the strait or return to talks until the US naval blockade and sanctions are lifted.",
+     "w": "Any flare up around Hormuz feeds straight into oil and petrol prices, which keep Australian inflation, and the RBA, under pressure."
+    },
+    {
+     "h": "Putin lands in Shenzhen ahead of the first ever Trump, Xi and Putin meeting",
+     "s": {
+      "t": "Kyiv Post",
+      "u": "https://www.kyivpost.com/post/90410"
+     },
+     "b": "Vladimir Putin has arrived in Shenzhen for APEC, with the Kremlin confirming a three way meeting with Xi Jinping and Donald Trump on Thursday. A senior US official called the talks an entry point and said no agreement is expected. Trump is also due to meet Xi one on one.",
+     "w": "Nuclear arms control and the Ukraine war top the list, and any thaw or freeze between the big three shapes the security climate Australia operates in."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Trump says he may also meet North Korea's Kim Jong Un while in China this week.",
+     "t": "NBC News",
+     "u": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-xi-putin-asia-congress-2026-election-iran-live-updates-rcna609499"
+    },
+    {
+     "x": "At COP31, Chris Bowen says there will be at least one more draft deal before Friday after the Arab Group and Russia pushed back on fossil fuel wording.",
+     "t": "US News",
+     "u": "https://www.usnews.com/news/world/articles/2026-11-16/first-draft-of-cop31-deal-signals-tough-negotiations-to-come"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Nvidia beats big in its first report without Jensen Huang",
+     "s": {
+      "t": "Nvidia",
+      "u": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+     },
+     "b": "Revenue hit US$115.8 billion for the quarter to late October, up 103% on a year ago and well above the roughly US$109 billion analysts expected. Data centre sales alone were US$107.6 billion, and the new Vera Rubin platform brought in close to US$20 billion in its launch quarter. Interim CEO Colette Kress guided to US$130 billion next quarter, assuming no data centre sales to China.",
+     "w": "Nvidia is the bellwether for the whole AI trade, so a strong result could steady jittery markets, including ASX tech and super funds heavy in US stocks."
+    },
+    {
+     "h": "Anthropic set to price its float above the target range",
+     "s": {
+      "t": "CNBC",
+      "u": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+     },
+     "b": "The AI company is likely to price its 825 million share IPO above the US$70 to US$78 range, sources told CNBC, with orders reportedly about six times the shares on offer. Pricing is expected overnight, with trading on Nasdaq under the ticker ANT to follow. Up to 20% of shares are reserved for retail investors.",
+     "w": "Strong demand despite the Nasdaq sliding into correction would show investors still back AI leaders, even as they dump the wider sector."
+    },
+    {
+     "h": "Google says AI agents are now running parts of real cyberattacks",
+     "s": {
+      "t": "Help Net Security",
+      "u": "https://www.helpnetsecurity.com/2026/11/17/ai-powered-cyberattacks-gtig-report/"
+     },
+     "b": "Google's threat intelligence team and Mandiant report that some hacking groups let AI agents run whole stages of live intrusions. In at least one case an agent turned freshly released software patches into working attacks with no human involved. Some experts say claims of fully automated attacks overstate how much the AI actually did.",
+     "w": "Faster attacks shrink the window companies have to patch, a big issue after a run of outages and breaches hitting Australian firms and agencies."
+    },
+    {
+     "h": "Microsoft launches its own AI models to take on OpenAI and Anthropic",
+     "s": {
+      "t": "Axios",
+      "u": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite"
+     },
+     "b": "At its Ignite conference Microsoft unveiled six models covering coding, cybersecurity, images and voice, pitched as cheaper alternatives to rivals. Its comparisons lean on selected benchmarks and some prices reflect promotional discounts. Microsoft shares fell about 2% on the day.",
+     "w": "Microsoft building its own models signals a looser tie with OpenAI and more price competition for business AI tools."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The NSA's classified internal network went down during routine maintenance, adding to a run of outages that spooked Wall Street; there is no sign of a cyberattack.",
+     "t": "Benzinga",
+     "u": "https://www.benzinga.com/markets/tech/26/11/63361077/nsa-hit-by-major-network-outage-as-tech-glitches-pile-up"
+    },
+    {
+     "x": "ASIC chair Sarah Court has flagged strong retail investor interest in the SpaceX and Anthropic floats.",
+     "t": "Grafa",
+     "u": "https://grafa.com/en/news/australia/asic-chair-flags-retail-demand-for-spacex-anthropic-offers"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "WA gets an effective exemption from the gas reservation scheme",
+     "s": {
+      "t": "ABC",
+      "u": "https://www.abc.net.au/news/2026-11-18/federal-politics-live-blog-nov-18/107396066"
+     },
+     "b": "WA Premier Roger Cook says he has a deal with Canberra, with Resources Minister Madeleine King to use her discretion to set WA's reservation obligation to zero. The scheme would make big east coast exporters hold back 20% of gas for local use from 2028. WA's inclusion was the Coalition's main sticking point, though its support is still undecided.",
+     "w": "This could unlock Senate passage without the Greens' export tax, and the bill matters for east coast gas and power prices."
+    },
+    {
+     "h": "Chalmers rejects Spender's capital gains plan as the Greens offer a path",
+     "s": {
+      "t": "ABC",
+      "u": "https://www.abc.net.au/news/2026-11-17/greens-offer-government-path-to-pass-trusts-cgt/107394802"
+     },
+     "b": "In a letter to Allegra Spender, the Treasurer said her plan to keep a 40% discount for business assets would not be simpler or fairer and could push people to restructure for tax reasons. The Greens, who hold the Senate balance of power, have signalled a way to pass Labor's trusts and capital gains changes. Labor's plan swaps the 50% discount for an inflation based one with a 30% minimum tax on real gains from July 2027.",
+     "w": "These changes hit investors and property owners directly, and how they land shapes housing and the budget bottom line."
+    },
+    {
+     "h": "Albanese shrugs off China blowback before Friday's meeting with Xi",
+     "s": {
+      "t": "SBS",
+      "u": "https://www.sbs.com.au/news/article/albanese-brushes-off-prospect-of-china-blowback-after-quad-agrees-to-deepen-cooperation/oc4lt5hyg"
+     },
+     "b": "Albanese says Australia acts openly in its national interest and described the China relationship as strong. Friday's meeting in Shenzhen will be his fifth formal sitdown with Xi. Penny Wong says Australia will keep pressing Beijing on iron ore buying arrangements.",
+     "w": "China is Australia's biggest customer, and iron ore prices are already sliding, so the tone of Friday's talks matters for the budget."
+    },
+    {
+     "h": "Queensland adopts the CFMEU inquiry's urgent fixes",
+     "s": {
+      "t": "ABC",
+      "u": "https://www.abc.net.au/news/2026-11-17/qld-government-cfmeu-response/107394238"
+     },
+     "b": "The Crisafulli government accepted both recommendations from the inquiry into the construction union. A new building code and a regulator to enforce it apply from now on public projects worth more than $150 million. Deputy Premier Jarrod Bleijie made the announcement.",
+     "w": "Construction costs and union conduct on big public projects affect how much taxpayers pay for infrastructure, including Olympics builds."
+    }
+   ],
+   "quick": [
+    {
+     "x": "NSW Premier Chris Minns has paused new real estate underquoting laws for up to a year, a day before they were due to start.",
+     "t": "ABC",
+     "u": "https://www.abc.net.au/news/2026-11-16/nsw-house-price-advertising-underquoting-laws/107390420"
+    },
+    {
+     "x": "Labor and the Greens teamed up on a closure motion to shut down a Coalition push to debate trusts and capital gains tax.",
+     "t": "ABC",
+     "u": "https://www.abc.net.au/news/2026-11-17/federal-politics-live-blog-senate-albanese-/107391106"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "ASX suffers its steepest fall in six weeks",
+     "s": {
+      "t": "ShareTrader",
+      "u": "https://sharetrader.com.au/news/2026-11-17-asx-200-falls-161-points-as-rba-minutes-reveal-split-vote-and-us-tech-slides"
+     },
+     "b": "The ASX 200 fell 161.5 points, or 1.79%, to 8,883.2, with 10 of 11 sectors lower and only 24 stocks rising. Miners led the drop as materials fell nearly 4%, while Macquarie lost 3.8% and NAB 2.8%. Utilities was the only sector to gain.",
+     "w": "Most Australians own the ASX through super, and a strong Nvidia result could help today's open after Wall Street fell again."
+    },
+    {
+     "h": "RBA minutes show a board split on whether rates were high enough",
+     "s": {
+      "t": "RBA",
+      "u": "https://www.rba.gov.au/monetary-policy/rba-board-minutes/2026/2026-11-03.html"
+     },
+     "b": "Six members judged the cash rate was not clearly sufficient to bring inflation down, and saw more risk in staying too loose than going too tight. Three wanted to hold at 4.60% and see no need to decide yet on further hikes. The minutes did not flag more tightening, and traders have dropped bets on a December rise.",
+     "w": "This is the clearest hint yet that mortgage rates may be near their peak, with wages today and jobs tomorrow the next tests."
+    },
+    {
+     "h": "David Jones owes creditors at least $459 million",
+     "s": {
+      "t": "Bloomberg",
+      "u": "https://www.bloomberg.com/news/articles/2026-11-17-failed-chain-david-jones-owes-creditors-at-least-a-459-million"
+     },
+     "b": "Administrators from McGrathNicol told the first creditors' meeting that lender Hilco is owed $155 million and owner Anchorage Capital $80 million. About 940 unsecured creditors are owed $180 million, staff $11 million, and $33 million sits on unredeemed gift cards. They gave seven reasons for the collapse, including inflation, higher rates and online competition, and are talking with 150 possible buyers.",
+     "w": "The fall of a 188 year old icon shows how hard high rates and cost of living pressure are hitting discretionary retail."
+    },
+    {
+     "h": "Iron ore sinks to its lowest since 2022",
+     "s": {
+      "t": "Motley Fool",
+      "u": "https://www.fool.com.au/2026/11/17/at-143-are-rio-tinto-shares-oversold-or-overpriced/"
+     },
+     "b": "Iron ore fell to about 647 yuan a tonne on Tuesday, its weakest since October 2022 and roughly 18% lower than a year ago. Soft Chinese steel demand, lower output and tough talks with China's state buyer are to blame. Rio Tinto still gets roughly half or more of its revenue from iron ore.",
+     "w": "Iron ore is Australia's biggest export earner, so lower prices squeeze miner profits and federal tax revenue."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The Aussie dollar is steady near a 10 month low of about 67.35 US cents after the RBA minutes.",
+     "t": "FXStreet",
+     "u": "https://www.fxstreet.com/news/australian-dollar-steadies-at-a-10-month-low-after-split-rba-minutes-202611172230"
+    },
+    {
+     "x": "The ABS releases September quarter wage figures at 11.30am today, with CommBank tipping a 0.9% quarterly rise.",
+     "t": "CommBank",
+     "u": "https://www.commbank.com.au/articles/newsroom/2026/10/wage-growth-slows-september.html"
+    },
+    {
+     "x": "The ACCC has cleared Ingenia's takeover of Peet, with binding offers for Ingenia itself due by 8 December.",
+     "t": "Kalkine",
+     "u": "https://kalkine.com.au/news/real-estate/ingenia-communities-asx-ina-enters-non-exclusive-process-with-avid-and-warburg-pincus-as-accc-clears-peet-acquisition"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Safe harbour (insolvency)",
+  "body": "Normally company directors can be held personally liable if their business keeps trading and racking up debts while it cannot pay its bills. Australia's safe harbour rules give directors protection from that liability if they are actively pursuing a turnaround plan that is reasonably likely to give a better result than going straight into administration. The idea is to encourage rescue attempts instead of panicked early collapses. David Jones's directors used safe harbour before the administrators were called in, and creditors will watch whether that plan was realistic."
+ },
+ "ahead": [
+  {
+   "d": "Wed 18 Nov",
+   "e": "ABS Wage Price Index 11.30am AEDT; ASIC sets out its 2027 enforcement priorities; APEC leaders' week opens in Shenzhen."
+  },
+  {
+   "d": "Thu 19 Nov",
+   "e": "ABS October jobs figures; Trump, Xi and Putin meet in Shenzhen; Anthropic expected to price its IPO overnight."
+  },
+  {
+   "d": "Fri 20 Nov",
+   "e": "Anthropic shares due to start trading on Nasdaq overnight; Albanese meets Xi in Shenzhen; COP31 scheduled to wrap up in Antalya."
+  },
+  {
+   "d": "Wed 25 Nov",
+   "e": "US PCE inflation data out overnight, a key input for the Fed's December decision."
+  },
+  {
+   "d": "Fri 27 Nov",
+   "e": "Review window for the ACCC's Ingenia and Peet ruling closes."
+  },
+  {
+   "d": "Sat 28 Nov",
+   "e": "Victorian state election."
+  }
+ ]
+}
