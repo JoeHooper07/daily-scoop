@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-22",
+  "edition": "Sunday 22 November 2026",
+  "lede": [
+    "COP31 in Antalya ran into a second day of overtime with no deal, as Chris Bowen and the Turkish presidency tried to rescue a text that still leaves out fossil fuels.",
+    "A new Redbridge poll has the Victorian Coalition ahead of Labor 57 to 43, with analysts tipping a landslide on the scale of Jeff Kennett's 1992 win when the state votes on Saturday.",
+    "Federal parliament returns on Monday for its last week of the year with the gas reservation bill still short of Senate votes, and October inflation figures land on Wednesday."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "As at 22 Nov; lifted on 3 Nov in a 6 to 3 vote, the highest since 2008"
+    },
+    {
+      "label": "S&P 500",
+      "value": "6,910.39",
+      "note": "Close on Fri 20 Nov (US time), down 3.7% on the day and 8.6% for the week"
+    },
+    {
+      "label": "Nasdaq Composite",
+      "value": "22,617.73",
+      "note": "Close on Fri 20 Nov (US time), down 5.28%, wiping out its 2026 gain"
+    },
+    {
+      "label": "October CPI forecast",
+      "value": "4.8% a year",
+      "note": "Westpac's forecast for the monthly CPI due Wed 25 Nov"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "COP31 still has no deal after a second night of overtime",
+          "s": {
+            "t": "RTE",
+            "u": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
+          },
+          "b": "The Antalya climate summit was meant to end on Friday, but by Saturday the EU's climate envoy said there was still no compromise. COP31 president Murat Kurum promised a third draft after overnight talks and said negotiators were close to the finish line but not there yet. More than 20 countries, including France and Panama, want wording on moving away from fossil fuels put back in, and a closing session has been flagged for Sunday.",
+          "w": "Australia's Chris Bowen is running the negotiations, so whether a deal lands, and how weak it is, will shape how Canberra's climate diplomacy is judged."
+        },
+        {
+          "h": "Two more tankers hit in the Strait of Hormuz",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping"
+          },
+          "b": "British maritime authorities reported two tankers struck by unidentified projectiles in the strait on Saturday. Iran's navy separately said an oil tanker caught fire after hitting a naval mine in a restricted area east of the waterway. Iran's foreign minister says talk of reopening the strait is pointless until Tehran's demands are met, while the US keeps escorting tankers and blockading Iranian ports.",
+          "w": "Near daily attacks keep a risk premium on oil, which flows straight through to Australian petrol and diesel prices."
+        },
+        {
+          "h": "World Court finds Myanmar committed genocide against the Rohingya",
+          "s": {
+            "t": "OPB (NPR)",
+            "u": "https://www.opb.org/article/2026/11/19/top-u-n-court-rules-myanmar-committed-genocide-against-rohingya/"
+          },
+          "b": "The International Court of Justice ruled that Myanmar was responsible for genocide during the military's 2016 and 2017 clearance operations against the Rohingya. It is the first time the court has found a country responsible for committing genocide. The ruling is final, and Myanmar must make reparations, including allowing a safe and voluntary return of refugees, with compensation to be set later.",
+          "w": "The case was brought by The Gambia in 2019, and lawyers expect the reasoning on intent to matter in other genocide cases, including South Africa's case against Israel."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Zelensky says Ukraine still has not seen written commitments on NATO style security guarantees, and wants any guarantee to last decades, not just one US term.",
+          "t": "Kyiv Independent",
+          "u": "https://kyivindependent.com/zelensky-says-ukraine-has-yet-to-see-written-commitments-on-nato-style-security-guarantees"
+        },
+        {
+          "x": "Estonia will close all its border crossings with Russia from 1 December after a foiled arson attack on a local drone maker, which it blames on Moscow.",
+          "t": "Al Jazeera",
+          "u": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "UN talks on AI weapons end with a two year plan, not a ban",
+          "s": {
+            "t": "Arab News (Reuters)",
+            "u": "https://www.arabnews.com/world/states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028-3013276"
+          },
+          "b": "A week of talks in Geneva on weapons that can pick and attack targets with little human control ended on Saturday with a pledge to develop new rules within two years. Whether those rules will be legally binding was left open, after opposition from Russia, and the US had pushed for voluntary guidelines instead. Nearly 100 countries had wanted negotiations on a binding ban to start straight away.",
+          "w": "Australia is investing heavily in autonomous systems through AUKUS and local drone makers, so global rules, or the lack of them, will shape what our defence force can build and buy."
+        },
+        {
+          "h": "AMD sinks after a short seller links its firmware to a blacklisted Chinese firm",
+          "s": {
+            "t": "Motley Fool",
+            "u": "https://fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday"
+          },
+          "b": "Hunterbrook, which disclosed it is betting against AMD's shares, reported that blacklisted Chinese server maker IEIT kept receiving newer AMD startup firmware, with the latest version posted in October. AMD shares fell as much as 11% during the session. AMD says the claims misrepresent its relationships and that it follows export rules.",
+          "w": "After the Nvidia scandal, investors are now hunting for China leakage across the whole chip sector, which keeps pressure on US tech shares that make up a large slice of Australian super funds."
+        },
+        {
+          "h": "Security firm says data from at least three AI providers leaked",
+          "s": {
+            "t": "Dragos",
+            "u": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens"
+          },
+          "b": "Industrial cyber firm Dragos fed about two million prompts containing unique web links and decoy login details into popular AI services between July and November. It later saw those planted details used in attempts to access its test systems and decoy cloud accounts, pointing to exposure at three or more providers. It has not named them.",
+          "w": "Businesses pasting sensitive data into AI tools are trusting the provider's whole supply chain, so this is a reminder to check data handling promises before signing up."
+        }
+      ],
+      "quick": [
+        {
+          "x": "OpenAI released GPT-6.2 Astra and Sol this week, two models pitched at professional work with lower computing costs for complex tasks.",
+          "t": "The Neuron",
+          "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/"
+        },
+        {
+          "x": "Nothing says its first AI native gadget, which has no screen, will launch in December.",
+          "t": "TechNode",
+          "u": "https://technode.com/2026/11/05/nothing-plans-december-launch-for-first-ai-native-device/"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Experts tip a historic Labor defeat in Victoria",
+          "s": {
+            "t": "ABC",
+            "u": "https://abc.net.au/news/2026-11-21/victorian-election-final-week/107412434"
+          },
+          "b": "With a week to go until the 28 November election, a Redbridge poll for the AFR has the Coalition ahead of Labor 57 to 43 on a two party preferred basis. Political analysts say Jess Wilson is likely to win majority government on a scale similar to Jeff Kennett's 1992 landslide. Premier Ben Carroll and Wilson both spent Saturday at early voting centres, while the Greens and One Nation chase their own target seats.",
+          "w": "Victoria has been Labor's strongest state, so a rout there would rattle the Albanese government and feed talk of a broader swing to the right."
+        },
+        {
+          "h": "Parliament's last week opens with the gas bill still stuck",
+          "s": {
+            "t": "Michael West (AAP)",
+            "u": "https://michaelwest.com.au/end-of-year-deadline-looms-for-gas-reserve-fight"
+          },
+          "b": "The government wants its national gas reservation scheme, which sets aside gas for local users, passed before parliament rises for summer. Labor needs either the Coalition or the Greens in the Senate. The Coalition objects to a Western Australia focused amendment that widens ministerial discretion, while the Greens want concessions on gas exports.",
+          "w": "The scheme is meant to ease east coast gas prices for households and manufacturers, so another delay pushes any relief into 2027."
+        },
+        {
+          "h": "Tsunami warning time cut after Macquarie Island station goes quiet",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-22/tsunami-response-time-reduced-macquarie-island-staff-removal/107404714"
+          },
+          "b": "Internal government documents show emergency services will get less warning of tsunamis from the Southern Ocean because the Macquarie Island seismic station is no longer operating after staff were withdrawn. Geoscience Australia expects slower and less sensitive detection of earthquakes south of Australia and New Zealand. The Australian Antarctic Division says it worked with Tasmania's parks service on environmental risks before pulling staff.",
+          "w": "It looks like a small operational call, but it trims warning time for coastal communities in Tasmania and the south east."
+        },
+        {
+          "h": "Albanese comes home after 11 days in Trump's orbit",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-22/albanese-trump-quad-xi-putin-summits-analysis/107410572"
+          },
+          "b": "The Prime Minister wraps up a summit season that took in the Quad, APEC and meetings with Xi and Putin. ABC analysis says Trump appears to have warmed to Albanese over the trip. He now returns to a crowded final sitting week and a looming Victorian loss for his party.",
+          "w": "Better ties with Washington and Beijing at once are a diplomatic win, but voters will judge him on cost of living at home."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Labor is reportedly weighing a gas phase out clause to win Greens support for the reservation scheme after talks with the Coalition stalled.",
+          "t": "OilPrice",
+          "u": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Explores-Gas-Phase-Out-Deal-in-Talks-on-Reservation-Scheme.html"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "October inflation due Wednesday, and it may run hotter",
+          "s": {
+            "t": "Westpac IQ",
+            "u": "https://www.westpaciq.com.au/economics/2026/11/cpi-monthly-preview-14-november-2026/"
+          },
+          "b": "The ABS releases the October monthly CPI at 11:30am on Wednesday 25 November. Westpac expects prices to rise about 0.4% in the month, lifting annual inflation to 4.8%. The RBA lifted the cash rate to 4.85% on 3 November, its fifth hike this year.",
+          "w": "A hot number would revive talk of another rate rise early next year, just as markets are tumbling and unemployment is drifting up."
+        },
+        {
+          "h": "Petrol and diesel prices ease for another week",
+          "s": {
+            "t": "ACCC",
+            "u": "https://www.accc.gov.au/about-us/publications/weekly-fuel-price-monitoring-update"
+          },
+          "b": "The ACCC's 37th weekly fuel update, released on 20 November, says average retail prices fell over the past week in both the capital cities and regional areas. The regulator started weekly monitoring because of the Middle East conflict and its hit to oil supply.",
+          "w": "Cheaper fuel helps household budgets, but fresh tanker attacks in Hormuz could reverse it quickly."
+        },
+        {
+          "h": "Mayne Pharma backs a $604 million takeover at nearly double its price",
+          "s": {
+            "t": "Motley Fool",
+            "u": "https://www.fool.com.au/2026/11/17/mayne-shares-are-up-80-on-takeover-news-but-theres-still-money-to-be-made/"
+          },
+          "b": "Hungarian drugmaker Gedeon Richter has agreed to buy Mayne Pharma for $6.40 a share in cash, a 99.4% premium to its previous close. The board unanimously recommends the deal, which needs Mayne to sell its international business first and get foreign investment approval. Shareholders are due to vote in late January, with completion expected in March 2027.",
+          "w": "It comes after the Treasurer blocked an earlier bid from Cosette, and adds to a run of foreign buyers picking off ASX small and mid caps."
+        }
+      ],
+      "quick": [
+        {
+          "x": "ASIC chair Sarah Court set out nine enforcement priorities, grouped around protecting vulnerable consumers, lifting standards and targeting serious misconduct.",
+          "t": "Australian Compliance Institute",
+          "u": "https://compliance.org.au/regulatory-update-20-november/"
+        },
+        {
+          "x": "The ABS releases private business investment figures for the September quarter on Thursday 26 November.",
+          "t": "ABS",
+          "u": "https://www.abs.gov.au/release-calendar/future-releases"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Short seller",
+    "body": "A short seller bets that a company's share price will fall. They borrow shares, sell them, and hope to buy them back later at a lower price, pocketing the difference. Some, like Hunterbrook, also publish research alleging problems at the company and disclose their bet when they do. Supporters say they expose fraud and overhyped stocks, while critics say they can talk a share price down for profit."
+  },
+  "ahead": [
+    {
+      "d": "Sun 22 Nov",
+      "e": "COP31 closing session expected in Antalya, likely from Sunday evening Australian time."
+    },
+    {
+      "d": "Mon 23 Nov",
+      "e": "Federal parliament begins its final sitting week of the year, with the gas reservation and digital duty of care bills on the agenda."
+    },
+    {
+      "d": "Wed 25 Nov",
+      "e": "October monthly CPI inflation released at 11:30am."
+    },
+    {
+      "d": "Thu 26 Nov",
+      "e": "ABS private capital expenditure figures for the September quarter."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election day."
+    },
+    {
+      "d": "Tue 1 Dec",
+      "e": "Estonia closes all its border crossings with Russia."
+    }
+  ]
+}
