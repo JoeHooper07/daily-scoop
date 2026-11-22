@@ -1,0 +1,256 @@
+{
+  "date": "2026-11-23",
+  "edition": "Monday 23 November 2026",
+  "lede": [
+    "COP31 in Antalya collapsed on Sunday without its main deal, after the EU and others refused a final text that did not even mention fossil fuels.",
+    "A new Newspoll has Labor and One Nation tied on 27% and Angus Taylor ahead of Anthony Albanese as preferred prime minister for the first time, as parliament starts its last week of the year.",
+    "The ASX is tipped to fall for a seventh straight day after its worst week since 2022, with the Aussie dollar near its lowest level this year ahead of Wednesday's inflation figures."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "As at 23 Nov; lifted on 3 Nov, the highest level since 2008"
+    },
+    {
+      "label": "ASX 200",
+      "value": "8,592.6",
+      "note": "Close on Fri 20 Nov, down 1.58% on the day and 5.39% for the week"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "66.66 US cents",
+      "note": "RBA 4pm rate on Fri 20 Nov, around the year's low"
+    },
+    {
+      "label": "Newspoll primary vote",
+      "value": "ALP 27, ON 27, LNP 22",
+      "note": "Released 22 Nov; Coalition's highest this year"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "COP31 ends with no main deal after a fight over fossil fuels",
+          "s": {
+            "t": "CBS News",
+            "u": "https://www.cbsnews.com/news/un-cop31-climate-conference-ends-no-agreement-fossil-fuel-debate-standstill/"
+          },
+          "b": "The Antalya climate summit wrapped up on Sunday about 44 hours past its deadline without adopting its main cover decision, dubbed the Antalya Pact. The draft restated the 1.5 degree goal but left out any reference to moving away from coal, oil and gas. The EU, Panama, the Marshall Islands and others refused to sign a text that did not mention fossil fuels, while Saudi Arabia reportedly led resistance to naming them. COP31 president Murat Kurum said the draft fell over for lack of consensus.",
+          "w": "Chris Bowen led the negotiations under the deal that gave Turkey the hosting rights, so the failure lands partly on Australia's watch. The open questions on fossil fuels, adaptation money and loss and damage now roll over to next year's talks."
+        },
+        {
+          "h": "Trump talks up a permanent Iran deal but sets a New Year deadline",
+          "s": {
+            "t": "Iran International",
+            "u": "https://www.iranintl.com/en/202611226299"
+          },
+          "b": "Donald Trump told Fox News he wants a permanent agreement that stops Iran getting nuclear weapons, about ten days after saying he did not need a deal at all. He also said he is inclined to resume strikes after the New Year if no deal is reached, and warned that ships trying to run the US blockade of Iranian ports would be sunk. Iran's Revolutionary Guards meanwhile claimed hits on two US Patriot radars in Bahrain, which Bahrain denies.",
+          "w": "Mixed signals from Washington keep oil and shipping markets on edge, and Australia imports most of its fuel through Asian refineries that rely on Gulf crude."
+        },
+        {
+          "h": "Russian drone strike leaves people trapped near Kyiv",
+          "s": {
+            "t": "Reuters via US News",
+            "u": "https://www.usnews.com/news/world/articles/2026-11-22/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says"
+          },
+          "b": "A Russian drone hit a residential building in Dymer, north of Kyiv, on Sunday morning. Volodymyr Zelensky said at least 14 people were initially missing under the rubble, and later reports put the toll at two dead with about ten still trapped. Rescuers had to pause their search when another air raid alert sounded.",
+          "w": "The strike comes as Kyiv says it still lacks written Western security guarantees, a reminder that the war grinds on despite the summit diplomacy of recent weeks."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Bahrain says an Iranian attack on Saturday set fire to a civilian industrial site near Sitra Island, home to Bapco's refinery operations.",
+          "t": "Al Jazeera",
+          "u": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf"
+        },
+        {
+          "x": "Turkey used COP31 to sign side deals and plans it values at more than US$26 billion, including a preliminary US$15 billion renewables deal with China.",
+          "t": "US News",
+          "u": "https://www.usnews.com/news/world/articles/2026-11-20/cop31-delivers-deals-for-host-turkey-as-climate-diplomacy-stalls"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "Google's Gemini 4 Neon goes after rivals on price",
+          "s": {
+            "t": "Google",
+            "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+          },
+          "b": "Google has released Gemini 4 Neon, a middle tier model that sits between its top Carbon model and the faster Hydrogen. It is priced at about US$3 per million input tokens and US$15 per million output tokens, with a one million token context window, which is how much text it can handle at once. Google says it ranks third on the Artificial Analysis intelligence index, and a separate cyber version is limited to vetted security defenders.",
+          "w": "Cheaper top tier models are a price war that benefits local businesses building on AI, but it squeezes the profit story that AI stocks have been priced on."
+        },
+        {
+          "h": "US spy chief says more tech outages are coming",
+          "s": {
+            "t": "TimesLIVE (Reuters)",
+            "u": "https://timeslive.co.za/news/world/2026-11-22-us-intelligence-chief-predicts-more-tech-outages-as-systems-undergo-upgrades"
+          },
+          "b": "Director of National Intelligence Jay Clayton warned on Sunday that more outages are likely as agencies and companies replace ageing systems. He linked this month's failures, including a nationwide halt to US air travel and a Microsoft email outage, to rushed upgrades and patching rather than coordinated attacks. He declined to discuss separate reports of cyberattacks on the FBI and the Department of Agriculture.",
+          "w": "Australian agencies including the AFP and ASIO were hit by the Microsoft outage, so the reliability of a few big cloud providers is now a national security question here too."
+        },
+        {
+          "h": "South Korea's education minister under fire over AI exam cheating",
+          "s": {
+            "t": "Korea Herald",
+            "u": "https://www.koreaherald.com/article/10939647"
+          },
+          "b": "Education Minister Choi Kyo-jin told a parliamentary committee that authorities cannot reliably catch every student who cheats with AI, sparking public outrage. A former Seoul councillor has filed a police complaint accusing him of neglecting his duties. The row began when the top scorer in a tax accountant exam admitted using AI equipped devices to cheat.",
+          "w": "Universities including ANU are grappling with the same problem, and Korea shows how fast AI cheating can become a political scandal when high stakes exams are involved."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Reuters reports the SEC probe into Nvidia is looking at its accounting, possibly a 2025 change to how it reports revenue by region; the stock fell 23% last week.",
+          "t": "Motley Fool",
+          "u": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+        },
+        {
+          "x": "Chuck Schumer wants an intelligence red team to test the claim that the outages are routine, reporting to Congress by 1 December.",
+          "t": "Al-Monitor",
+          "u": "https://www.al-monitor.com/originals/2026/11/criticism-mounts-trump-administration-says-tech-outages-not-coordinated"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Newspoll: Labor and One Nation level, Taylor edges ahead",
+          "s": {
+            "t": "Poll Bludger",
+            "u": "https://www.pollbludger.net/2026/11/22/newspoll-labor-27-one-nation-27-coalition-22-open-thread/"
+          },
+          "b": "The latest Newspoll has Labor steady on 27% of the primary vote, One Nation down a point to 27% and the Coalition up a point to 22%, its best result this year. Angus Taylor leads Anthony Albanese as preferred prime minister for the first time, 42 to 41. One report of the poll also puts Albanese's net approval at a new low of minus 31.",
+          "w": "A three way split this close makes preferences decisive, and a weak federal brand adds pressure on Labor heading into Saturday's Victorian election."
+        },
+        {
+          "h": "PM promises to keep PBS scripts at $25 until 2030",
+          "s": {
+            "t": "ABC News",
+            "u": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+          },
+          "b": "Anthony Albanese has confirmed the government will freeze the general patient price of PBS medicines at $25 until 2030. The cap fell from $31.60 to $25 on 1 January this year under an election promise. Health Minister Mark Butler is also pushing a change to the private health insurance rebate.",
+          "w": "Without a freeze the price would normally rise with inflation each year, so this is a cost of living pitch as inflation runs hot and polls slide."
+        },
+        {
+          "h": "Victorian Labor braces for defeat as Albanese stays away",
+          "s": {
+            "t": "ABC News",
+            "u": "https://www.abc.net.au/news/2026-11-23/election-victorian-labor-election-defeat-albanese-stays-away/107414442"
+          },
+          "b": "With five days until Saturday's state election, Victorian Labor is bracing for a result that could cost it up to 35 seats. The Prime Minister has kept his distance from the campaign of Premier Ben Carroll, who replaced Jacinta Allan only four months ago. Polls have Jess Wilson's Coalition well ahead, with One Nation and the Greens chasing their own seats.",
+          "w": "A big loss in Labor's strongest state would be read as a verdict on the party nationally, not just in Spring Street."
+        },
+        {
+          "h": "Online safety overhaul hinges on the Greens this week",
+          "s": {
+            "t": "Capital Brief",
+            "u": "https://www.capitalbrief.com/article/four-bills-to-watch-in-parliaments-final-sitting-week-8cfa0b01-277c-41ea-a7c1-1f841e55f092/"
+          },
+          "b": "Communications Minister Anika Wells wants her digital duty of care bill, which would legally require platforms to take reasonable steps to prevent harm, passed in the final sitting week. The Coalition and One Nation oppose it, so Labor needs the Greens in the Senate, where debate resumes today. The Greens want people to be able to sue tech companies over harm, and Wells has signalled she is open to that.",
+          "w": "If it passes, Australia would again be among the first countries to put a broad legal duty on big tech, after its under 16 social media ban."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Labor's gas reservation bill is also still short of Senate votes, with Labor needing either the Coalition or the Greens before parliament rises on Thursday.",
+          "t": "Yahoo News",
+          "u": "https://au.news.yahoo.com/end-deadline-looms-gas-fight-163000579.html"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "ASX set for a seventh straight fall after a brutal week",
+          "s": {
+            "t": "ABC News",
+            "u": "https://www.abc.net.au/news/2026-11-23/asx-markets-business-live-news-november-23/107414602"
+          },
+          "b": "Wall Street fell sharply on Friday, with the S&P 500 down almost 4%, and futures point to the ASX 200 opening about 49 points or 0.55% lower. The index closed Friday at 8,592.6, down 5.39% for the week, its worst week since June 2022. Miners led the losses as gold slid to its lowest level in about 14 months.",
+          "w": "Most Australians own shares through super, so a long losing streak shows up in balances, and falling markets can make consumers and businesses more cautious."
+        },
+        {
+          "h": "Sahm warns Australia may be heading for recession",
+          "s": {
+            "t": "ABC News",
+            "u": "https://www.abc.net.au/news/2026-11-23/sahm-rule-recession-indicator-australia-november-2026/107408750"
+          },
+          "b": "Former US Federal Reserve economist Claudia Sahm, whose rule uses rising unemployment as an early recession signal, says Australia should watch its jobless rate closely. Her comments come after the RBA lifted rates to 4.85% this month, the highest since 2008, to fight inflation.",
+          "w": "It sharpens the RBA's dilemma: inflation is still too high, but more rate rises risk tipping a slowing economy into recession."
+        },
+        {
+          "h": "Aussie dollar sinks to around its lowest level this year",
+          "s": {
+            "t": "RBA",
+            "u": "https://www.rba.gov.au/exchange-rates-overview.html"
+          },
+          "b": "The Reserve Bank's 4pm rate on Friday had the Australian dollar at 66.66 US cents, with other data providers showing it closer to 66.2 cents and at a fresh low for 2026. Trading Economics puts the fall over the past month at about 5.7%, as global investors dumped riskier assets.",
+          "w": "A weaker dollar makes imports such as fuel and electronics dearer, which can push up inflation, but it helps exporters and tourism."
+        },
+        {
+          "h": "Leeuwin Metals agrees to buy WA Gold in a shares only deal",
+          "s": {
+            "t": "Discovery Alert",
+            "u": "https://discoveryalert.com/asx-stock-news/mining/wau-wa-gold-ltd-leeuwin-metals-acquisition-november-2026/"
+          },
+          "b": "WA Gold's board backs a takeover by Leeuwin Metals that pays one Leeuwin share for every 11.72 WA Gold shares, a 49% premium with no cash. The deal runs as a scheme of arrangement, so it needs 75% of votes cast plus court approval, with completion expected around mid March 2027.",
+          "w": "Small gold explorers are merging to get scale while the gold price slides, a sign the sector's boom time dealmaking is shifting to consolidation."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Gold fell to its lowest level since September 2025 on Friday, with Genesis Minerals and Evolution Mining among the biggest losers.",
+          "t": "Market Index",
+          "u": "https://www.marketindex.com.au/news/asx-200-live-today-friday-20th-novemeber"
+        },
+        {
+          "x": "October's monthly CPI lands at 11:30am Wednesday, with Westpac tipping annual inflation to rise to 4.8%.",
+          "t": "Westpac IQ",
+          "u": "https://www.westpaciq.com.au/economics/2026/11/cpi-monthly-preview-14-november-2026/"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Consensus at UN climate talks",
+    "body": "COP decisions are not made by majority vote but by consensus, which means any one of nearly 200 countries can block a text by formally objecting. That gives small groups, from oil producers to low lying island states, real power to stop a deal they dislike. Presidents try to write wording vague enough for everyone to accept, which is why outcomes are often watered down. At Antalya the gap could not be bridged, because one side would not accept naming fossil fuels and the other would not accept leaving them out. When there is no consensus, the unresolved issues simply carry over to the next meeting."
+  },
+  "ahead": [
+    {
+      "d": "Mon 23 Nov",
+      "e": "Federal parliament's final sitting week begins, running to Thursday, with the gas reservation and digital duty of care bills unresolved."
+    },
+    {
+      "d": "Wed 25 Nov",
+      "e": "ABS releases the October monthly CPI at 11:30am."
+    },
+    {
+      "d": "Thu 26 Nov",
+      "e": "ABS private capital expenditure figures for the September quarter."
+    },
+    {
+      "d": "Fri 27 Nov",
+      "e": "US markets closed for Thanksgiving overnight, so expect a quieter lead for the ASX."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election day."
+    },
+    {
+      "d": "Tue 1 Dec",
+      "e": "Estonia closes all its border crossings with Russia."
+    }
+  ]
+}
