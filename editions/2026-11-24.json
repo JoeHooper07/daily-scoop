@@ -1,0 +1,265 @@
+{
+ "date": "2026-11-24",
+ "edition": "Tuesday 24 November 2026",
+ "lede": [
+  "Nvidia has reinstated Jensen Huang as chief executive after pressure from the White House, sending its shares up about 31% and giving Wall Street its best day since April 2025.",
+  "Jim Chalmers has warned unemployment will peak above 5% and growth will stay well below 2%, a day before October's inflation figures land.",
+  "Ukraine says its sea drones sank a Russian warship docked in Libya, as Volodymyr Zelenskyy warns Russia is planning fresh strikes on Ukrainian cities."
+ ],
+ "numbers": [
+  {
+   "label": "RBA cash rate",
+   "value": "4.85%",
+   "note": "As at 24 Nov; next decision due 8 Dec, with CommBank tipping a hold"
+  },
+  {
+   "label": "ASX 200",
+   "value": "8,570.6",
+   "note": "Close on Mon 23 Nov, down 0.26% for an eighth straight fall"
+  },
+  {
+   "label": "S&P 500",
+   "value": "7,237.17",
+   "note": "Close on Mon 23 Nov (US time), up 4.73% on the day"
+  },
+  {
+   "label": "AUD/USD",
+   "value": "66.15 US cents",
+   "note": "Mon 23 Nov afternoon, down 0.6% on the day"
+  }
+ ],
+ "sections": [
+  {
+   "id": "world",
+   "name": "World",
+   "stories": [
+    {
+     "h": "Ukraine says it sank a Russian warship in Libya",
+     "s": {
+      "t": "NPR",
+      "u": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+     },
+     "b": "Zelenskyy says seven Ukrainian naval drones hit the Russian corvette Merkury at the Benghazi naval base in eastern Libya on Sunday, and that the ship sank. He says they also struck the cargo ship MV Angara, which he claims Moscow used to move weapons. Two Libyan officials said the corvette was badly damaged rather than sunk, and the Kremlin declined to comment.",
+     "w": "It shows Ukraine can now hit Russian assets far from the Black Sea, and puts pressure on Russia's military foothold in North Africa."
+    },
+    {
+     "h": "Zelenskyy warns Russia is planning new strikes",
+     "s": {
+      "t": "Reuters via US News",
+      "u": "https://www.usnews.com/news/world/articles/2026-11-23/zelenskiy-says-intelligence-shows-russia-planning-new-strikes-on-ukraine"
+     },
+     "b": "Zelenskyy said on Monday that Ukrainian intelligence shows Russia is preparing fresh attacks, and urged the US and other partners to act because air defence supplies depend on their decisions. The Kremlin declined to comment on his earlier claim that US envoys floated Ukraine giving up the Donbas region in exchange for NATO membership.",
+     "w": "Winter strikes on power grids are Russia's usual pressure tactic, and the peace track with Washington still looks shaky."
+    },
+    {
+     "h": "Qatar's PM meets Rubio as Iran talks stall",
+     "s": {
+      "t": "Washington Times",
+      "u": "https://www.washingtontimes.com/news/2026/nov/23/marco-rubio-meets-qatari-prime-minister-amid-diplomatic-slowdown-iran/"
+     },
+     "b": "Qatar's Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani met US Secretary of State Marco Rubio in Washington on Monday, officially to open the eighth US Qatar strategic dialogue, with Iran also on the table. Qatar is trying to revive stalled US Iran talks, and its PM said the region cannot afford a new escalation. Washington still insists any deal must see Iran dismantle its nuclear infrastructure, and Trump has floated resuming major strikes after the New Year if talks fail.",
+     "w": "Any breakthrough or breakdown flows straight into oil prices, and from there into Australian petrol prices and inflation."
+    },
+    {
+     "h": "Belgium grinds to a halt over an austerity budget",
+     "s": {
+      "t": "France 24",
+      "u": "https://www.france24.com/en/live-news/20261123-new-belgium-protests-as-embattled-govt-sets-budget-deadline"
+     },
+     "b": "A national strike on Monday grounded all flights in and out of Belgium, and police estimated about 50,000 people marched in Brussels, with riot police using tear gas and water cannon. Prime Minister Bart De Wever has given his coalition until 31 December to agree a budget with roughly 10 billion euros in savings, including healthcare cuts and a VAT rise, or face collapse.",
+     "w": "It is a sharp example of the fight many rich countries face over shrinking deficits without gutting health and welfare."
+    }
+   ],
+   "quick": [
+    {
+     "x": "US Vice President JD Vance declined on Friday to say whether he would have authorised strikes on Iran to stop it building a nuclear weapon.",
+     "t": "Just Security",
+     "u": "https://www.justsecurity.org/165610/early-edition-november-23-2026/"
+    },
+    {
+     "x": "Only two metro lines ran in Brussels during the strike, and no flights left Belgian airports.",
+     "t": "Brussels Times",
+     "u": "https://www.brusselstimes.com/belgium/2416819/national-strike-no-flights-at-belgian-airports-only-two-metro-lines-running-in-brussels-tbtb"
+    }
+   ]
+  },
+  {
+   "id": "tech",
+   "name": "Tech",
+   "stories": [
+    {
+     "h": "Nvidia brings back Jensen Huang after Trump steps in",
+     "s": {
+      "t": "NBC News",
+      "u": "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864"
+     },
+     "b": "Nvidia's board voted unanimously on Monday (US time) to reinstate Huang as chief executive and a director, 11 days after he quit over revelations of extramarital affairs, including one with a woman US intelligence believes is a Chinese spy. The company said the move followed input from senior levels of the US government, and Trump said he personally convinced the board. Interim boss Colette Kress goes back to being finance chief, and Huang will face an open Senate Banking Committee hearing on 3 December.",
+     "w": "The world's most important AI chipmaker reversing course under White House pressure raises big questions about board independence, even as investors cheered."
+    },
+    {
+     "h": "US governors pitch a split of AI rule making",
+     "s": {
+      "t": "PYMNTS",
+      "u": "https://www.pymnts.com/news/artificial-intelligence/2026/governors-want-states-to-have-a-voice-in-regulating-ai/"
+     },
+     "b": "The National Governors Association released AI principles on Sunday, asking the incoming Congress for a national framework that hands national and international risks to Washington while letting states set rules on how AI is used locally. The bipartisan push, led by Maryland's Wes Moore and Indiana's Mike Braun, warns Congress against wiping out state AI laws, which puts it at odds with the White House.",
+     "w": "The US fight over who regulates AI will shape the rules Australian firms using American AI tools end up living with."
+    },
+    {
+     "h": "Online safety bill gets carve outs as the Senate clock runs down",
+     "s": {
+      "t": "SBS News",
+      "u": "https://www.sbs.com.au/news/article/digital-duty-of-care-safety-bill-carve-outs/gcrra8bh4"
+     },
+     "b": "Communications Minister Anika Wells has promised low risk small business websites will be exempt from the digital duty of care, although the bill as introduced has no automatic exemption. Labor needs the Greens to pass it before parliament rises on Thursday, and the Greens want a right for harmed users to sue platforms plus fines of 10% of global revenue. The Coalition and One Nation are voting no.",
+     "w": "If it passes, big platforms would have a legal duty to prevent foreseeable harm to Australian users, a major shift in how tech is regulated here."
+    }
+   ],
+   "quick": [
+    {
+     "x": "Nvidia's surge of more than 30% was its third best day on record.",
+     "t": "Globe and Mail",
+     "u": "https://www.theglobeandmail.com/business/article-nvidia-reinstates-jensen-huang-as-ceo/"
+    },
+    {
+     "x": "New US rules now require licences for advanced AI chips sent to data centres in Singapore, Malaysia, Thailand, Indonesia and Brazil, aimed at stopping Chinese firms renting compute offshore.",
+     "t": "CNBC",
+     "u": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
+    }
+   ]
+  },
+  {
+   "id": "auspol",
+   "name": "Aus Politics",
+   "stories": [
+    {
+     "h": "Chalmers warns unemployment will top 5%",
+     "s": {
+      "t": "The Conversation",
+      "u": "https://theconversation.com/chalmers-flags-slowing-growth-warns-australians-things-might-get-a-bit-harder-295660"
+     },
+     "b": "The Treasurer says unemployment is now on track to peak above 5%, worse than the May budget forecast, and growth will run well below 2% for the next two years. He says a recession is not forecast, but warned things might get a bit harder in 2027. The mid year budget update in December will include modest net savings, not what he called slash and burn cuts.",
+     "w": "Rising joblessness with the cash rate at 4.85% is a tough mix for households and for Labor heading into 2027."
+    },
+    {
+     "h": "Unions walk away from Victorian Labor in the final week",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-24/victorian-election-unions-abandon-labor/107367014"
+     },
+     "b": "Some unions are sitting out Saturday's Victorian election while others are telling members not to vote Labor, including the firefighters union, which ran ads urging voters to put Labor last. Experts expect Premier Ben Carroll's government to lose heavily after 12 years in power, with talk that his own seat is at risk and One Nation could hold the balance of power in the upper house.",
+     "w": "Losing the union base is rare for Labor and shows how deep the grievances run against a long serving government."
+    },
+    {
+     "h": "Wong warns US China rivalry is eroding global rules",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-23/wong-sounds-alarm-over-us-china-rivalry/107418278"
+     },
+     "b": "Foreign Minister Penny Wong is using a major speech today to argue that competition between the US and China is making the world more dangerous, with fewer guardrails stopping it tipping into conflict. She will say middle powers like Australia, India, Indonesia, Japan and South Korea are gaining influence and must work together.",
+     "w": "It is a notable shift in tone from Australia's top diplomat, coming days after the Trump, Xi and Putin meeting in Shenzhen."
+    },
+    {
+     "h": "Gas reservation bill still short of votes despite WA carve out",
+     "s": {
+      "t": "AAP via Queanbeyan Age",
+      "u": "https://www.queanbeyanage.com.au/story/9391961/coalition-marks-turf-on-gas-reserves-as-deadline-looms/"
+     },
+     "b": "Labor wants a vote this week on a scheme forcing gas exporters to set aside up to 20% of output for the local market. It has exempted Western Australia to win over the Coalition, but Nationals senator Matt Canavan says the opposition still is not ready to back it, and the Greens want a 25% export tax instead. Ai Group and the ACTU are among groups urging parliament to pass it.",
+     "w": "The outcome will affect gas prices for manufacturers and households on the east coast."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The shadow treasurer has pledged a speed limit on government spending growth if the Coalition wins power.",
+     "t": "ABC News",
+     "u": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266"
+    }
+   ]
+  },
+  {
+   "id": "ausbiz",
+   "name": "Aus Business",
+   "stories": [
+    {
+     "h": "ASX tipped to snap its losing run after Wall Street roars back",
+     "s": {
+      "t": "ABC News",
+      "u": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524"
+     },
+     "b": "ASX 200 futures were up about 1.5% this morning after Wall Street's best day since April 2025: the Dow rose 1,448 points, the S&P 500 gained 4.73% and the Nasdaq jumped 6.51%, led by Nvidia. On Monday the local market fell for an eighth straight day, closing 0.26% lower at 8,570.6, with banks the biggest drag and miners rebounding.",
+     "w": "Super funds are heavily exposed to both US tech and local shares, so a rebound after the worst week since 2022 matters for most Australians' retirement savings."
+    },
+    {
+     "h": "Private sector shrinks at the fastest pace in five years",
+     "s": {
+      "t": "investingLive",
+      "u": "https://investinglive.com/news/australia-flash-pmi-sinks-to-46-1-as-private-sector-shrinks-at-fastest-pace-in-5-years/"
+     },
+     "b": "S&P Global's flash composite PMI for November fell to 46.1 from 48.2, its lowest reading since August 2021. Services dropped to 46.2 and manufacturing slipped to 48.7, new orders fell at the steepest pace since 2021, and business confidence hit a three year low. Cost pressures eased but are still above long run averages.",
+     "w": "It backs Chalmers' gloomier forecasts and gives the RBA a reason to pause after two straight rate rises."
+    },
+    {
+     "h": "ALS posts a record profit but shares dive 12%",
+     "s": {
+      "t": "Investing.com",
+      "u": "https://ca.investing.com/news/stock-market-news/als-h1-fy27-slides-minerals-margin-hits-decade-high-stock-falls-12-93CH-4974588"
+     },
+     "b": "Testing company ALS lifted underlying half year profit 23.6% to $214.6 million, a record, helped by minerals margins at a decade high. But revenue in its life sciences arm fell 6.6% and it cut that division's full year growth outlook to about 3%, sending shares down about 12% to around $16.94 on Monday.",
+     "w": "It shows how harshly this market punishes any downgrade, even alongside record results."
+    }
+   ],
+   "quick": [
+    {
+     "x": "The ABS releases October's monthly CPI at 11:30am Wednesday, the last big data point before the RBA meets on 7 and 8 December.",
+     "t": "ABS",
+     "u": "https://www.abs.gov.au/release-calendar/future-releases/202611"
+    },
+    {
+     "x": "CommBank says a December rate pause is increasingly likely after November's split board vote.",
+     "t": "CommBank",
+     "u": "https://www.commbank.com.au/articles/newsroom/2026/11/rba-rate-pause-split-vote-december-2026.html"
+    },
+    {
+     "x": "The ACCC has cleared Ingenia's takeover of Peet, with a window for tribunal review closing on 27 November.",
+     "t": "Kalkine",
+     "u": "https://kalkine.com.au/news/real-estate/peet-limited-asx-ppc-receives-favourable-accc-determination-advances-toward-ingenia-communities-scheme-vote"
+    }
+   ]
+  }
+ ],
+ "explainer": {
+  "term": "Purchasing managers' index (PMI)",
+  "body": "A PMI is a monthly survey asking purchasing managers at hundreds of businesses whether things like output, new orders, jobs and prices went up, down or stayed the same. The answers are boiled down into one number where 50 is the dividing line. Above 50 means activity is growing, below 50 means it is shrinking, and the further from 50 the faster the change. Because it comes out weeks before official data like GDP, economists and the RBA watch it as an early warning signal. A 'flash' PMI is an early estimate based on most of the survey responses, with final figures a week or so later."
+ },
+ "ahead": [
+  {
+   "d": "Tue 24 Nov",
+   "e": "Penny Wong delivers a major foreign policy speech on US China rivalry."
+  },
+  {
+   "d": "Wed 25 Nov",
+   "e": "ABS releases the October monthly CPI at 11:30am."
+  },
+  {
+   "d": "Thu 26 Nov",
+   "e": "Last sitting day of federal parliament for 2026, with the gas reservation and digital duty of care bills still in play."
+  },
+  {
+   "d": "Fri 27 Nov",
+   "e": "US markets closed for Thanksgiving overnight, so expect a quieter lead for the ASX."
+  },
+  {
+   "d": "Sat 28 Nov",
+   "e": "Victorian state election day."
+  },
+  {
+   "d": "Wed 2 Dec",
+   "e": "ABS releases September quarter GDP."
+  },
+  {
+   "d": "Fri 4 Dec",
+   "e": "Jensen Huang testifies at an open US Senate Banking Committee hearing (Thu 3 Dec US time)."
+  }
+ ]
+}
