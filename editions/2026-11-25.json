@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-25",
+  "edition": "Wednesday 25 November 2026",
+  "lede": [
+    "Solomon Islands has told Beijing it will not renew its 2022 security pact with China, and its prime minister Matthew Wale meets Anthony Albanese in Canberra today to lock in a new treaty with Australia.",
+    "Labor has struck a deal with the Greens to pass its digital duty of care law this week, with fines for tech platforms of up to 5% of global revenue.",
+    "The Nvidia comeback rally has already cooled, with its shares down almost 6% and Anthropic slipping below its IPO price, so the ASX is tipped to give back some of Tuesday's 1.8% jump."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "After a 6 to 3 vote to hike on 3 Nov; next move watched after today's CPI (as at 25 Nov)"
+    },
+    {
+      "label": "ASX 200",
+      "value": "8,726.4",
+      "note": "Up 1.82% on Tue 24 Nov, snapping an eight session losing streak"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "66.23 US cents",
+      "note": "Down 0.1% on Tue 24 Nov"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$88.96",
+      "note": "Slid below US$90, down more than 3.5% on Tue 24 Nov"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Qatar tries to restart US Iran talks as Hormuz squeeze tightens",
+          "s": {
+            "t": "Euronews",
+            "u": "https://www.euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks"
+          },
+          "b": "Qatar's prime minister met Marco Rubio and JD Vance separately in Washington, saying the region cannot handle another round of US Iran escalation. On the same day Iran's army chief ordered the navy to close the Strait of Hormuz further day by day until Washington meets Tehran's conditions. Iran's Revolutionary Guard claimed three tankers hit mines, which a maritime monitor said was unconfirmed.",
+          "w": "About a fifth of the world's oil normally moves through Hormuz, so any tightening flows straight into Australian petrol prices and inflation."
+        },
+        {
+          "h": "EU unveils a 22nd sanctions package on Russia, including a sports ban",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal"
+          },
+          "b": "The European Commission wants to cut about 60 more Russian banks off the SWIFT payments system and blacklist more than 70 extra shadow fleet tankers. It would also ban Russian teams and athletes competing under their flag at EU events, and for the first time target electricity companies. All 27 member states must sign off before it takes effect.",
+          "w": "Sanctions are Europe's main lever on Russia's war funding, and unanimity rules mean one holdout country can water them down."
+        },
+        {
+          "h": "Israeli strike kills Hamas internal security chief despite Gaza truce",
+          "s": {
+            "t": "Euronews",
+            "u": "https://euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp"
+          },
+          "b": "Israeli airstrikes killed seven people in Gaza on Tuesday, including the head of Hamas's internal security service. Two police officers died when a police station in the Al Mawasi area of southern Gaza was hit. The strikes came despite a ceasefire in place since October 2025.",
+          "w": "Repeated strikes test how durable the Gaza truce really is, which matters for regional stability and aid access."
+        },
+        {
+          "h": "Trump administration readies new tariffs to replace those the Supreme Court struck down",
+          "s": {
+            "t": "US News (Reuters)",
+            "u": "https://www.usnews.com/news/top-news/articles/2026-11-24/trump-administration-set-to-unveil-new-tariffs-after-probe-on-excess-factory-capacity-sources-say"
+          },
+          "b": "The US Trade Representative is set to announce tariffs on 16 economies after a probe into excess factory capacity, using a different legal power after the Supreme Court ruled in February that emergency powers law could not be used to set tariffs. Officials have signalled rates would largely mirror the 2025 tariffs, with caps from existing trade deals such as 15% for the EU and Japan. Australia is not among the 16 economies named in the probe.",
+          "w": "A fresh tariff round can hit global growth and demand for Australian commodities even when Australia is not directly targeted."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The European Parliament is debating how to restore the rule of law in Hungary after Viktor Orbán's 16 years in power.",
+          "t": "Euronews",
+          "u": "https://www.euronews.com/2026/11/24/europe-today-eu-commission-proposes-new-round-of-sanctions-against-russia"
+        },
+        {
+          "x": "Zelenskyy said support at a NATO parliamentary assembly meeting showed Ukraine deserves a place in the alliance, while the Kremlin declined to comment on talk of a Donbas for NATO trade.",
+          "t": "Yahoo News",
+          "u": "https://www.yahoo.com/news/world/articles/russia-preparing-strikes-ukraine-zelenskyy-185000079.html"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "Nvidia gives back almost 6% as the Huang comeback rally cools",
+          "s": {
+            "t": "CNBC",
+            "u": "https://www.cnbc.com/2026/11/24/nvidia-stock-jensen-huang-return.html"
+          },
+          "b": "Nvidia shares fell 5.86% on Tuesday after Monday's roughly 31% surge on Jensen Huang's return as CEO. Senator Elizabeth Warren says the company still owes Congress answers on export control compliance. Huang will be the sole witness at a public Senate Banking Committee hearing on export controls on 3 December, US time.",
+          "w": "Nvidia is the bellwether for the whole AI trade, so its swings ripple into tech, energy and miner shares on the ASX."
+        },
+        {
+          "h": "Anthropic shares slip below their IPO price",
+          "s": {
+            "t": "TechCrunch",
+            "u": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/"
+          },
+          "b": "Anthropic stock traded as low as US$76 by midday Tuesday, below its US$83 listing price and nearly 12% down on Monday's close. The company raised about US$81.3 billion in the largest IPO on record, which began trading on Nasdaq on 19 November. A stock falling under its float price is often read as a sign investors are cooling on a sector.",
+          "w": "How AI listings trade is a live test of whether investors still back the huge sums being spent on AI, which also drives demand for Australian data centres and power."
+        },
+        {
+          "h": "Labor and Greens strike a deal on the digital duty of care law",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-24/federal-politics-labor-makes-deal-greens-on-digital-duty-of-care/107420982"
+          },
+          "b": "The government will pass its digital duty of care bill with Greens support, requiring tech giants to consider harms such as addictive doomscrolling. Under the deal, maximum penalties rise to 5% of a platform's global revenue, up from a A$109.2 million cap in Labor's original bill. The Coalition opposes it, and the Senate is expected to vote today before the House finishes it off on Thursday.",
+          "w": "It would be one of the world's toughest platform safety laws and the first Australian online safety law passed without bipartisan support."
+        }
+      ],
+      "quick": [
+        {
+          "x": "An unclassified CIA computer system was breached in a cyberattack, with no classified information involved, according to an AP source.",
+          "t": "AP via KARK",
+          "u": "https://www.kark.com/news/national-news/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/"
+        },
+        {
+          "x": "Jensen Huang apologised to Nvidia employees after his return, as the stock retreated from its record one day gain.",
+          "t": "Yahoo Finance",
+          "u": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Solomon Islands drops its China security pact in a big win for Canberra",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-24/china-solomon-islands-security-pact-australia/107421976"
+          },
+          "b": "Prime Minister Matthew Wale's government has told Beijing it will not renew the 2022 security agreement when it expires in April. The pact let Solomon Islands call on Chinese police and military and allowed Chinese naval stopovers. Opposition leader Manasseh Sogavare, who signed the deal, warned the move could damage ties with China.",
+          "w": "The 2022 pact was seen in Canberra as a major strategic setback, raising fears of a Chinese military foothold about 2,000km from Australia."
+        },
+        {
+          "h": "Albanese and Wale to finalise a security treaty in Canberra today",
+          "s": {
+            "t": "AAP",
+            "u": "https://aapnews.aap.com.au/news/australia-readies-for-absolutely-massive-pacific-win"
+          },
+          "b": "The two leaders are expected to seal a treaty making Australia the Solomons' main security partner, building on a 2017 agreement. The ABC reports Australia will provide almost A$1 billion in funding. It follows similar deals with Fiji and Vanuatu earlier this year.",
+          "w": "Treaties like this are Australia's main tool to compete with China for influence in the Pacific."
+        },
+        {
+          "h": "Coalition hands leaders power to close a gas reservation deal",
+          "s": {
+            "t": "ABC",
+            "u": "https://abc.net.au/news/2026-11-24/federal-politics-live-blog-parliament-nov-24/107417818"
+          },
+          "b": "The Coalition party room authorised its leadership to finalise a deal with Labor on the gas reservation bill without another vote. The bill would make LNG exporters set aside up to 20% of exports for local buyers from 2028. Resources Minister Madeleine King has rejected a carve out for Western Australia, and talks were continuing with no guarantee of a deal.",
+          "w": "With parliament rising Thursday, this decides whether the biggest change to east coast gas policy in years happens in 2026."
+        },
+        {
+          "h": "Victorian Labor braces for defeat with three days to go",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-21/victorian-election-final-week/107412434"
+          },
+          "b": "Political experts say Labor is heading for a historic loss on Saturday, ending 12 years in government. A RedBridge poll for the AFR had the Coalition on 33% of the primary vote, One Nation on 23% and Labor on 22%. Premier Ben Carroll is campaigning close to Melbourne while Opposition Leader Jess Wilson targets Labor seats in the west.",
+          "w": "A big Labor loss and a strong One Nation vote in Victoria would be read as a warning for federal Labor too."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The latest Newspoll has Labor and One Nation tied on 27% of the primary vote with the Coalition on 22%, and Angus Taylor leading Albanese as preferred PM for the first time.",
+          "t": "The Poll Bludger",
+          "u": "https://www.pollbludger.net/2026/11/22/newspoll-labor-27-one-nation-27-coalition-22-open-thread/"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "ASX snaps an eight day losing streak with a 1.8% jump",
+          "s": {
+            "t": "ShareTrader",
+            "u": "https://sharetrader.com.au/news/2026-11-24-asx-200-rebounds-after-jensen-huangs-return-to-nvidia-sparks-wall-street-rally"
+          },
+          "b": "The ASX 200 rose 155.8 points, or 1.82%, to 8,726.4 on Tuesday as Nvidia's rebound lifted global markets. Ten of 11 sectors gained, led by tech up almost 3%, while energy lagged as oil fell. The market had dropped 5.4% last week, its worst week since 2022.",
+          "w": "Super balances are heavily exposed to the ASX, so the sharp swings this month show up directly in members' statements."
+        },
+        {
+          "h": "ASX tipped to slip as the AI selloff resumes on Wall Street",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-25/asx-markets-business-live-news/107423208"
+          },
+          "b": "Wall Street's rebound stalled overnight, with the Nasdaq down about 2% in early trade as AI stocks were sold again. Futures pointed to a 0.2% fall for the ASX at the open, which would be its eighth loss in nine sessions. The local hit should be smaller because the ASX has few big tech stocks.",
+          "w": "It suggests Monday's rally was relief rather than a turning point for AI valuations."
+        },
+        {
+          "h": "AustralianSuper backs Brookfield's takeover of Reliance Worldwide",
+          "s": {
+            "t": "Yahoo Finance",
+            "u": "https://au.finance.yahoo.com/news/reliance-worldwide-jumps-12-australiansuper-002300902.html"
+          },
+          "b": "AustralianSuper, which owns about 18.5% of the plumbing parts maker, will vote for the Brookfield buyout at the 2 December scheme meeting unless a better offer appears. Foreign Investment Review Board approval has also come through, clearing the last regulatory hurdle. Shares jumped about 12% to their highest since March 2025.",
+          "w": "When the biggest holder backs a scheme, it is very likely to pass, another ASX name heading into private equity hands."
+        },
+        {
+          "h": "October inflation lands today with rates at an 18 year high",
+          "s": {
+            "t": "SBS",
+            "u": "https://www.sbs.com.au/news/live-blog/rba-november-2026-interest-rates-decision-live/f6csn2n1w"
+          },
+          "b": "The ABS releases monthly CPI figures for October at 11:30am. The RBA lifted the cash rate to 4.85% on Melbourne Cup day, its fifth hike this year, in a split 6 to 3 vote. Jim Chalmers warned this week that unemployment will peak above 5%.",
+          "w": "A hot number would keep pressure on the RBA to hike again in February despite a weakening economy."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Steadfast has pushed back completion of its A$7.7 billion takeover to January because ACCC and FIRB approvals are lagging, though the shareholder vote stays on 27 November.",
+          "t": "Reinsurance News Asia",
+          "u": "https://reinasia.com/steadfast-pushes-takeover-completion-to-january-as-accc-firb-approvals-lag/"
+        },
+        {
+          "x": "Brent crude fell below US$90 a barrel on Tuesday, down more than 3.5%, while the Aussie dollar eased to 66.23 US cents.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Duty of care",
+    "body": "A duty of care is a legal obligation to take reasonable steps to avoid causing foreseeable harm to others. It is an old idea from negligence law, which is why your employer must keep your workplace safe. Australia's new digital version applies the same thinking to tech platforms, so instead of just removing bad posts after the fact, they must design their services to reduce risks like addictive feeds. If they fail, a regulator can fine them, and under the Greens deal people may also be able to sue."
+  },
+  "ahead": [
+    {
+      "d": "Wed 25 Nov",
+      "e": "ABS releases the October monthly CPI at 11:30am; Solomon Islands PM Matthew Wale meets Albanese in Canberra."
+    },
+    {
+      "d": "Thu 26 Nov",
+      "e": "Last sitting day of federal parliament for 2026, with the digital duty of care and gas reservation bills in play."
+    },
+    {
+      "d": "Fri 27 Nov",
+      "e": "Steadfast shareholders vote on its A$7.7 billion takeover; US markets closed overnight for Thanksgiving."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election day."
+    },
+    {
+      "d": "Wed 2 Dec",
+      "e": "ABS releases September quarter GDP; Reliance Worldwide shareholders vote on the Brookfield takeover."
+    },
+    {
+      "d": "Fri 4 Dec",
+      "e": "Jensen Huang testifies at a US Senate Banking Committee hearing on export controls (Thu 3 Dec US time)."
+    }
+  ]
+}
