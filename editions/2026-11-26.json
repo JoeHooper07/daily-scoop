@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-26",
+  "edition": "Thursday 26 November 2026",
+  "lede": [
+    "Inflation jumped to 4.9% in the year to October, well above forecasts, but the big four banks still expect the RBA to sit tight in December.",
+    "Anthony Albanese and Matthew Wale signed a treaty in Canberra making Australia the Solomon Islands' main security partner and ruling out foreign military bases there.",
+    "Washington proposed new tariffs of up to 35% on 14 economies, with Australia not on the list, while oil jumped 3.5% as Iran hardened its stance on Hormuz."
+  ],
+  "numbers": [
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "Banks tip a hold at the December meeting despite hot October CPI (as at 26 Nov)"
+    },
+    {
+      "label": "Annual CPI",
+      "value": "4.9%",
+      "note": "Year to October, up from 4.3%; trimmed mean 3.8% (released 25 Nov)"
+    },
+    {
+      "label": "ASX 200",
+      "value": "8,692.4",
+      "note": "Down 0.39% on Wed 25 Nov; AUD eased to about 65.90 US cents"
+    },
+    {
+      "label": "Brent crude",
+      "value": "US$94.61",
+      "note": "Up 3.5% at Wed 25 Nov settle on Hormuz tensions"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "US proposes new tariffs of up to 35% on 14 economies",
+          "s": {
+            "t": "USTR",
+            "u": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+          },
+          "b": "The US Trade Representative released findings from its probe into factory overcapacity and proposed tariffs on 14 economies including China, the EU, Japan, India and Vietnam. Reported rates run up to 35%, with an extra 20% on China and a 15% cap for the EU and Japan under existing deals. This is a proposal only: hearings are set for late January, and probes into Norway and Mexico are still open.",
+          "w": "These tariffs would replace the ones the Supreme Court struck down in February. Australia is not targeted, but slower trade among its biggest customers would still hit demand for our exports."
+        },
+        {
+          "h": "Iran rules out talks with the US until seven conditions are met",
+          "s": {
+            "t": "Gulf News",
+            "u": "https://gulfnews.com/world/mena/middle-east-conflict-us-investigates-iran-over-cyberattacks-on-50-ships-as-fresh-sanctions-target-irans-shadow-banking-network-1.500758688"
+          },
+          "b": "Iran's chief negotiator, parliament speaker Mohammad Bagher Ghalibaf, says there will be no talks with Washington until seven Iranian conditions are met. Tehran also warned ships against using unauthorised routes through the Strait of Hormuz after reports of three vessels hitting mines and catching fire. Qatar insists both sides are still engaging through its mediation.",
+          "w": "With Hormuz squeezed, oil prices keep swinging, and that feeds straight into Australian petrol prices and the inflation figures the RBA watches."
+        },
+        {
+          "h": "Spain votes on Sunday with the right tipped to win",
+          "s": {
+            "t": "Chatham House",
+            "u": "https://www.chathamhouse.org/2026/11/spains-election-could-see-europes-far-right-firewall-begin-fall-apart"
+          },
+          "b": "Spaniards head to a snap national election on 29 November, called by Socialist prime minister Pedro Sánchez. Most independent polls have the conservative People's Party well ahead but needing the hard right Vox party to govern, with the two together projected at roughly 183 to 194 of 350 seats. Only the state run CIS pollster has Sánchez in front.",
+          "w": "A People's Party and Vox government would weaken the so called firewall that has kept the far right out of power in big EU countries."
+        },
+        {
+          "h": "Ukraine defends deadly strikes on Russian ships in Libya",
+          "s": {
+            "t": "ABC",
+            "u": "https://abc.net.au/news/2026-11-25/ukraine-defends-attack-on-russian-ships-in-libya/107427720"
+          },
+          "b": "Ukraine says a Russian cargo ship it hit at a naval base in Benghazi was carrying weapons, after the strikes killed two Libyans. Kyiv says it is acting in self defence. Back home, both sides traded overnight drone strikes on energy sites, with Russian attacks causing blackouts in five Ukrainian regions.",
+          "w": "Ukraine taking the fight to Russian supply lines in Africa shows how far the war has spread, even as stalled peace talks continue."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Gaza's health ministry declared a meningitis epidemic alert after October cases hit 272, more than five times the usual rate, as Israeli strikes killed seven people.",
+          "t": "Al Jazeera",
+          "u": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+        },
+        {
+          "x": "Brent crude rose 3.5% to settle at US$94.61 a barrel on Wednesday, having swung between US$72 and US$114 since the US and Israel struck Iran in February.",
+          "t": "BNN Bloomberg",
+          "u": "https://bnnbloomberg.ca/markets/2026/11/25/ai-rout-continues-as-market-exuberance-fades-over-improbable-return-of-nvidias-huang"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "Schumer accuses Nvidia's Huang of breaking US export law",
+          "s": {
+            "t": "HuffPost",
+            "u": "https://www.huffpost.com/entry/schumer-accuses-nvidia-ceo-violating-us-export-control-law_n_6b05f9ade4b03d22835f516f"
+          },
+          "b": "Senate Democratic leader Chuck Schumer says Jensen Huang shipped advanced chips to China in breach of export controls, a day after Nvidia's board reinstated him as CEO. No charges have been laid. Huang faces a closed door briefing with three House committees on 1 December and a public Senate Banking hearing on 3 December, US time.",
+          "w": "If Congress tightens chip export rules, Nvidia's China sales shrink, and that hits the AI trade that drives a big chunk of global share markets."
+        },
+        {
+          "h": "Nvidia slides another 3.9% as hot US inflation weighs on tech",
+          "s": {
+            "t": "Motley Fool",
+            "u": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+          },
+          "b": "Nvidia fell 3.9% to US$149.30 on Wednesday, giving back much of Monday's surge on Huang's return. The Nasdaq lost 0.6% and the S&P 500 0.25%, though the Dow recovered to close up 0.3%. Investors were rattled by hotter US inflation data and the new tariff plans.",
+          "w": "Tech led the ASX lower on Wednesday too, so expect Wall Street's AI mood to keep setting the tone here."
+        },
+        {
+          "h": "TSMC halts some advanced chip orders from Chinese clients",
+          "s": {
+            "t": "TrendForce",
+            "u": "https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/"
+          },
+          "b": "A new US rule that took effect on 19 November stops chipmakers relying on their own checks of whether Chinese designs fall under export controls. TSMC has reportedly told affected Chinese designers to stop orders at 16 nanometres and below unless they hold US licences, pushing them back to older technology. Samsung has reportedly done the same, and phone chips for brands like Xiaomi and Oppo may be caught up.",
+          "w": "It shows Washington squeezing China's access to cutting edge chips through manufacturers, not just through chip sellers like Nvidia."
+        },
+        {
+          "h": "ASIO chief warns data centres and AI open new doors to foreign interference",
+          "s": {
+            "t": "Bloomberg",
+            "u": "https://www.bloomberg.com/news/articles/2026-11-22/australia-spy-chief-warns-of-data-center-ai-risks-age-reports"
+          },
+          "b": "ASIO boss Mike Burgess has warned that the boom in data centres and AI could expose Australia to foreign interference, including through covert ownership of data centres. Deputy Prime Minister Richard Marles called the build out a new route for foreign actors. The government is moving to make AI a bigger national security priority.",
+          "w": "Australia is chasing billions in data centre investment, so how tightly security agencies vet owners will shape who gets to build them."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The Australian Computer Society wants a review of sovereign risk in Australian IT and tighter accountability for critical AI systems.",
+          "t": "Aus Cyber Security Magazine",
+          "u": "https://australiancybersecuritymagazine.com.au/acs-urges-sovereign-risk-review-ahead-of-wong-ai-security-speech/"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Australia and Solomon Islands sign their new security treaty",
+          "s": {
+            "t": "PM's office",
+            "u": "https://www.pm.gov.au/media/signing-australia-solomon-islands-treaty"
+          },
+          "b": "Anthony Albanese and Solomon Islands PM Matthew Wale signed the treaty at Parliament House on Wednesday. It names Australia as the main security partner, rules out any foreign military base in Solomon Islands and requires consultation on critical infrastructure and security ties with countries outside the Pacific Islands Forum. Solomon Islanders also get easier visas and more work opportunities in Australia.",
+          "w": "It follows similar deals with PNG, Vanuatu and Fiji and is the clearest sign yet of China's security push in the Pacific being rolled back."
+        },
+        {
+          "h": "Digital duty of care law passes Parliament",
+          "s": {
+            "t": "News24",
+            "u": "https://www.news24.com.au/politics/australian-politics/gross-overreach-digital-duty-of-care-passes-despite-final-ditch-effort-from-coalition/news-story/2a4068aa38981f9fa651aa3daefee0c2?nk=110b5e7b9ee2f4f574ef0e4bcb8a0765-1795642494"
+          },
+          "b": "With Greens support, Labor's bill cleared the Senate with amendments on Wednesday and went back to the lower house to be finalised. It forces big platforms to take reasonable steps to prevent foreseeable harm to users. The Coalition called it gross overreach and made a last ditch attempt to stop it.",
+          "w": "Australia now has some of the world's toughest online safety rules, which will test how far global tech firms change products for one market."
+        },
+        {
+          "h": "Greens back Labor's trust tax in exchange for a hit on private jets",
+          "s": {
+            "t": "SBS",
+            "u": "https://www.sbs.com.au/news/article/higher-taxes-on-trusts-to-pass-with-support-of-greens/pk26bubm7"
+          },
+          "b": "The deal locks in a 30% minimum tax on discretionary trust income from 2029 to 2030, raising an estimated $4.5 billion in its first year. Some private jet owners will pay more, while the Greens dropped a demand to tax trust payments to private schools, sports clubs and churches in return for more funding for the ATO and charities regulator. Opposition leader Angus Taylor called it a dirty deal, and business groups said it hurts small business.",
+          "w": "Trusts are widely used by family businesses and wealthy households to split income, so this is one of Labor's biggest tax changes."
+        },
+        {
+          "h": "Final Victorian poll has Labor third on 20% two days out",
+          "s": {
+            "t": "Poll Bludger",
+            "u": "https://www.pollbludger.net/2026/11/25/resolve-strategic-labor-20-coalition-31-one-nation-25-in-victoria/"
+          },
+          "b": "The last Resolve poll for The Age has the Coalition on 31%, One Nation 25%, Labor 20% and the Greens 13%. Labor fell two points in a fortnight while One Nation rose two. Liberal leader Jess Wilson is well ahead of Premier Ben Carroll as preferred premier.",
+          "w": "A Labor wipeout in its strongest state would be a warning sign for the Albanese government heading into 2027."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The gas reservation bill, which would make LNG exporters hold back up to 20% of exports for local use from 2028, still needs Coalition or Greens votes on Parliament's last sitting day of the year.",
+          "t": "PS News",
+          "u": "https://psnews.com.au/all-eyes-on-senate-this-week-over-gas-reservation-scheme/188729/"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "Inflation jumps to 4.9%, its highest since 2023",
+          "s": {
+            "t": "ABS",
+            "u": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-49-year-october-2026"
+          },
+          "b": "Prices rose 4.9% in the year to October, up from 4.3% and above the 4.7% economists expected. Electricity is up 25.2% over the year because last year's federal rebates have ended, while fuel rose 6.3% in October alone on higher world oil prices. The trimmed mean, the RBA's preferred underlying measure, climbed to 3.8% from 3.6%.",
+          "w": "Underlying inflation is still heading the wrong way, which keeps pressure on mortgage holders and on the RBA."
+        },
+        {
+          "h": "Big banks still tip an RBA hold in December",
+          "s": {
+            "t": "Aussie",
+            "u": "https://www.aussie.com.au/insights/news/expert-predictions-rba-rates/"
+          },
+          "b": "ANZ, Westpac and CBA all expect the cash rate to stay at 4.85% next month after back to back hikes. Westpac thinks the hiking phase is over, while ANZ and CBA see more risk of another rise. CBA's Belinda Allen says February is the meeting to watch.",
+          "w": "A rising jobless rate gives the RBA a reason to pause, but another hot inflation print could put a February hike back on the table."
+        },
+        {
+          "h": "ASX slips 0.4% as hot inflation kills rate cut hopes",
+          "s": {
+            "t": "IBTimes",
+            "u": "https://www.ibtimes.com.au/asx-200-falls-australia-inflation-three-year-high-1879318"
+          },
+          "b": "The ASX 200 fell 34 points to 8,692.4 on Wednesday, its ninth loss in ten sessions. Tech stocks led the decline, followed by miners, while healthcare and energy gained. The Aussie dollar eased to about 65.90 US cents.",
+          "w": "Higher for longer interest rates weigh on share valuations, especially growth stocks like tech."
+        },
+        {
+          "h": "Develop Global to mothball its Pioneer Dome lithium mine",
+          "s": {
+            "t": "Grafa",
+            "u": "https://grafa.com/en/news/australia/develop-global-to-pause-pioneer-dome-in-december"
+          },
+          "b": "Develop Global will put its Pioneer Dome lithium mine in Western Australia into care and maintenance in December after a sharp fall in lithium prices. A floor price deal with commodity trader Trafigura, running to 31 December, should let it recover the project's capital costs before it stops. Shares reportedly fell about 11% to $2.43.",
+          "w": "It is another sign of the lithium slump hitting WA miners and regional jobs."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The ACCC cleared Calvary Health Care to buy 14 hospitals nationally, finding no competition concerns and no other interested buyers.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-26/newcastle-hunter-local-news-briefing/107428092"
+        },
+        {
+          "x": "US core PCE inflation, the Fed's preferred gauge, rose to 3.3% in October from 3.1%, above the 3.2% expected.",
+          "t": "Advisor Perspectives",
+          "u": "https://www.advisorperspectives.com/dshort/updates/2026/11/25/inflation-pce-price-index-october-2026"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Base effect",
+    "body": "A base effect happens when an annual inflation number jumps or drops because of what happened a year earlier, not because of anything new this month. Annual inflation compares prices with the same month last year, so if prices were unusually low back then, today's figure looks big. That is why electricity shows a 25.2% annual rise: government rebates cut bills sharply in late 2025, and that cheap month has now dropped out of the comparison. In fact, power prices actually dipped slightly in October itself. Economists look through base effects by checking monthly changes and underlying measures like the trimmed mean."
+  },
+  "ahead": [
+    {
+      "d": "Thu 26 Nov",
+      "e": "Last sitting day of federal Parliament for 2026, with the gas reservation bill still in play."
+    },
+    {
+      "d": "Fri 27 Nov",
+      "e": "Steadfast shareholders vote on the $6 a share takeover; US markets closed overnight for Thanksgiving."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election day."
+    },
+    {
+      "d": "Sun 29 Nov",
+      "e": "Spain holds its snap national election."
+    },
+    {
+      "d": "Wed 2 Dec",
+      "e": "ABS releases September quarter GDP; Reliance Worldwide votes on the Brookfield takeover; Jensen Huang briefs House committees behind closed doors (Tue 1 Dec US time)."
+    },
+    {
+      "d": "Fri 4 Dec",
+      "e": "Jensen Huang testifies at a public Senate Banking hearing on export controls (Thu 3 Dec US time)."
+    }
+  ]
+}
