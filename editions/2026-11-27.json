@@ -1,0 +1,247 @@
+{
+  "date": "2026-11-27",
+  "edition": "Friday 27 November 2026",
+  "lede": [
+    "Parliament has passed Labor's national gas reservation scheme with Coalition votes, forcing the biggest LNG exporters to hold back up to 20% of gas for local buyers from 2028.",
+    "Donald Trump says the Iran war is only funded to about the end of January, as Congress fights over war money ahead of a 11 December shutdown deadline and more tankers hit mines near Hormuz.",
+    "Victorians vote tomorrow with the Coalition's Jess Wilson favoured to end 12 years of Labor government and One Nation chasing upper house power."
+  ],
+  "numbers": [
+    {
+      "label": "ASX 200",
+      "value": "8,763.8",
+      "note": "Up 71.4 points (0.8%) on Thu 26 Nov as gold miners rebounded"
+    },
+    {
+      "label": "RBA cash rate",
+      "value": "4.85%",
+      "note": "Markets price a hold at the 8 Dec meeting (as at 26 Nov)"
+    },
+    {
+      "label": "AUD/USD",
+      "value": "66.42c",
+      "note": "Up 0.3% late on Thu 26 Nov"
+    },
+    {
+      "label": "Labor primary vote",
+      "value": "27%",
+      "note": "Latest Newspoll (15 to 18 Nov), level with One Nation; Coalition 22%"
+    }
+  ],
+  "sections": [
+    {
+      "id": "world",
+      "name": "World",
+      "stories": [
+        {
+          "h": "Trump says Iran war money runs out around the end of January",
+          "s": {
+            "t": "The National",
+            "u": "https://www.thenationalnews.com/news/gulf/2026/11/25/trump-warns-of-war-funding-fight-as-tanker-attacks-raise-hormuz-tension/"
+          },
+          "b": "Donald Trump said the US campaign against Iran is funded through roughly the end of January, and warned that Democrats, who take the House in January, could cut it off. Iran's Revolutionary Guards claimed two more tankers were damaged by mines in the Strait of Hormuz, as Tehran pushes convoys to challenge the US naval blockade of its ports.",
+          "w": "A funding fight in Washington could decide how long the war and the Hormuz disruption last, which feeds straight into Australian petrol prices and inflation."
+        },
+        {
+          "h": "Iran war splits Congress as an 11 December shutdown deadline nears",
+          "s": {
+            "t": "The Hill",
+            "u": "https://thehill.com/homenews/senate/6241266-congress-december-funding-deadline/"
+          },
+          "b": "US government funding runs out on 11 December, and Trump wants about US$350 billion in extra Pentagon money that Democrats oppose. Progressive Democrats want any stopgap bill to cut off war funding, but party leaders are wary of forcing a shutdown. Senate Republican leaders have reportedly signalled openness to a defence deal that leaves out Iran war money.",
+          "w": "It would be the fourth US shutdown since 2025, and Congress is now the main brake on the war."
+        },
+        {
+          "h": "Ukraine says it hit five Russian jets at a base east of Moscow",
+          "s": {
+            "t": "Al Jazeera",
+            "u": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck"
+          },
+          "b": "Ukraine's General Staff says its forces damaged five aircraft, including MiG-31 and Su-34 jets, at the Savasleyka airbase in Russia's Nizhny Novgorod region. The base hosts jets used to fire missiles and drop bombs on Ukraine. Russia had not commented when the claims were reported.",
+          "w": "Ukraine is leaning on long range strikes to blunt Russian air attacks as Moscow prepares another winter push against its power grid."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Spain votes on Sunday with final polls putting Alberto Núñez Feijóo's conservative People's Party ahead of Pedro Sánchez's Socialists, likely needing the far right Vox to govern.",
+          "t": "Euronews",
+          "u": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election"
+        },
+        {
+          "x": "With Democrats about to control the House, analysts are weighing whether Trump can keep the Iran war going if Congress restricts its funding.",
+          "t": "Al Jazeera",
+          "u": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "Tech",
+      "stories": [
+        {
+          "h": "US regulator approves SpaceX plan for a million AI satellites",
+          "s": {
+            "t": "TechCrunch",
+            "u": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/"
+          },
+          "b": "The Federal Communications Commission conditionally approved SpaceX's Starmind constellation of up to one million satellites acting as data centres in orbit. SpaceX must start launching by November 2033 and reach half the fleet by 2038, and its space debris plans for higher orbits are still unapproved. Amazon, Viasat and astronomers opposed the plan.",
+          "w": "It shows how far the hunt for power and space for AI computing is reaching, and raises real questions about crowded orbits and night sky pollution."
+        },
+        {
+          "h": "Canberra quantum security firm QuintessenceLabs set for foreign takeover",
+          "s": {
+            "t": "Defence Connect",
+            "u": "https://www.defenceconnect.com.au/industry/19157-sealsq-corp-announces-letter-of-intent-with-australias-quintessencelabs"
+          },
+          "b": "Swiss linked chipmaker SEALSQ has signed a non binding letter of intent to buy all of QuintessenceLabs, a Canberra company founded in 2008 out of ANU quantum research. The cash and shares deal has 60 days of exclusive talks and targets completion in the first half of 2027, subject to regulatory approval.",
+          "w": "It is a test of whether Australia can keep sovereign capability in quantum and cyber tech, and the deal will likely need FIRB sign off."
+        },
+        {
+          "h": "Broker Bell Financial says client data was likely accessed in a cyber attack",
+          "s": {
+            "t": "iTnews",
+            "u": "https://www.itnews.com.au/news/australias-bell-financial-says-some-client-data-likely-accessed-630479"
+          },
+          "b": "ASX listed stockbroker Bell Financial Group says hackers got into a limited number of its IT systems and probably accessed some client data. It says the breach is contained, client assets are safe and it has told the Australian Cyber Security Centre, the AFP and the privacy regulator.",
+          "w": "Financial firms hold exactly the data scammers want, and breaches like this keep pressure on companies to meet tougher cyber rules."
+        },
+        {
+          "h": "OpenAI merges ChatGPT and Codex limits and trials private prompts",
+          "s": {
+            "t": "The Neuron",
+            "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+          },
+          "b": "OpenAI is moving ChatGPT and its Codex coding tool onto a single usage meter. It has also started testing Private Inference, which lets business customers run prompts through its models without OpenAI being able to read them.",
+          "w": "Privacy is now a selling point as OpenAI fights Anthropic and Google for business customers."
+        }
+      ],
+      "quick": [
+        {
+          "x": "New York has banned AI chatbot toys for five years, with fines of up to US$15,000 a day.",
+          "t": "The Neuron",
+          "u": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/"
+        }
+      ]
+    },
+    {
+      "id": "auspol",
+      "name": "Aus Politics",
+      "stories": [
+        {
+          "h": "Gas reservation scheme passes with Coalition support",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-26/gas-reservation-scheme-set-to-pass-parliament/107430804"
+          },
+          "b": "The Senate passed Labor's gas reservation scheme on Thursday night, requiring the largest exporters to set aside up to 20% of their gas for the local market from 2028. The Coalition backed it after winning a permanent exemption for Western Australia, which has its own scheme, and a review of its effect on investment after five years. The Greens' push for a 25% export tax failed, and the House was set to rubber stamp the changes in an early sitting.",
+          "w": "Manufacturers and households on the east coast should get more secure gas supply, though producers warn it could deter new investment."
+        },
+        {
+          "h": "Inflation shock caps a tough year for Albanese",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-26/inflation-numbers-ruin-governments-good-week/107424930"
+          },
+          "b": "The government notched wins in the final sitting fortnight, including the Solomon Islands treaty and the digital duty of care law, but 4.9% inflation overshadowed them. Labor's primary vote has fallen from 36% a year ago to 27% in Newspoll, and Albanese's approval is at a record low.",
+          "w": "Parliament now breaks until February, so the cost of living story will dominate the summer."
+        },
+        {
+          "h": "Victorians vote tomorrow with the Coalition favoured",
+          "s": {
+            "t": "Border Mail",
+            "u": "https://www.bordermail.com.au/story/9399158/final-pitches-to-voters-as-one-nation-lean-on-hanson/"
+          },
+          "b": "Leaders made their final pitches on Thursday, with One Nation leaning on Pauline Hanson to boost its campaign. Polls have Jess Wilson's Coalition clearly ahead and Labor's primary vote around 20% to 23%, while Wilson has dodged questions about relying on One Nation support to govern.",
+          "w": "A Wilson win would make her the first woman elected Victorian premier and the result will be read as a warning for federal Labor."
+        }
+      ],
+      "quick": [
+        {
+          "x": "The Senate passed the Cheaper Medicines bill, freezing the general PBS script price at $25 until the end of 2029 at a cost of about $242 million.",
+          "t": "ABC",
+          "u": "https://www.abc.net.au/news/2026-11-26/federal-politics-live-blog-november-26/107427220"
+        },
+        {
+          "x": "Experts say Labor faces a historic defeat in Victoria, with commentators tipping big seat losses.",
+          "t": "The Conversation",
+          "u": "https://theconversation.com/with-two-weeks-to-go-the-victorian-election-is-the-coalitions-to-lose-296248"
+        }
+      ]
+    },
+    {
+      "id": "ausbiz",
+      "name": "Aus Business",
+      "stories": [
+        {
+          "h": "ASX rebounds 0.8% as gold miners rally",
+          "s": {
+            "t": "Market Index",
+            "u": "https://www.marketindex.com.au/news/evening-wrap-asx-200-slips-despite-us-futures-surge-as-bargain-hunters"
+          },
+          "b": "The ASX 200 rose 71.4 points to 8,763.8 on Thursday as bargain hunters returned to miners after gold and copper recovered overnight losses. Gold stocks jumped about 5%, led by Ora Banda and Catalyst Metals, while defensive sectors like healthcare and consumer staples were sold.",
+          "w": "It claws back Wednesday's inflation driven fall, but with US markets shut for Thanksgiving, today's lead will be thin."
+        },
+        {
+          "h": "Steadfast shareholders vote on $6 a share buyout today",
+          "s": {
+            "t": "InsureWire",
+            "u": "https://insurewire.org/articles/steadfast-shareholder-vote-buyout/"
+          },
+          "b": "Insurance broker Steadfast holds its scheme meeting at 10am Sydney time on the takeover by a consortium of Amwins, Dragoneer and KKR. The board backs the deal and the independent expert valued shares at $5.44 to $6.09. It needs a majority of shareholders voting and 75% of votes cast, and regulatory delays mean completion will probably slip to January.",
+          "w": "It is one of the biggest private equity buyouts on the ASX this year, and another local company leaving the sharemarket."
+        },
+        {
+          "h": "David Jones boss says past bosses dodged tough calls",
+          "s": {
+            "t": "ABC",
+            "u": "https://www.abc.net.au/news/2026-11-26/asx-markets-business-news-live-updates-thursday-26-november/107428134"
+          },
+          "b": "In her first interview since the department store went into administration, CEO Erica Berchtold said previous management lacked the nerve for hard decisions. She blamed online shopping, overseas competition and long leases, warned more jobs could go and expects a buyer in the new year. Administrators have been given three more months before the second creditors' meeting.",
+          "w": "It is a stark sign of the pressure on bricks and mortar retail heading into Christmas."
+        }
+      ],
+      "quick": [
+        {
+          "x": "Markets are pricing a hold at the RBA's 8 December meeting, with the cash rate at 4.85% after November's hike.",
+          "t": "RBA Watch",
+          "u": "https://rbawatch.com.au/next-rba-meeting/"
+        },
+        {
+          "x": "Austral Resources has completed its $80.7 million takeover of Hammer Metals, with the new shares trading from Thursday.",
+          "t": "Australian Mining",
+          "u": "https://www.australianmining.com.au/austral-completes-80-7m-hammer-metals-takeover/"
+        }
+      ]
+    }
+  ],
+  "explainer": {
+    "term": "Scheme of arrangement",
+    "body": "A scheme of arrangement is the most common way to take over an ASX company in a friendly deal. Instead of buying shares one holder at a time, the buyer agrees terms with the board, and shareholders then vote at a court ordered meeting. It passes if a majority of shareholders voting and holders of at least 75% of the votes cast say yes, and a court then approves it. Once approved, it binds everyone, so the buyer gets 100% of the company. That is how Steadfast's buyout is being decided today."
+  },
+  "ahead": [
+    {
+      "d": "Fri 27 Nov",
+      "e": "Steadfast scheme vote at 10am; US markets reopen for a half day after Thanksgiving."
+    },
+    {
+      "d": "Sat 28 Nov",
+      "e": "Victorian state election."
+    },
+    {
+      "d": "Sun 29 Nov",
+      "e": "Spain holds its snap national election."
+    },
+    {
+      "d": "Wed 2 Dec",
+      "e": "ABS releases September quarter GDP; Jensen Huang briefs US House committees (Tue 1 Dec US time)."
+    },
+    {
+      "d": "Fri 4 Dec",
+      "e": "Jensen Huang testifies at a public US Senate hearing on export controls (Thu 3 Dec US time)."
+    },
+    {
+      "d": "Tue 8 Dec",
+      "e": "RBA interest rate decision at 2.30pm, followed by the Governor's media conference."
+    }
+  ]
+}
